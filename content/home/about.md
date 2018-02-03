@@ -29,4 +29,4 @@ weight = 5
 
 # Biography
 
-This is my new home.
+This is my new home. I will **update** this site soon. 
