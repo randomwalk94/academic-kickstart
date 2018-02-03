@@ -17,13 +17,13 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Mathematics"
-  institution = "Pennsylvania State University"
-  year = 2016
+  institution = "Pennsylvania State University, 2016-present"
+  year = ""
 
 [[education.courses]]
   course = "BSc in Mathematics"
-  institution = "University of Texas at San Antonio"
-  year = 2012
+  institution = "University of Texas at San Antonio, 2012-2016"
+  year = ""
  
 +++
 
