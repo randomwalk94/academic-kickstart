@@ -44,5 +44,5 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-This is the first post. Just want to test some $\LaTex$:
+This is the first post. Just want to test some $\LaTeX$:
 \\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
