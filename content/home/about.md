@@ -17,7 +17,7 @@ weight = 5
 # List your qualifications (such as academic degrees).
 [[education.courses]]
   course = "PhD in Mathematics"
-  institution = "Penn State"
+  institution = "Pennsylvania State University"
   year = 2016
 
 [[education.courses]]
