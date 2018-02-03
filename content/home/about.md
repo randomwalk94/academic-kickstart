@@ -18,7 +18,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Mathematics"
   institution = "Penn State"
-  year = In Progress
+  year = 2016
 
 [[education.courses]]
   course = "BSc in Mathematics"
