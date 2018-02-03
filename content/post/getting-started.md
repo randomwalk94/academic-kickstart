@@ -46,7 +46,7 @@ caption = "1950s"
 
 **Academic** is a framework \\(a+b=c\\) to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. [Check out the latest demo](https://themes.gohugo.io/theme/academic/) of what you'll get in less than 10 minutes. Then head on over to the [Quick Start guide](https://sourcethemes.com/academic/docs/) or take a look at the [Release Notes](https://sourcethemes.com/academic/updates/).
 
-\\[a+b=c+\sum \limits_n^{\infty}a_nx^n+1+2+x+3+4+5+6+x^{n^n}+\frac{1}{2}+B_r(0)+\mathbb R+n\\]
+\\[a+b=c+\sum \limits_n^{\infty}a_nx^n+1+2+x+3+4+5+6+x+3+4+5+6+x^{n^n}+\frac{1}{2}+B_r(0)+\mathbb R+n\\]
 
 [![Screenshot](https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png)](https://github.com/gcushen/hugo-academic/)
 
