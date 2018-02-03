@@ -247,16 +247,16 @@ defaultContentLanguageInSubdir = false
   name = "Home"
   url = "#about"
   weight = 1
-
-[[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 3
-
+  
 [[menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 2
+  
+[[menu.main]]
+  name = "Publications"
+  url = "#publications_selected"
+  weight = 3
 
 [[menu.main]]
   name = "Projects"
