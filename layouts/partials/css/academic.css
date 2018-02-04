@@ -1500,6 +1500,7 @@ body.dark {
   border: 1px solid #ddd;
 }
 
+.pagination {z-index:999;}
 .pagination > li > a,
 .pagination > li > span {
     color: #0095EB; // use your own color here
@@ -1508,6 +1509,7 @@ body.dark {
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
   background-color: #0095EB  ; //background color of buttons. Blue by default
   border-color: #ddd ; // color or borders. Also blue by default
+  color: #0095EB; 
   cursor:pointer;
   z-index:-2;
 }
