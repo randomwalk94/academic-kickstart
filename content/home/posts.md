@@ -23,6 +23,6 @@ count = 5
 +++
 
 <a href="/post/">
-        More Posts
+        All Posts
         <i class="fa fa-angle-double-right"></i>
 </a>
