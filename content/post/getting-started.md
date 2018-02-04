@@ -47,8 +47,8 @@ caption = "1950s"
 This is the first post. Just want to test some $\LaTeX$:
 \\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
 
-My name is Hai Le \\(a^2+b^2=c^2\\).
-Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=M$ for some $x_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S_M=\Omega$.
+My name is Hai Viet Le \\(a^2+b^2=c^2\\).
+Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$.
 
 {{% toc %}}
 
