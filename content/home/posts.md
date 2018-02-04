@@ -21,8 +21,3 @@ tags_exclude = []
 count = 5
 
 +++
-
-<a href="/post/">
-        All Posts
-        <i class="fa fa-angle-double-right"></i>
-</a>
