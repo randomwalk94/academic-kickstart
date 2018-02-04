@@ -43,7 +43,7 @@ album = "1"
 image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/theme-1950s.png"
 caption = "1950s"
 +++
-{{% toc %}}
+
 
 This is the first post. Just want to test some $\LaTeX$:
 \\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
@@ -51,6 +51,7 @@ This is the first post. Just want to test some $\LaTeX$:
 My name is Hai Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=M$ for some $x_0\in \Omega$ then $u$ is constant. Let ${S_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S_M=\Omega$.
 
+{{% toc %}}
 
 ## Privacy Policy
 
