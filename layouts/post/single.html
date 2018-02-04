@@ -16,20 +16,20 @@
     </div>
     
     
-    <div class="align-left" size="2">
+    <div class="align-left">
   {{ if .PrevInSection }}
-       <a href="{{.PrevInSection.Permalink}}">&leftarrow;Older Post</a>
+       <a href="{{.PrevInSection.Permalink}}" style="font-size:13px">&leftarrow;Older Post</a>
     {{ end }}
 </div>
     
     
-<div class="align-right" size="2">
+<div class="align-right">
  {{ if .NextInSection }}
-       <a href="{{.NextInSection.Permalink}}">Newer Post&rightarrow;</a>
+       <a href="{{.NextInSection.Permalink}}"  style="font-size:13px">Newer Post&rightarrow;</a>
     {{ end }}
 </div>
- <div align="center" size="2">
-  <a href="/post/">All Posts</a>
+ <div align="center">
+  <a href="/post/" style="font-size:13px">All Posts</a>
 </div>
    
 
