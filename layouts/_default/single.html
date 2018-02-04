@@ -9,19 +9,17 @@
     <h1 itemprop="name">{{ .Title }}</h1>
 
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
-    <p><b>tags:</b></p>
-    <div class="hr-light"></div>
-    {{ partial "tags.html" . }}
-    <div class="hr-light"></div>
-    
+
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
 
-    
-    
+     <div class="hr-light"></div>
+    <p><b>tags:</b></p>
+    {{ partial "tags.html" . }}
+     <div class="hr-light"></div>
        {{ if .PrevInSection }}
-        <a href="{{.PrevInSection.Permalink}}">Older Post                      </a>
+        <a href="{{.PrevInSection.Permalink}}">Older Post\</a>
        {{ end }}
        {{ if .NextInSection }}
         <a href="{{.NextInSection.Permalink}}">Newer Post</a>
