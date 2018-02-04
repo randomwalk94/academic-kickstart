@@ -1502,7 +1502,7 @@ body.dark {
 
 .pagination > li > a,
 .pagination > li > span {
-    color: green; // use your own color here
+    color: #0095EB; // use your own color here
 }
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
