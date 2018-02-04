@@ -29,17 +29,21 @@
     </div>
     {{ end }}
 
-    {{ if .Site.Params.section_pager }}
-    <div class="article-widget">
-      {{ partial "section_pager.html" . }}
-    </div>
-    {{ end }}
-    {{ if .PrevInSection }}
+      {{ if .PrevInSection }}
 <a href="{{.PrevInSection.Permalink}}">Previous Post</a>
 {{ end }}
 {{ if .NextInSection }}
 <a href="{{.NextInSection.Permalink}}">Next Post</a>
 {{ end }}
+    
+    
+    {{ if .Site.Params.section_pager }}
+    <div class="article-widget">
+      {{ partial "section_pager.html" . }}
+    </div>
+    {{ end }}
+    
+  
     {{ partial "comments.html" . }}
 
   </div>
