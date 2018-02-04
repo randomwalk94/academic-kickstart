@@ -13,17 +13,21 @@
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
+    
+    
     <div class="align-left">
   {{ if .PrevInSection }}
        <a href="{{.PrevInSection.Permalink}}">Older Post</a>
     {{ end }}
 </div>
+    
+    
 <div class="align-right">
  {{ if .NextInSection }}
        <a href="{{.NextInSection.Permalink}}">Newer Post</a>
     {{ end }}
 </div>
-   
+   <p></p>
    
     
      <div class="hr-light"></div>
