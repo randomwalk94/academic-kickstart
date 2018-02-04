@@ -10,7 +10,7 @@
 
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
     {{ partial "tags.html" . }}
-    
+    <div class="hr-light"></div>
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
