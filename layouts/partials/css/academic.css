@@ -1499,6 +1499,10 @@ body.dark {
   background-color: rgb(40, 42, 54);
   border: 1px solid #ddd;
 }
+.pagination > li > a,
+.pagination > li > span {
+    color:  #0095EB; // use your own color here
+}
 
 
 .pagination a {
