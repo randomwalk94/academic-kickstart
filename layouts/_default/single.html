@@ -15,7 +15,16 @@
     </div>
 
     {{ partial "tags.html" . }}
+    
+    
+ {{ if .PrevInSection }}
+<a href="{{.PrevInSection.Permalink}}">Older Post</a>
+{{ end }}
+{{ if .NextInSection }}
+<a href="{{.NextInSection.Permalink}}">Newer Post</a>
+{{ end }}
 
+    
     {{ $related := .Site.RegularPages.Related . | first 5 }}
     {{ with $related }}
     <div class="article-widget">
@@ -29,12 +38,7 @@
     </div>
     {{ end }}
 
-      {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}">Previous Post</a>
-{{ end }}
-{{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">Next Post</a>
-{{ end }}
+     
     
     
     {{ if .Site.Params.section_pager }}
