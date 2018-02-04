@@ -44,6 +44,11 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
+This is the first post. Just want to test some $\LaTeX$:
+\\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
+
+My name is Hai Le \\(a^2+b^2=c^2\\).
+Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=M$ for some $x_0\in \Omega$ then $u$ is constant. Let ${S_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S_M=\Omega$.
 
 {{% toc %}}
 
@@ -78,7 +83,7 @@ If you wish to disable cookies, you may do so through your web browser options. 
 
 Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. You can read [Google Analytics Privacy Policy](http://www.google.com/analytics/learn/privacy.html).
 
-#### Google Adsense
+#### Google hghg
 
 Google Adsense, a third party affiliate marketing network, uses cookies to help make sure I get a commission when you buy a product after clicking on a link or ad banner that takes you to the site of one of their merchants. You can read [Google Adsense Privacy Policy](http://support.google.com/adsense/bin/answer.py?hl=en&answer=48182).
 
