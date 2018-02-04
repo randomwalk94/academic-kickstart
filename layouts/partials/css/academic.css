@@ -1501,8 +1501,8 @@ body.dark {
 }
 
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color: green  ; //background color of buttons. Blue by default
-  border-color: red ; // color or borders. Also blue by default
+  background-color: #0095EB  ; //background color of buttons. Blue by default
+  border-color: #0095EB ; // color or borders. Also blue by default
   cursor:pointer;
   z-index:2;
 }
