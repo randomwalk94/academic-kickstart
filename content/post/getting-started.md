@@ -52,7 +52,7 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x_0)=
 
 {{% toc %}}
 
-## Privacy Policy
+## Hello
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
