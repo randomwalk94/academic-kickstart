@@ -18,17 +18,17 @@
     
     <div class="align-left">
   {{ if .PrevInSection }}
-       <a href="{{.PrevInSection.Permalink}}">Older Post</a>
+       <a href="{{.PrevInSection.Permalink}}"><<Older Post&leftarrow;</a>
     {{ end }}
 </div>
     
     
 <div class="align-right">
  {{ if .NextInSection }}
-       <a href="{{.NextInSection.Permalink}}">Newer Post</a>
+       <a href="{{.NextInSection.Permalink}}">Newer Post&rightarrow;</a>
     {{ end }}
 </div>
-<p>&nbsp;</p>
+ <a href="/post/">All Post</a>
    
 
 
