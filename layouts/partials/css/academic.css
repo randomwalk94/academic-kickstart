@@ -1499,9 +1499,10 @@ body.dark {
   background-color: rgb(40, 42, 54);
   border: 1px solid #ddd;
 }
+
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color: green  your color ; //background color of buttons. Blue by default
-  border-color: red     your color; // color or borders. Also blue by default
+  background-color: green  ; //background color of buttons. Blue by default
+  border-color: red ; // color or borders. Also blue by default
   cursor:pointer;
   z-index:2;
 }
