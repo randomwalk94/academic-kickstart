@@ -1519,10 +1519,10 @@ body.dark {
     border: 1px solid #0095EB;
 }
 
-.pagination a:hover:not(.active) {background-color: #ddd;}
+.pagination a:hover:not(.active) {background-color: #ddd; transition: color 0.6s ease-out; }
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
   background-color:    #0095EB; //background color of buttons. Blue by default
-  border-color:         #0095EB; // color or borders. Also blue by default
+  border-color:         #ffffff; // color or borders. Also blue by default
   cursor:pointer;
   z-index:-1;
 }
