@@ -1499,22 +1499,35 @@ body.dark {
   background-color: rgb(40, 42, 54);
   border: 1px solid #ddd;
 }
-
-.pagination {z-index:999;}
-.pagination > li > a,
-.pagination > li > span {
-    color: #0095EB; // use your own color here
+.pagination {
+    display: inline-block;
 }
 
-.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color: #0095EB  ; //background color of buttons. Blue by default
-  border-color: #ddd ; // color or borders. Also blue by default
-  color: #0095EB; 
-  cursor:pointer;
-  z-index:-2;
+.pagination a {
+    color: #0095EB;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+    border: 1px solid #ddd;
 }
 
-.pagination > .active > a:hover, .pagination > .active > span:hover{transition: color 0.6s ease;}
+.pagination a.active {
+    background-color: #0095EB;
+    color: white;
+    border: 1px solid #0095EB;
+}
+
+.pagination a:hover:not(.active) {background-color: #ddd;}
+
+.pagination a:first-child {
+    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
+}
+
+.pagination a:last-child {
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
 
 .dark .card {
   background: rgb(10, 12, 24);
