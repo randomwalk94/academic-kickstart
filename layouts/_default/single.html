@@ -13,13 +13,18 @@
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
-
-    {{ if .PrevInSection }}
+    <div class="align-left">
+  {{ if .PrevInSection }}
        <a href="{{.PrevInSection.Permalink}}">Older Post</a>
     {{ end }}
-    {{ if .NextInSection }}
+</div>
+<div class="align-right">
+ {{ if .NextInSection }}
        <a href="{{.NextInSection.Permalink}}">Newer Post</a>
     {{ end }}
+</div>
+   
+   
     
      <div class="hr-light"></div>
     <p><b>tags:</b></p>
