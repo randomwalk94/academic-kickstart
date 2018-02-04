@@ -6,9 +6,6 @@ date = 2016-04-20
 lastmod = 2018-01-13
 draft = false
 
-next = "/post/ds"
-prev = "/post/sdgds"
-
 tags = ["academic"]
 summary = "First post."
 
