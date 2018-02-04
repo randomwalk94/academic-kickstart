@@ -1499,9 +1499,7 @@ body.dark {
   background-color: rgb(40, 42, 54);
   border: 1px solid #ddd;
 }
-.pagination {
-    display: inline-block;
-}
+
 
 .pagination a {
     color: #0095EB;
@@ -1519,15 +1517,6 @@ body.dark {
 
 .pagination a:hover:not(.active) {background-color: #ddd;}
 
-.pagination a:first-child {
-    border-top-left-radius: 5px;
-    border-bottom-left-radius: 5px;
-}
-
-.pagination a:last-child {
-    border-top-right-radius: 5px;
-    border-bottom-right-radius: 5px;
-}
 
 .dark .card {
   background: rgb(10, 12, 24);
