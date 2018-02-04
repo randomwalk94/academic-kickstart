@@ -1509,7 +1509,7 @@ body.dark {
   background-color: #0095EB  ; //background color of buttons. Blue by default
   border-color: #ddd ; // color or borders. Also blue by default
   cursor:pointer;
-  z-index:2;
+  z-index:-2;
 }
 
 .pagination > .active > a:hover, .pagination > .active > span:hover{transition: color 0.6s ease;}
