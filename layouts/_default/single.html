@@ -9,7 +9,8 @@
     <h1 itemprop="name">{{ .Title }}</h1>
 
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
-
+    {{ partial "tags.html" . }}
+    
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
@@ -29,10 +30,7 @@
 </div>
 <p>&nbsp;</p>
    
-    
-     <div class="hr-light"></div>
-    <p><b>tags:</b></p>
-    {{ partial "tags.html" . }}
+
 
     {{ $related := .Site.RegularPages.Related . | first 5 }}
     {{ with $related }}
