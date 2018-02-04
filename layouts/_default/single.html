@@ -9,20 +9,20 @@
     <h1 itemprop="name">{{ .Title }}</h1>
 
     {{ partial "article_metadata" (dict "content" . "is_list" 0) }}
+    {{ partial "tags.html" . }}
 
     <div class="article-style" itemprop="articleBody">
       {{ .Content }}
     </div>
 
-    {{ partial "tags.html" . }}
     
     
- {{ if .PrevInSection }}
-<a href="{{.PrevInSection.Permalink}}">Older Post</a>
-{{ end }}
-{{ if .NextInSection }}
-<a href="{{.NextInSection.Permalink}}">Newer Post</a>
-{{ end }}
+       {{ if .PrevInSection }}
+        <a href="{{.PrevInSection.Permalink}}">Older Post                      </a>
+       {{ end }}
+       {{ if .NextInSection }}
+        <a href="{{.NextInSection.Permalink}}">Newer Post</a>
+       {{ end }}
 
     
     {{ $related := .Site.RegularPages.Related . | first 5 }}
