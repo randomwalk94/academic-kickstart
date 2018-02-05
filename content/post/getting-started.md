@@ -55,12 +55,13 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)
 
 <!-- TOC -->
 
-- [This is awesome](#this-is-awesome)
-    - [Log Files](#log-files)
-    - [Cookies and Web Beacons](#cookies-and-web-beacons)
-        - [Google Analytics](#google-analytics)
-        - [Google hghg](#google-hghg)
-- [Disclosure Policy](#disclosure-policy)
+- [Table of Contents](#table-of-contents)
+    - [This is awesome](#this-is-awesome)
+        - [Log Files](#log-files)
+        - [Cookies and Web Beacons](#cookies-and-web-beacons)
+            - [Google Analytics](#google-analytics)
+            - [Google hghg](#google-hghg)
+    - [Disclosure Policy](#disclosure-policy)
 
 <!-- /TOC -->
 ## This is awesome
