@@ -32,7 +32,7 @@ html {
   }
 }
 
-<style>
+
 #myBtn {
   display: none;
   position: fixed;
@@ -51,7 +51,7 @@ html {
 #myBtn:hover {
   background-color: #555;
 }
-</style>
+
 
 body {
   font-family: inherit;
