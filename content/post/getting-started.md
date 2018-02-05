@@ -57,7 +57,9 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)
 
 ## This is awesome
 
-The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
+Visual studio code support for Github
+See how line changes
+done.
 
 First and foremost, I will never share your email address or any other personal information to anyone without your direct consent.
 
