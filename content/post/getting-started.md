@@ -55,7 +55,7 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)
 
 {{% toc %}}
 
-## This is awesome and faster 
+## This is awesome
 
 The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
