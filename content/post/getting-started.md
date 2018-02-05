@@ -53,9 +53,7 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is Hai Viet Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$.
 ## Table of Contents
-<!-- TOC -->
 
-- [Table of Contents](#table-of-contents)
 - [This is awesome](#this-is-awesome)
     - [Log Files](#log-files)
     - [Cookies and Web Beacons](#cookies-and-web-beacons)
@@ -63,7 +61,6 @@ Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)
         - [Google hghg](#google-hghg)
 - [Disclosure Policy](#disclosure-policy)
 
-<!-- /TOC -->
 ## This is awesome
 Visual studio code support for Github
 
