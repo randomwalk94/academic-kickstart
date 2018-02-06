@@ -47,6 +47,23 @@ caption = "1950s"
 This is the first post. Just want to test some $\LaTeX$:
 \\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
 
+Colons can be used to align columns.
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
+
+There must be at least 3 dashes separating each header cell.
+The outer pipes (|) are optional, and you don't need to make the 
+raw Markdown line up prettily. You can also use inline Markdown.
+
+Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+
 My name is Hai Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is **Hai Viet Le** \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is Hai Viet Le \\(a^2+b^2=c^2\\).
