@@ -249,6 +249,11 @@ defaultContentLanguageInSubdir = false
   weight = 1
   
 [[menu.main]]
+  name = "Abouve"
+  url = "/about"
+  weight = 2
+  
+[[menu.main]]
   name = "Posts"
   url = "/post"
   weight = 2
