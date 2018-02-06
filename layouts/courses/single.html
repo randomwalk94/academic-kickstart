@@ -1,0 +1,17 @@
+{{ partial "header.html" . }}
+{{ partial "navbar.html" . }}
+<div class="pub" itemscope itemtype="http://schema.org/Event">
+
+  {{ partial "header_image.html" . }}
+
+  
+</div>
+
+{{ if .Site.Params.section_pager }}
+<div class="article-container article-widget">
+  {{ partial "section_pager.html" . }}
+</div>
+{{ end }}
+
+{{ partial "footer_container.html" . }}
+{{ partial "footer.html" . }}
