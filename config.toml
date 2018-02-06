@@ -219,15 +219,15 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:hvl2@psu.edu"
 
-  [[params.social]]
-    icon = "twitter"
-    icon_pack = "fa"
-    link = ""
+ # [[params.social]]
+  #  icon = "twitter"
+  #  icon_pack = "fa"
+  #  link = ""
 
-  [[params.social]]
-    icon = "google-scholar"
-    icon_pack = "ai"
-    link = "https://haivle.com/"
+  #[[params.social]]
+  #  icon = "google-scholar"
+   # icon_pack = "ai"
+  #  link = "https://haivle.com/"
 
   [[params.social]]
     icon = "github"
