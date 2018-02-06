@@ -245,7 +245,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Home"
-  url = "/#about"
+  url = "/#index"
   weight = 1
   
 #[[menu.main]]
