@@ -1,8 +1,13 @@
 +++
-title = "First Post"
+title = "About me"
+
 math = true
+date = 2016-04-20
+lastmod = 2018-01-13
 draft = false
 
+tags = ["academic", "ac", "pokemon", "lê việt hải", "đáo cần thằng nào", "mathematics", "partial differential equations", "stochastic differential equations", "probability theory", "kpz equations", "random matrix theory"]
+summary = "First post."
 
 [header]
 image = ""
@@ -39,8 +44,7 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-This is the first post. Just want to test some $\LaTeX$:
-\\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
+This page will have much information about me.
 
 My name is Hai Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is **Hai Viet Le** \\(a^2+b^2=c^2\\).
