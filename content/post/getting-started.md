@@ -56,7 +56,7 @@ Colons can be used to align columns.
 | zebra stripes | are neat      |    $1 |
 
 | Option | Description |
-| ------:| -----------:|
+| ------:| -----------|
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
@@ -77,14 +77,13 @@ Markdown | Less | Pretty
 *Still* | `renders` | **nicely**
 1 | 2 | 3
 
-> This is a block quote.
->> Nested.
 
 |Header |Column 1 | Column 2 | Column 3  | 
 |:--- |:---- |:----:| ----:|
 |1. Row| is | is | is  |
 |2. Row| left | nicely | right  |
 |3. Row| aligned | centered | aligned  |  
+
 
 My name is Hai Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is **Hai Viet Le** \\(a^2+b^2=c^2\\).
