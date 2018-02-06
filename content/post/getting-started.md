@@ -50,7 +50,7 @@ This is the first post. Just want to test some $\LaTeX$:
 Colons can be used to align columns.
 
 | Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
+| ------------- |-------------| -----|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
@@ -65,12 +65,12 @@ There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
 raw Markdown line up prettily. You can also use inline Markdown.
 
- | URL    | Accept | Effective URL |
- | ------ | ------ | ------------- |
- | `/csv` | `text/csv` |  `/`  |
- | `/json` | `application/json` | `/` |
- | `/xls` | `application/vnd.ms-excel` | `/` |
- | `/xlsx` | `application/vnd.openxmlformats-officedocument.spreadsheetml.sheet` | `/` |
+| URL    | Accept | Effective URL |
+| ------ | ------ | ------------- |
+| `/csv` | `text/csv` |  `/`  |
+| `/json` | `application/json` | `/` |
+| `/xls` | `application/vnd.ms-excel` | `/` |
+| `/xlsx` | `application/vnd.openxmlformats-officedocument.spreadsheetml.sheet` | `/` |
 
 Markdown | Less | Pretty
 --- | --- | ---
@@ -79,6 +79,7 @@ Markdown | Less | Pretty
 
 > This is a block quote.
 >> Nested.
+
 |Header |Column 1 | Column 2 | Column 3  | 
 |:--- |:---- |:----:| ----:|
 |1. Row| is | is | is  |
