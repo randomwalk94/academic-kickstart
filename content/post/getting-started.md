@@ -55,14 +55,35 @@ Colons can be used to align columns.
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+| Option | Description |
+| ------:| -----------:|
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
 raw Markdown line up prettily. You can also use inline Markdown.
+
+ | URL    | Accept | Effective URL |
+ | ------ | ------ | ------------- |
+ | `/csv` | `text/csv` |  `/`  |
+ | `/json` | `application/json` | `/` |
+ | `/xls` | `application/vnd.ms-excel` | `/` |
+ | `/xlsx` | `application/vnd.openxmlformats-officedocument.spreadsheetml.sheet` | `/` |
 
 Markdown | Less | Pretty
 --- | --- | ---
 *Still* | `renders` | **nicely**
 1 | 2 | 3
+
+> This is a block quote.
+>> Nested.
+|Header |Column 1 | Column 2 | Column 3  | 
+|:--- |:---- |:----:| ----:|
+|1. Row| is | is | is  |
+|2. Row| left | nicely | right  |
+|3. Row| aligned | centered | aligned  |  
 
 My name is Hai Le \\(a^2+b^2=c^2\\).
 Let $M$ be the maximum of $u$ in $\bar \Omega$. We need to show that if $u(x\_0)=M$ for some $x\_0\in \Omega$ then $u$ is constant. Let ${S\_M} = \\{ x \in \Omega \;|\;u(x) = M\\} $. Since $u$ is continuous, $S\_M$ is relatively closed in $\Omega$. We will show that $S_M$ is also relatively open in $\Omega$, then $\Omega$ being connected will imply $S\_M=\Omega$. My name is **Hai Viet Le** \\(a^2+b^2=c^2\\).
