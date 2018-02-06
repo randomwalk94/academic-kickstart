@@ -57,8 +57,7 @@ Colons can be used to align columns.
 
 | Option | Description |
 | ------:| -----------|
-| data \| outer pipes &#124;  | path to data files to supply the data that will be passed into templates. There must be at least 3 dashes separating each header cell. The  are optional, and you don't need to make the 
-raw Markdown line up prettily. <br/>You can also use inline Markdown.|
+| data \| outer pipes &#124;  | path to data files to supply the data that will be passed into templates. There must be at least 3 dashes separating each header cell. The  are optional, and you don't need to make the raw Markdown line up prettily. <br/>You can also use inline Markdown.|
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
