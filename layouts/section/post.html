@@ -3,10 +3,12 @@
 
 {{ partial "header_image.html" . }}
 
-<div class="universal-wrapper">
 
-  <h1>{{ .Title | default (i18n "posts") }}</h1>
-
+<div class="container">
+  <div class="row">
+    <div class="col-md-12">
+      <h1>{{ .Title | default (i18n "posts") }}</h1>
+      {{ partial "pagination" . }}
   {{ with .Content }}
   <div class="article-style" itemprop="articleBody">{{ . }}</div>
   {{ end }}
@@ -19,6 +21,10 @@
 
   {{ partial "pagination" . }}
 
+    </div>
+  </div>
 </div>
+
+
 {{ partial "footer_container.html" . }}
 {{ partial "footer.html" . }}
