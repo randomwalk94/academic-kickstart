@@ -41,8 +41,7 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-This page will have much information about me. <a href = "https://randomwalk94.github.io/remark/template.html" target = "_self">template </a>
-
+This page will have much information about me. <a href = "https://randomwalk94.github.io/remark/template.html" target = "_self">template </a> [temp](https://randomwalk94.github.io/remark/template.html){:target="\_blank"} [temps](https://randomwalk94.github.io/remark/template.html){:target="\_self"} [temps](https://randomwalk94.github.io/remark/template.html){:target="_self"}
 | Command           | Description                    |
 | ------------------| ------------------------------ |
 | `hugo`            | Build your website.            |
