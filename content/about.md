@@ -41,7 +41,7 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-This page will have much information about me. [template](https://randomwalk94.github.io/remark/template.htm)
+This page will have much information about me. [template](https://randomwalk94.github.io/remark/template.html)
 
 | Command           | Description                    |
 | ------------------| ------------------------------ |
