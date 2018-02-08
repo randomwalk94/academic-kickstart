@@ -879,9 +879,9 @@ article .article-metadata {
   padding: 15px 20px 15px 20px;
 }
 
-.card-simple:first-of-type {
+/**.card-simple:first-of-type {
   margin-top: 0;
-}
+}**/
 
 .card-simple p.read-more {
   margin: 0;
