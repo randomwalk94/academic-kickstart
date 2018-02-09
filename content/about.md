@@ -44,7 +44,7 @@ caption = "1950s"
 This page will have much information about me. <a href = "/files/title.pdf" target = "_self">template </a> 
 <a href = "https://github.com/randomwalk94/academic-kickstart/blob/master/static/files/title.pdf?raw=true" target = "_self">pokemon </a> 
 <a href = "https://github.com/randomwalk94/academic-kickstart/blob/master/static/files/title.pdf" target = "_self">title </a>
-<a href = "/files/title.html" target = "_self">i love you </a>
+<a href = "/files/template.html" target = "_self">i love you </a>
 
 
 | Command           | Description                    |
