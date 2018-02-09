@@ -27,7 +27,6 @@
 
     <div class="row">
       <div class="col-sm-1"></div>
-      <div class="col-sm-1"></div>
       <div class="col-sm-10">
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">{{ i18n "date" }}</div>
@@ -51,7 +50,7 @@
 
     <div class="row">
       <div class="col-sm-1"></div>
-      <div class="col-sm-10">
+     <!-- <div class="col-sm-10">-->
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">{{ i18n "event" }}</div>
           <div class="col-xs-12 col-sm-9">
@@ -68,7 +67,7 @@
     {{ with .Params.location }}
     <div class="row">
       <div class="col-sm-1"></div>
-      <div class="col-sm-10">
+     <!-- <div class="col-sm-10">-->
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading">{{ i18n "location" }}</div>
           <div class="col-xs-12 col-sm-9">{{ . | markdownify }}</div>
@@ -82,7 +81,7 @@
     {{ if .Params.url_pdf | or .Params.url_slides | or .Params.url_video | or .Params.url_code | or .Params.projects | or .Params.url_custom }}
     <div class="row" style="padding-top: 10px">
       <div class="col-sm-1"></div>
-      <div class="col-sm-10">
+     <!-- <div class="col-sm-10">-->
         <div class="row">
           <div class="col-xs-12 col-sm-3 pub-row-heading" style="line-height:34px;">{{ i18n "links" }}</div>
           <div class="col-xs-12 col-sm-9">
