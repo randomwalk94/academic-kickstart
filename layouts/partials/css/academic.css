@@ -1042,6 +1042,10 @@ footer a#back_to_top i {
  *  Toolbar Buttons
  **************************************************/
 
+ .btn {
+   padding: 2px 8px;
+ }
+
 .btn-toolbar .btn {
   font-size: 0.9rem;
   padding: 10px 14px 9px;
