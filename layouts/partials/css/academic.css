@@ -161,6 +161,9 @@ a:focus {
   color: #C06C84;
 }
 
+a:visited{
+  color: #C06C84;
+}
 img,
 video {
   height: auto;
