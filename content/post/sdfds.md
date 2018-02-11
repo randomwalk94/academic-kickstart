@@ -1,5 +1,5 @@
 +++
-title = "First Post"
+title = "Personal Website"
 
 math = true
 date = 2016-04-20
