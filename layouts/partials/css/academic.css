@@ -1062,12 +1062,12 @@ footer a#back_to_top i {
 
 .btn-toolbar .btn.btn-primary:hover,
 .btn-toolbar .btn.btn-primary:focus {
-  background-color: {{ .Get "primary_dark" }} !important;
+  background-color: {{ .Get "primary_light" }} !important;
 }
 
 .btn-toolbar .btn.btn-primary:active,
 .btn-toolbar .btn.btn-primary.active {
-  background-color: {{ .Get "primary_light" }} !important;
+  background-color:  {{ .Get "primary_dark" }} !important;
 }
 
 /*************************************************
