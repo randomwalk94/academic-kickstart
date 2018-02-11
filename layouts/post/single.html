@@ -28,12 +28,12 @@
       <span style="float:right"><a href="{{.NextInSection.Permalink}}"  style="font-size:16px">&#124;{{.NextInSection.Title}}&rightarrow;</a></span>
         {{ end }} 
     </p>
-    <p style="text-align: center"><a href="/post/">Post Archive</a>  
+
+    <p class="read-more" itemprop="mainEntityOfPage">
+      <a href="/post/" class="btn btn-primary btn-outline">
+          POST ARCHIVE
+      </a>
     </p>
-
-    
-
-
   <!--  <div class="align-left">
   {{ if .PrevInSection }}
        <a href="{{.PrevInSection.Permalink}}" style="font-size:15px">&leftarrow;{{.PrevInSection.Title}}&#124;</a>
