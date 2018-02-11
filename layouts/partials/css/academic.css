@@ -151,14 +151,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #C06C84;
+  color: #005b96;
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #6C5B7B;
+  color: #03396c;
 }
 
 img,
