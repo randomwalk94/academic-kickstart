@@ -20,14 +20,15 @@
       {{ .Content }}
     </div>
     
-    <p style="text-align:center">
+    <p>
         {{ if .PrevInSection }}
       <span style="float:left"><a href="{{.PrevInSection.Permalink}}" style="font-size:15px">&leftarrow;{{.PrevInSection.Title}}&#124;</a></span> 
         {{ end }}
-      <a href="/post/" style="font-size:15px">Post Archive</a>  
         {{ if .NextInSection }}
       <span style="float:right"><a href="{{.NextInSection.Permalink}}"  style="font-size:15px">&#124;{{.NextInSection.Title}}&rightarrow;</a></span>
         {{ end }} 
+    </p>
+    <p style="text-align: center"><a href="/post/" style="font-size:15px">Post Archive</a>  
     </p>
 
     
