@@ -151,14 +151,14 @@ h4, h5, h6 {
 
 a,
 h3.article-title a:hover {
-  color: #{{ .Get "primary" }};
+  color: {{ .Get "primary" }};
   text-decoration: none;
   transition: color 0.6s ease;
 }
 
 a:hover,
 a:focus {
-  color: #0095eb;
+  color: #C06C84;
 }
 
 img,
