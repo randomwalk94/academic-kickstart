@@ -1561,27 +1561,27 @@ body.dark {
 }
 .pagination > li > a,
 .pagination > li > span {
-    color:  #0095EB; // use your own color here
+    color:   {{ .Get "primary" }}; // use your own color here
 }
 
 
 .pagination a {
-    color: #0095EB;
+    color:  {{ .Get "primary" }};
     float: left;
     padding: 8px 16px;
     text-decoration: none;
-    border: 1px solid #ddd;
+    border: 1px solid #dddddd;
 }
 
 .pagination a.active {
-    background-color: #0095EB;
+    background-color:  {{ .Get "primary" }};
     color: white;
-    border: 1px solid #0095EB;
+    border: 1px solid  {{ .Get "primary" }};
 }
 
 .pagination a:hover:not(.active) {background-color: #ddd; transition: color 0.6s ease-out; }
 .pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus {
-  background-color:    #0095EB; //background color of buttons. Blue by default
+  background-color:     {{ .Get "primary" }}; //background color of buttons. Blue by default
   border-color:         #ffffff; // color or borders. Also blue by default
   cursor:pointer;
   z-index:-1;
