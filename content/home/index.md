@@ -27,7 +27,7 @@ weight = 5
  
 +++
 
-# Biography
+# About 
 
 This is my new home. I will **update** this site soon. This page is powered by [Academic Theme](https://themes.gohugo.io/theme/academic/) for [Hugo](https://gohugo.io/), and deployed by [Netlify](https://www.netlify.com/) [^1]
 
