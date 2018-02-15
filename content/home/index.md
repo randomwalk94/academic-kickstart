@@ -29,7 +29,7 @@ weight = 5
 
 # About 
 
-This site will include my research activities, teaching notes, general mathematical materials, some tutorials. More personal stuff will be in the Personal tab.
+I'm pursuing a PhD in Mathematics at Penn State. This site will include my research activities, mathematical notes, teaching materials, and some tutorials. More personal stuff will be in the Personal tab.
 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
