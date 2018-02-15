@@ -29,4 +29,6 @@ weight = 5
 
 # About 
 
-This is my academic page. This site will include my research activities, teaching notes, general mathematical materials, some tutorials. More personal stuff will be in the Personal tab.
+This site will include my research activities, teaching notes, general mathematical materials, some tutorials. More personal stuff will be in the Personal tab.
+
+[Curriculum Vitae ](../static/files/CV_Feb_2018.pdf) (updated: Feb 2018)
