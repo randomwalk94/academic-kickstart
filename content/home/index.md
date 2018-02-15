@@ -31,4 +31,8 @@ weight = 5
 
 This site will include my research activities, teaching notes, general mathematical materials, some tutorials. More personal stuff will be in the Personal tab.
 
-<a href = "/files/CV_Feb_2018.pdf" target = "_self">Curriculum Vitae</a>  (updated: Feb 2018)
+<p class="read-more" itemprop="mainEntityOfPage">
+    <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
+      CURRICULUM VITAE
+    </a>
+  </p>
