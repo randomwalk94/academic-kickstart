@@ -23,7 +23,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
-url_custom = [{name = "Custom Link", url = "http://web.eecs.umich.edu/~rajnrao/rmtschool/"}]
+url_custom = [{name = "Registration", url = "http://web.eecs.umich.edu/~rajnrao/rmtschool/"}]
 
 # Does the content use math formatting?
 math = true
