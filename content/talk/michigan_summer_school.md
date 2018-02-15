@@ -23,7 +23,7 @@ url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
-
+url_custom = [{name = "Custom Link", url = "http://example.org"}]
 # Does the content use math formatting?
 math = true
 
