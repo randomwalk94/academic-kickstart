@@ -258,10 +258,10 @@ defaultContentLanguageInSubdir = false
   url = "#posts"
   weight = 2
   
-[[menu.main]]
-  name = "Publications"
-  url = "#publications"
-  weight = 3
+#[[menu.main]]
+#  name = "Publications"
+#  url = "#publications"
+#  weight = 3
 
 [[menu.main]]
   name = "Projects"
@@ -274,8 +274,8 @@ defaultContentLanguageInSubdir = false
   weight = 5
 
 [[menu.main]]
-  name = "Courses"
-  url = "/courses"
+  name = "Personal"
+  url = "/personal"
   weight = 6
 
 [[menu.main]]
