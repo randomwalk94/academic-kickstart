@@ -35,4 +35,4 @@ This site will include my research activities, teaching notes, general mathemati
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
     </a>
-  </p>
+</p>
