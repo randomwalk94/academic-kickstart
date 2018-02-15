@@ -19,6 +19,8 @@
 
   <div class="talk-metadata" itemprop="startDate">
     {{ $date := .Params.time_start | default .Date }}
+    {{ (time $date).Format $.Site.Params.date_format }}
+
   </div>
 
   <div class="talk-metadata">
