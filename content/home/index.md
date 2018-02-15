@@ -29,6 +29,4 @@ weight = 5
 
 # About 
 
-This is my new home. I will **update** this site soon. This page is powered by [Academic Theme](https://themes.gohugo.io/theme/academic/) for [Hugo](https://gohugo.io/), and deployed by [Netlify](https://www.netlify.com/) [^1]
-
-[^1]: Here is a testing footnote.
+This is my academic page. This site will include my research activities, teaching notes, general mathematical materials, some tutorials. More personal stuff will be in the Personal tab.
