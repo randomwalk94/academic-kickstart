@@ -29,7 +29,7 @@ weight = 5
 
 # About 
 
-I'm pursuing a PhD in Mathematics at Penn State. This site will include my research activities, mathematical notes, teaching materials, and some tutorials. More personal stuff will be in the Personal tab. Please refer to [_directory_](https://haivle.com/about) to navigate through my site.
+I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More personal stuff will be in the Personal tab. Please refer to [_directory_](https://haivle.com/personal) to navigate through my site.
 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
