@@ -1,5 +1,5 @@
 +++
-title = "About me"
+title = "Personal"
 
 math = true
 date = 2016-04-20
