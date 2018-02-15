@@ -16,14 +16,14 @@ selected = false
 # Projects (optional).
 #   Associate this talk with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = [""]
+# projects = ["deep-learning"]
 
 # Links (optional).
 url_pdf = ""
 url_slides = ""
 url_video = ""
 url_code = ""
-url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Registration", url = "http://web.eecs.umich.edu/~rajnrao/rmtschool/"}]
 # Does the content use math formatting?
 math = true
 
