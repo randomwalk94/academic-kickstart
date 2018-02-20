@@ -81,7 +81,7 @@ Markdown | Less | Pretty
 
 
 Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-$ will have a parametrization $z^-(t)=z(1-t): [0,1]\to \mathbb C$. Therefore
-$$\int_{\gamma^-}f(z^-)dz^- =\int_{0}^{1}f(z^-(t))(z^-(t))'dt= -\int_{0}^{1}f(z(1-t))z'(1-t)dt.$$
+\\[\int_{\gamma^-}f(z^-)dz^- =\int_{0}^{1}f(z^-(t))(z^-(t))'dt= -\int_{0}^{1}f(z(1-t))z'(1-t)dt.\\]
 Then by a change of variable $t\to 1-t$, we get
 $$\int_{0}^{1}f(z(1-t))z'(1-t)dt=\int_{0}^{1}f(z(t))z'(t)dt=\int_{\gamma}f(z)dz$$
 The proof is complete.\
