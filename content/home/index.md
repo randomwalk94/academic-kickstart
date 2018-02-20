@@ -39,7 +39,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 
 **2018 Programs in Analysis and Probability**
 
-[IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/) - May  
+[IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/) - May\
 [Integrable Probability FRG](http://frg.int-prob.org/conference2018/), MIT - May  
 [Seminar on Stochastic Processes](http://depts.washington.edu/ssproc/ssp_nextssp.php), Brown University - May  
 [Random Matrix Summer School](http://web.eecs.umich.edu/~rajnrao/rmtschool/), Univ of Michigan - June  
