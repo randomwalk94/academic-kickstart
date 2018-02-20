@@ -37,7 +37,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
     </a>
 </p>
 
-**2018Programs in Analysis and Probability**
+**2018 Programs in Analysis and Probability**
 
 [IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/) - May
 [Integrable Probability FRG](http://frg.int-prob.org/conference2018/), MIT - May 
