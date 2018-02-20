@@ -84,13 +84,13 @@ Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-
 \\[\int _{{\gamma ^ - }} f ({z^ - })d{z^ - } = \int _0^1 f ({z^ - }(t)){({z^ - }(t))^\prime }dt =  - \int _0^1 f (z(1 - t))z'(1 - t)dt.\\]
 
 For $0\le t\le \pi$, we have that
-\[f(z(t))=\frac{1}{R^2e^{2it}+a^2}.\]
+\\[f(z(t))=\frac{1}{R^2e^{2it}+a^2}.\\]
 Then by using triangle inequality as $\left|R^2e^{2it}+a^2\right|\ge \left|R^2e^{2it}\right|-a^2$, we get that
-\[\left|f(z(t))\right|\le \frac{1}{R^2-a^2}.\]
-Equality occurs at $t=\pi/2$. Hence $\max \limits_{z\in \gamma}\left|f(z)\right|=\dfrac{1}{R^2-a^2}$.\\
+\\[\left|f(z(t))\right|\le \frac{1}{R^2-a^2}.\\]
+Equality occurs at $t=\pi/2$. Hence $\max \limits_{z\in \gamma}\left|f(z)\right|=\dfrac{1}{R^2-a^2}$.\
 
 We then have
- \[\left|\int_{\gamma}f(z)dz\right|\le \max \limits_{z\in \gamma}\left|f(z)\right|\cdot \text{length}(\gamma)=\frac{R\pi}{R^2-a^2} \]
+ \\[\left|\int _{\gamma}f(z)dz\right|\le \max \limits _{z\in \gamma}\left|f(z)\right|\cdot \text{length}(\gamma)=\frac{R\pi}{R^2-a^2} \\]
 because $\gamma$ is the upper half of the circle center at origin radius $R$.
 ## Table of Contents
 
