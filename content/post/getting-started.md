@@ -80,8 +80,7 @@ Markdown | Less | Pretty
 
 
 
-Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-$ will have a parametrization $z^-(t)=z(1-t): [0,1]\to \mathbb C$. Therefore
-\\[\int _{{\gamma ^ - }} f ({z^ - })d{z^ - } = \int _0^1 f ({z^ - }(t)){({z^ - }(t))^\prime }dt =  - \int _0^1 f (z(1 - t))z'(1 - t)dt.\\]
+We study the coarsening model (zero-temperature Ising Glauber dynamics) on $\mathbb{Z}^d$ (for $d \geq 2$) with an asymmetric tie-breaking rule. This is a Markov process on the state space ${-1,+1}^{\mathbb{Z}^d}$ of “spin configurations” in which each vertex updates its spin to agree with a majority of its neighbors at the arrival times of a Poisson process. If a vertex has equally many $+1$ and $-1$ neighbors, then it updates its spin value to $+1$ with probability $q \in [0,1]$ and to $-1$ with probability $1-q$. The initial state of this Markov chain is distributed according to a product measure with probability $p$ for a spin to be $+1$.
 
 For $0\le t\le \pi$, we have that
 \\[f(z(t))=\frac{1}{R^2e^{2it}+a^2}.\\]
