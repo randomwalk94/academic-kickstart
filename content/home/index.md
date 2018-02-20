@@ -36,3 +36,12 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
       CURRICULUM VITAE
     </a>
 </p>
+
+**2018Programs in Analysis and Probability**
+
+[IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/) - May
+[Integrable Probability FRG](http://frg.int-prob.org/conference2018/), MIT - May 
+[Seminar on Stochastic Processes](http://depts.washington.edu/ssproc/ssp_nextssp.php), Brown University - May
+[Random Matrix Summer School](http://web.eecs.umich.edu/~rajnrao/rmtschool/), Univ of Michigan - June
+[Northwestern Probability Summer School](http://www.math.northwestern.edu/~auffing/SNAP/index.html) - July
+[Special Session on Random Matrix Theory Beyond Wigner and Wishart, AMS Fall Central Sectional Meeting](http://www.ams.org/meetings/sectional/2259_program_ss2.html), Univ of Michigan
