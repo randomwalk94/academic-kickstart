@@ -80,8 +80,8 @@ Markdown | Less | Pretty
 
 
 
-Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-$ will have a parametrization $z^-(t)=z(1-t): [0,1]\to \mathbb C$. Therefore\
-\\[\int_{\gamma^-}f(z^-)dz^- =\int_{0}^{1}f(z^-(t))(z^-(t))'dt= -\int_{0}^{1}f(z(1-t))z'(1-t)dt.\\]
+Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-$ will have a parametrization $z^-(t)=z(1-t): [0,1]\to \mathbb C$. Therefore
+\[\int_{{\gamma ^ - }} f ({z^ - })d{z^ - } = \int_0^1 f ({z^ - }(t)){({z^ - }(t))^\prime }dt =  - \int_0^1 f (z(1 - t))z'(1 - t)dt.\]
 ## Table of Contents
 
 - [This is awesome](#this-is-awesome)
