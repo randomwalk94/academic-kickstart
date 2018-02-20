@@ -84,7 +84,7 @@ Suppose $\gamma$ has a parametrization $z(t):[0,1]\to \mathbb C$. Then $\gamma^-
 $$\int_{\gamma^-}f(z^-)dz^- =\int_{0}^{1}f(z^-(t))(z^-(t))'dt= -\int_{0}^{1}f(z(1-t))z'(1-t)dt.$$
 Then by a change of variable $t\to 1-t$, we get
 $$\int_{0}^{1}f(z(1-t))z'(1-t)dt=\int_{0}^{1}f(z(t))z'(t)dt=\int_{\gamma}f(z)dz$$
-The proof is complete. $\hfill \blacksquare$\
+The proof is complete.\
 For $0\le t\le \pi$, we have that
 $$f(z(t))=\frac{1}{R^2e^{2it}+a^2}.$$
 Then by using triangle inequality as $\left|R^2e^{2it}+a^2\right|\ge \left|R^2e^{2it}\right|-a^2$, we get that
