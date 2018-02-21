@@ -1201,6 +1201,13 @@ nav#navbar-main li {
   background-color: transparent !important; /* Override Bootstrap. */
 }
 
+.navbar-default .navbar-nav>.active>li>a,
+.navbar-default .navbar-nav>.active>li>a:focus {
+  color: #fff;
+  background-color: #007bff;
+}
+
+
 .navbar-brand,
 .navbar-nav li a {
   height: inherit;
