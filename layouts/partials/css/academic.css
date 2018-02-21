@@ -1184,8 +1184,8 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color: {{ .Get "menu_text_active" }};
-  background-color: transparent;
+  color:  #fff;
+  background-color: #007bff;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
