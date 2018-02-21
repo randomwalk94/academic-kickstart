@@ -6,10 +6,10 @@ google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono|Lato:400
 
 # Font families
 heading_font = "Noto Serif"
-body_font = "Raleway"
+body_font = "Arial"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "14"
-font_size_small = "12"
+font_size = "16"
+font_size_small = "14"
