@@ -26,10 +26,12 @@ weight = 5
   year = ""
  
 +++
+# News
+This page is still _under construction_; there is nothing to look at besides my CV yet. I will add more materials during Spring Break.
 
 # About 
 
-I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. Right now, the page is still _under construction_; there is nothing to look at besides my CV yet. I will add more materials during Spring Break.
+I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
