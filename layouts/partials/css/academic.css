@@ -1179,18 +1179,18 @@ nav#navbar-main li {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: {{ .Get "menu_text_active" }};
+  color: {{ .Get "menu_text" }};
   font-weight: 600;
 }
 
 .navbar-default .navbar-nav>li>a:focus {
   color: {{ .Get "menu_text_active" }};
-  background-color: transparent;
+  background-color: #0f6b99;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
   color: {{ .Get "menu_text_active" }};
-  background-color: transparent;
+  background-color: #0f6b99;
 }
 
 .navbar-default .navbar-nav>.active>a,
@@ -1198,7 +1198,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.active>a:hover {
   color: {{ .Get "menu_text_active" }};
   font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
+  background-color: #0f6b99; /* Override Bootstrap. */
 }
 
 .navbar-brand,
