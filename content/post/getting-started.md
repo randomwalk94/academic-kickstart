@@ -5,8 +5,9 @@ math = true
 date = 2016-04-20
 lastmod = 2018-01-13
 draft = false
+disqusShortname = "randomwalk94"
 
-tags = ["academic", "ac", "pokemon", "lê việt hải", "đáo cần thằng nào", "mathematics", "partial differential equations", "stochastic differential equations", "probability theory", "kpz equations", "random matrix theory"]
+tags = ["academic", "ac", "pokemon", "mathematics", "partial differential equations", "stochastic differential equations", "probability theory", "kpz equations", "random matrix theory"]
 summary = "First post."
 
 [header]
