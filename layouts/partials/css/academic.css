@@ -1179,7 +1179,7 @@ nav#navbar-main li {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: {{ .Get "menu_text" }};
+  color: {{ .Get "menu_text_active" }};
   font-weight: 600;
 }
 
