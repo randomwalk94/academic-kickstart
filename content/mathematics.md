@@ -1,5 +1,5 @@
 +++
-title = "Mathematics"
+title = ""
 
 math = true
 date = 2016-04-20
