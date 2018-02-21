@@ -1196,15 +1196,9 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: {{ .Get "menu_text" }};
-  font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
-}
-
-.navbar-default .navbar-nav>.active>li>a,
-.navbar-default .navbar-nav>.active>li>a:focus {
   color: #fff;
-  background-color: #007bff;
+  font-weight: 700;
+  background-color: #007bff !important; /* Override Bootstrap. */
 }
 
 
