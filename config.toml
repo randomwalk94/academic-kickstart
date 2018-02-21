@@ -285,8 +285,8 @@ defaultContentLanguageInSubdir = false
   weight = 7
 
 [[menu.main]]
-  name = "Tutorials"
-  url = "/tutorials"
+  name = "Resources"
+  url = "/resources"
   weight = 8
 
 [[menu.main]]

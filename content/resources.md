@@ -1,5 +1,5 @@
 +++
-title = "Tutorials"
+title = "Resources"
 
 math = true
 date = 2016-04-20
