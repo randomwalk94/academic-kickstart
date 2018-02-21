@@ -244,7 +244,7 @@ defaultContentLanguageInSubdir = false
   align_right = true
 
 [[menu.main]]
-  name = "Home"
+  name = "HOME"
   url = "/#index"
   weight = 1
   
@@ -255,12 +255,12 @@ defaultContentLanguageInSubdir = false
   
 
 [[menu.main]]
-  name = "Personal"
+  name = "PERSONAL"
   url = "/personal"
   weight = 2
   
 [[menu.main]]
-  name = "Posts"
+  name = "POSTS"
   url = "/post"
   weight = 3
   
@@ -280,22 +280,22 @@ defaultContentLanguageInSubdir = false
 #  weight = 5
 
 [[menu.main]]
-  name = "Mathematics"
+  name = "MATHEMATICS"
   url = "/mathematics"
   weight = 7
 
 [[menu.main]]
-  name = "Resources"
+  name = "RESOURCES"
   url = "/resources"
   weight = 8
 
 [[menu.main]]
-  name = "Opportunities"
+  name = "OPPORTUNITIES"
   url = "/opportunities"
   weight = 9
 
 [[menu.main]]
-  name = "Contact"
+  name = "CONTACT"
   url = "#contact"
   weight = 20
 
