@@ -20,7 +20,7 @@ preserveTaxonomyNames = true
 paginate = 4
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = ""
+disqusShortname = "randomwalk94"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
