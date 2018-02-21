@@ -7,10 +7,8 @@ draft = false
 
 +++
 
-Research
-============
+##Research
 
-Teaching
-============
+##Teaching
 
-#Random Notes
+##Random Notes
