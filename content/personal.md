@@ -8,3 +8,6 @@ draft = false
 +++
 
 This page will have much information about me. 
+
+## Blog
+(Random thoughts on random things)
