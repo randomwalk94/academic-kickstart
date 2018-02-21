@@ -1154,11 +1154,6 @@ Left and right align
   min-height: 70px !important;
 }
 
-.navbar>.active>a{
-  color: {{ .Get "menu_text_active" }};
-  font-weight: 700;
-  background-color: transparent !important; /* Override Bootstrap. */
-}
 
 .navbar-default {
   background: {{ .Get "menu_primary" }};
@@ -1189,8 +1184,8 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color: {{ .Get "menu_text" }};
-  background-color: transparent;
+  color: {{ .Get "menu_text_active" }};
+  background-color: #a83614;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
