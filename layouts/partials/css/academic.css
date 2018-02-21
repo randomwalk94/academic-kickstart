@@ -1154,6 +1154,12 @@ Left and right align
   min-height: 70px !important;
 }
 
+.navbar>.active>a{
+  color: {{ .Get "menu_text_active" }};
+  font-weight: 700;
+  background-color: transparent !important; /* Override Bootstrap. */
+}
+
 .navbar-default {
   background: {{ .Get "menu_primary" }};
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
