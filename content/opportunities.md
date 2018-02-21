@@ -12,7 +12,7 @@ draft = false
 
 **Program**| **Date** | **Location**
  --- | --- | ---
- [Seminar on Stochastic Processes](http://depts.washington.edu/ssproc/ssp_nextssp.php)|May 9-12, 2018 | Brown
+[Seminar on Stochastic Processes](http://depts.washington.edu/ssproc/ssp_nextssp.php)|May 9-12, 2018 | Brown
 [IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/)| May 14-19, 2018 | UCLA
   
 [Random Matrix Summer School](http://web.eecs.umich.edu/~rajnrao/rmtschool/)| June 18-29, 2018 | Michigan
