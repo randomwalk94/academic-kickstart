@@ -5,7 +5,7 @@ math = true
 date = 2018-02-20
 draft = false
 
-tags = ["academic", "ac", "pokemon", "mathematics", "partial differential equations", "stochastic differential equations", "probability theory", "kpz equations", "random matrix theory"]
+tags = ["academic", "ac", "random matrix theory"]
 summary = "First post."
 
 [header]
