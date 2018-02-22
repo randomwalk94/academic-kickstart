@@ -2,8 +2,7 @@
 title = "First Post"
 
 math = true
-date = 2016-04-20
-lastmod = 2018-01-13
+date = 2018-02-19
 draft = false
 disqusShortname = "randomwalk94"
 
