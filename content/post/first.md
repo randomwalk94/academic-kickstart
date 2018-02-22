@@ -43,53 +43,6 @@ image = "https://raw.githubusercontent.com/gcushen/hugo-academic/master/images/t
 caption = "1950s"
 +++
 
-This is the first post. Just want to test some $\LaTeX$:
-\\[\zeta(s)=\frac{1}{1^s}+\frac{1}{2^s}+\ldots+\frac{1}{n^s}+\ldots\\]
-
-Colons can be used to align columns.
-
-| Tables        | Are           | Cool  |
-| ------------- |-------------| -----|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-| Option | Description |
-| ------:| -----------|
-| data \| outer pipes &#124;  | path to data files to supply the data that will be passed into templates. There must be at least 3 dashes separating each header cell. The  are optional, and you don't need to make the raw Markdown line up prettily. <br/>You can also use inline Markdown.|
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
-
-There must be at least 3 dashes separating each header cell.
-The outer pipes (\|) are optional, and you don't need to make the 
-raw Markdown line up prettily. You can also use inline Markdown.
-
-| URL    | Accept | Effective URL |
-| ------ | ------ | ------------- |
-| `/csv` | `text/csv` |  `/`  |
-| `/json` | `application/json` | `/` |
-| `/xls` | `application/vnd.ms-excel` | `/` |
-| `/xlsx` | `application/vnd.openxmlformats-officedocument.spreadsheetml.sheet` | `/` |
-
-Markdown | Less | Pretty
---- | --- | ---
-*Still* | `renders` | **nicely**
-1 | 2 | 3
-
-
-
-
-We study the coarsening model (zero-temperature Ising Glauber dynamics) on $\mathbb{Z}^d$ (for $d \geq 2$) with an asymmetric tie-breaking rule. This is a Markov process on the state space ${-1,+1}^{\mathbb{Z}^d}$ of “spin configurations” in which each vertex updates its spin to agree with a majority of its neighbors at the arrival times of a Poisson process. If a vertex has equally many $+1$ and $-1$ neighbors, then it updates its spin value to $+1$ with probability $q \in [0,1]$ and to $-1$ with probability $1-q$. The initial state of this Markov chain is distributed according to a product measure with probability $p$ for a spin to be $+1$.
-
-For $0\le t\le \pi$, we have that
-\\[f(z(t))=\frac{1}{R^2e^{2it}+a^2}.\\]
-Then by using triangle inequality as $\left|R^2e^{2it}+a^2\right|\ge \left|R^2e^{2it}\right|-a^2$, we get that
-\\[\left|f(z(t))\right|\le \frac{1}{R^2-a^2}.\\]
-Equality occurs at $t=\pi/2$. Hence $\max \limits_{z\in \gamma}\left|f(z)\right|=\dfrac{1}{R^2-a^2}$.\
-
-We then have
- \\[\left|\int _{\gamma}f(z)dz\right|\le \max \limits _{z\in \gamma}\left|f(z)\right|\cdot \text{length}(\gamma)=\frac{R\pi}{R^2-a^2} \\]
-because $\gamma$ is the upper half of the circle center at origin radius $R$.
 ## Table of Contents
 
 - [This is awesome](#this-is-awesome)
