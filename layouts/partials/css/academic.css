@@ -1015,6 +1015,7 @@ footer a#back_to_top i {
  **************************************************/
 
 .btn-primary {
+  font-family: "Roboto";
   border-color: {{ .Get "primary" }} !important;
   background: {{ .Get "primary" }} !important;
 }
