@@ -1,14 +1,14 @@
 +++
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 
-title = "  2018 Summer School on Random Matrices"
+title = "Random Matrices"
 time_start = 2018-02-20
 time_end = 2018-02-20
 abstract = "This is just a test."
 abstract_short = "This applies in particular to the first-passage percolation distance obtained by assigning independent random weights to the edges of the graph. We also consider the graph distance on the dual map, and the first-passage percolation on the dual map with exponential edge weights, which is closely related to the so-called Eden model."
 event = "Conference"
 event_url = ""
-location = "University of Michigan, Ann Arbor"
+location = "University of Michigan"
 
 # Is this a selected talk? (true/false)
 selected = false
