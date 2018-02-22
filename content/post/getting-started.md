@@ -4,7 +4,6 @@ title = "First Post"
 math = true
 date = 2018-02-19
 draft = false
-disqusShortname = "randomwalk94"
 
 tags = ["academic", "ac", "pokemon", "mathematics", "partial differential equations", "stochastic differential equations", "probability theory", "kpz equations", "random matrix theory"]
 summary = "First post."
