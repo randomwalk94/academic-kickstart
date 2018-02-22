@@ -3,7 +3,7 @@ date = 2017-01-01T00:00:00  # Schedule page publish date.
 
 title = "  2018 Summer School on Random Matrices"
 time_start = 2018-06-02
-time_end = ""
+time_end =  2018-06-02
 abstract = "rt ert "
 abstract_short = "Summer School on Random Matrices. This focuses on techniques."
 event = "Summer School"
