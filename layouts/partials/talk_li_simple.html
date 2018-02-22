@@ -2,11 +2,11 @@
   <i class="fa fa-comment-o pub-icon" aria-hidden="true"></i>
   <span itemprop="name"><a href="{{ .Permalink }}">{{ .Title }}</a></span>
   <div itemprop="startDate">
-    {{ $date := .Params.time_start | default .Date }}
-    {{ (time $date).Format $.Site.Params.date_format }}
+    <i>{{ $date := .Params.time_start | default .Date }}
+      {{ (time $date).Format $.Site.Params.date_format }}</i>
 
   </div>
-  <div class="talk-metadata">
+  <div class="talk-metadata" style="font-family:Montserrat;">
     {{ if .Params.event_short }}
         {{ .Params.event_short | markdownify }}
     {{ else if .Params.event }}
