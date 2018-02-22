@@ -36,9 +36,9 @@
   {{ range $paginator.Pages }}
     {{ $params := dict "post" . }}
     {{ partial "post_li" $params }}
-  {{ end }}
+  {{ end }}-->
 
-  {{ partial "pagination" . }}-->
+  {{ partial "pagination" . }}
 
     </div>
   </div>
