@@ -13,13 +13,32 @@
   <div class="article-style" itemprop="articleBody">{{ . }}</div>
   {{ end }}
 
-  {{ $paginator := .Paginate .Data.Pages }}
+  {{ range .Data.Pages.GroupByParamDate "date" "2006" }}
+  <div class="row" id="talk_list">
+    <div class="col-md-2">
+      <h3>{{ .Key }}</h3>
+    </div>
+    <div class="col-md-10">
+
+      {{ $paginator := .Paginate .Data.Pages }}
+      {{ range $paginator.Pages }}
+        {{ $params := dict "post" . }}
+        {{ partial "post_li" $params }}
+      {{ end }}
+
+    </div>
+  </div>
+  {{ end }}
+
+
+
+  <!--{{ $paginator := .Paginate .Data.Pages }}
   {{ range $paginator.Pages }}
     {{ $params := dict "post" . }}
     {{ partial "post_li" $params }}
   {{ end }}
 
-  {{ partial "pagination" . }}
+  {{ partial "pagination" . }}-->
 
     </div>
   </div>
