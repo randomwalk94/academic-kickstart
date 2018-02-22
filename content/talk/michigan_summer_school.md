@@ -7,7 +7,7 @@ time_end = 2030-06-01
 abstract = "rt ert "
 abstract_short = "Summer School on Random Matrices. This focuses on techniques."
 event = "Summer School"
-event_url = "http://web.eecs.umich.edu/~rajnrao/rmtschool/"
+event_url = ""
 location = "University of Michigan, Ann Arbor"
 
 # Is this a selected talk? (true/false)
