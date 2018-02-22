@@ -15,7 +15,7 @@
       {{ end }}
 
       <div class="portrait-title">
-        <h2 itemprop="name">{{ $.Site.Params.name }}</h2>
+        <h2 itemprop="name" style="font-family:Noto Serif;">{{ $.Site.Params.name }}</h2>
         {{ with $.Site.Params.role }}<h3 itemprop="jobTitle" style="font-family:Montserrat;">{{ . }}</h3>{{ end }}
 
         {{/* Support legacy `organization` option. */}}
