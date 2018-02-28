@@ -1207,8 +1207,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
   color: {{ .Get "menu_text" }};
-  font-weight: 700;
-  background-color: transparent; /* Override Bootstrap. */
+  font-weight: 700; /* Override Bootstrap. */
 }
 
 
