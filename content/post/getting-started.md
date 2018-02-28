@@ -55,8 +55,10 @@ Key features:
 - Responsive and mobile friendly
 - Simple and refreshing one page design
 - Multilingual and easy to customize
+## Table of Contents
 <!-- TOC -->
 
+- [Table of Contents](#table-of-contents)
 - [Color Themes](#color-themes)
 - [Install](#install)
     - [Quick install using your web browser](#quick-install-using-your-web-browser)
