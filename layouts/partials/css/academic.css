@@ -1189,7 +1189,7 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color:  {{ .Get "menu_text" }};
+  color:  {{ .Get "primary" }};
   background-color: transparent;
 }
 
@@ -1202,7 +1202,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
-  color: {{ .Get "primary" }};
+  color: {{ .Get "menu_text" }};
   font-weight: 700;
   background-color: transparent !important; /* Override Bootstrap. */
 }
