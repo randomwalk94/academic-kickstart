@@ -1,7 +1,7 @@
 +++
 title = "Academic: the website designer for Hugo"
 
-date = 2018-04-20
+date = 2018-02-20
 draft = false
 
 tags = ["academic"]
