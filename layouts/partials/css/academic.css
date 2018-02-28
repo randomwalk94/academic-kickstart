@@ -1189,7 +1189,7 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color:  {{ .Get "menu_text" }};
+  color:  {{ .Get "primary" }};
   background-color: transparent;
 }
 
