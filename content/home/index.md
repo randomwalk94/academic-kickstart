@@ -35,6 +35,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)
 [Where did the quote come from?](https://quoteinvestigator.com/)
+
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
