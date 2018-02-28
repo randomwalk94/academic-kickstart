@@ -1171,7 +1171,7 @@ Left and right align
 
 .navbar-default .navbar-toggle:focus,
 .navbar-default .navbar-toggle:hover {
-  background-color: {{ .Get "primary" }};
+  background-color: transparent;
 }
 
 nav#navbar-main li {
