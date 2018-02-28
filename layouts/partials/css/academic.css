@@ -133,12 +133,18 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   /*display:inline;*/
   font-size: 2.25rem;
+  color: white;
+  background: #414141;
 }
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
+  color: white;
+  background: #056571;
 }
 h3 {
+  color: white;
+  background: #FF6A5C;
   font-weight: 700;
   margin-top: 1.5rem;
   font-size: 1.25rem;
