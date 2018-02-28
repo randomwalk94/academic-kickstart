@@ -55,6 +55,7 @@ Key features:
 - Responsive and mobile friendly
 - Simple and refreshing one page design
 - Multilingual and easy to customize
+
 ## Table of Contents
 <!-- TOC -->
 
