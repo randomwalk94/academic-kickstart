@@ -140,7 +140,7 @@ h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
   color: white;
-  background: #056571;
+  background: {{ .Get "primary" }};
 }
 h3 {
   font-weight: 700;
