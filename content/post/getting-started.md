@@ -55,6 +55,20 @@ Key features:
 - Responsive and mobile friendly
 - Simple and refreshing one page design
 - Multilingual and easy to customize
+<!-- TOC -->
+
+- [Color Themes](#color-themes)
+- [Install](#install)
+    - [Quick install using your web browser](#quick-install-using-your-web-browser)
+    - [Install with Git](#install-with-git)
+    - [Install with ZIP](#install-with-zip)
+    - [Install with RStudio](#install-with-rstudio)
+- [Quick start](#quick-start)
+- [Updating](#updating)
+- [Feedback & Contributing](#feedback--contributing)
+- [License](#license)
+
+<!-- /TOC -->
 
 ## Color Themes
 
