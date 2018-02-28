@@ -34,7 +34,9 @@ This page is still _under construction_; there is nothing to look at besides my 
 I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
-[Where did the quote come from?](https://quoteinvestigator.com/)
+[Where did the quote come from?](https://quoteinvestigator.com/)  
+[Probability Events](http://www.math.columbia.edu/department/probability/seminar/upcoming_new.html)  
+[Probability Advice](https://web.math.rochester.edu/people/faculty/cmlr/advice.md)
 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_Feb_2018.pdf" target = "_self" class="btn btn-primary btn-outline">
