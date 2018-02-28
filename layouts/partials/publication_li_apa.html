@@ -6,7 +6,7 @@
     {{- end -}}
   </span>
   ({{- .Date.Format "2006" -}}).
-  <a href="{{ .Permalink }}" itemprop="name"><b>{{ .Title }}</b></a>.
+  <b><a href="{{ .Permalink }}" itemprop="name">{{ .Title }}</a></b>.
   {{ if .Params.publication_short }}
     {{- .Params.publication_short | markdownify -}}.
   {{ else if .Params.publication }}
