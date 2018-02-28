@@ -1198,6 +1198,11 @@ nav#navbar-main li {
   background-color: {{ .Get "primary" }};
 }
 
+.navbar-default .navbar-nav>li>a:active {
+  color: #fff;
+  background-color: {{ .Get "primary" }};
+}
+
 .navbar-default .navbar-nav>.active>a,
 .navbar-default .navbar-nav>.active>a:focus,
 .navbar-default .navbar-nav>.active>a:hover {
