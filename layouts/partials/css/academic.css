@@ -108,6 +108,11 @@ p {
   margin-bottom: 1rem;
 }
 
+p a {
+  border-bottom: 1px solid #dfdfdf;
+}
+
+
 /* Lists */
 ul, ol, dl {
   margin-top: 0;
