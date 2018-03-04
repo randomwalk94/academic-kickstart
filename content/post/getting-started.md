@@ -5,7 +5,7 @@ date = 2016-04-20
 lastmod = 2018-01-13
 draft = false
 
-tags = ["academic", "a","partial differential equations", "pokemon", "alibaba", "home alone","american"]
+tags = ["academic", "a","partial differential equations", "pokemon", "alibaba", "home alone","american","leviethai","pikachu","memorize","lion","tiger","epos"]
 summary = "Create a beautifully simple website or blog in under 10 minutes."
 
 [header]
