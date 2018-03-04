@@ -1196,12 +1196,12 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color:  {{ .Get "primary" }};
+  color: #ddd /*{{ .Get "primary" }}*/;
   background-color: transparent;
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color: {{ .Get "primary" }};
+  color: #ddd /*{{ .Get "primary" }}*/;
   /*background-color: {{ .Get "primary" }};*/
 }
 
