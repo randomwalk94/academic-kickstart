@@ -4,7 +4,7 @@ name = "Default"
 # Is theme light or dark?
 light = true
 
-# Primary
+# Primary FF6A5C
 primary = "#0992E1"
 primary_light = "#CCDFCB"
 primary_dark = "#0992E1"
