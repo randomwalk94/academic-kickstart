@@ -139,7 +139,7 @@ h1 {
 h2 {
   margin-top: 1rem;
   font-size: 1.5rem;
-  color: white;
+  /*color: white;*/
   /*background: {{ .Get "primary" }};*/
 }
 h3 {
