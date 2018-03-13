@@ -1635,10 +1635,10 @@ body.dark {
 
 ::-moz-selection { /* Code for Firefox */
   color: white;
-  background: #3f51b5;
+  background: #8c9eff;
 }
 
 ::selection {
   color: white;
-  background: #3f51b5;
+  background: #8c9eff;
 }
