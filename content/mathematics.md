@@ -8,6 +8,8 @@ draft = false
 +++
 
 ## Research
+My advisor is Alexei Novikov. My interests cover several topics in partial differential equations and probability, including stochastic processes, random matrices, KPZ equations, etc.
+
 
 ## Teaching
 **Semester** | **Subject** | **Syllabus** |**Course Page** |**Institution**
