@@ -16,6 +16,7 @@ draft = false
  --- | --- | ---
 [Seminar on Stochastic Processes](http://depts.washington.edu/ssproc/ssp_nextssp.php)|May 9-12, 2018 | Brown
 [IPAM Workshops in Quantitative Linear Algebra](http://www.ipam.ucla.edu/programs/long-programs/quantitative-linear-algebra/)| May 14-19, 2018 | UCLA
+[Summer School on Waves and Particles in Random Media](http://www.math.colostate.edu/~pinaud/SummerSchool/school.html)| May 21-25, 2018 | Colorado State
 [Random Matrix Summer School](http://web.eecs.umich.edu/~rajnrao/rmtschool/)| June 18-29, 2018 | Michigan
 [Northwestern Probability Summer School](http://www.math.northwestern.edu/~auffing/SNAP/index.html) | July 16-28, 2018| Northwestern
 [Cincinnati Symposium on Probability Theory and Applications](http://www.math.lsa.umich.edu/~baik/Conferences.html)| November 9-11, 2018| Cincinnati  
