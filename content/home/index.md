@@ -32,7 +32,7 @@ weight = 5
 # News
 This page is still _under construction_; there is nothing to look at besides my CV yet. I will add more materials during Spring Break.
 
-Stephen Hawking passed away on March 14, 2018. This is [tribute](https://www.youtube.com/watch?v=ZrVVvXOIwQc) to him from Cambridge University.
+[Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) passed away on March 14, 2018. This is [tribute](https://www.youtube.com/watch?v=ZrVVvXOIwQc) to him from Cambridge University.
 
 # About 
 
