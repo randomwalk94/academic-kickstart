@@ -32,6 +32,8 @@ weight = 5
 # News
 This page is still _under construction_; there is nothing to look at besides my CV yet. I will add more materials during Spring Break.
 
+Stephen Hawking passed away on March 14, 2018. This is [tribute](https://www.youtube.com/watch?v=ZrVVvXOIwQc) to him from Cambridge University.
+
 # About 
 
 I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
