@@ -2,7 +2,6 @@
 title = "Academic: the website designer for Hugo"
 
 date = 2018-03-14
-lastmod = ""
 draft = false
 
 tags = ["academic"]
