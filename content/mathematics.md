@@ -2,7 +2,7 @@
 title = "Mathematics"
 
 math = true
-date = 2016-04-20
+date = 2018-03-14
 draft = false
 
 +++
