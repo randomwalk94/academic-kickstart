@@ -36,7 +36,7 @@ html {
 body {
   font-family: inherit;
   font-size: 1rem;
-  line-height: inherit;
+  /*line-height: inherit;*/
   color: inherit;
   background-color: {{ .Get "background" }};
   margin-top: 71px; /* Offset body content by navbar height. */
