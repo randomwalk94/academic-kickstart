@@ -41,7 +41,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
 [Where did the quote come from?](https://quoteinvestigator.com/)  
 [Probability Events](http://www.math.columbia.edu/department/probability/seminar/upcoming_new.html)  
-[Probability Advice](https://web.math.rochester.edu/people/faculty/cmlr/advice.md)
+[Probability Advice](https://web.math.rochester.edu/people/faculty/cmlr/advice.md)  
 [IPAM conference in Rough Paths](http://www.ipam.ucla.edu/programs/workshops/rough-paths-theory-and-applications/?tab=schedule)
 
 <p class="read-more" itemprop="mainEntityOfPage">
