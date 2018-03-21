@@ -46,7 +46,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 [IPAM conference in Rough Paths](http://www.ipam.ucla.edu/programs/workshops/rough-paths-theory-and-applications/?tab=schedule)  
 [Probablity Lecture Notes](http://www.math.nus.edu.sg/~matsr/teaching.html)  
 
-Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramset numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
+Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
 > Imagine an alien force, vastly more powerful than us landing on Earth and demanding the value of $R(5, 5)$ or they will destroy our planet. In that case, we should marshal all our computers and all our mathematicians and attempt to find the value. But suppose, instead, that they asked for $R(6, 6)$, we should attempt to destroy the aliens
 
