@@ -46,6 +46,7 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 [IPAM conference in Rough Paths](http://www.ipam.ucla.edu/programs/workshops/rough-paths-theory-and-applications/?tab=schedule)  
 [Probablity Lecture Notes](http://www.math.nus.edu.sg/~matsr/teaching.html)  
 [Ivan Corwin's Talks](https://www.msri.org/people/20600)  
+[PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)
 
 Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
