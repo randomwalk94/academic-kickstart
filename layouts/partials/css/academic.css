@@ -233,6 +233,7 @@ hr {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
+  font-size: 16px;
   color: #7a7a7a;
   border-left: .25rem solid #e5e5e5;
 }
