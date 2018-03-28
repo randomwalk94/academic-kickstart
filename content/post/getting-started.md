@@ -144,7 +144,7 @@ Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
 
-## $\LaTex$ Demo  
+## $\LaTeX$ Demo  
 
 <p>Let's just view the function $\dot{X}(t) = \frac{d}{dt} X_t$ as a bounded function taking values in the vector space $V$.  The notation $dX_{u_1}$ means $\dot{X}(u_1) du_1$  Then $dX_{u_1} \otimes \cdots \otimes dX_{u_k} = \dot{X}(u_1) \otimes \cdots \otimes \dot{X}(u_k) du_1 \cdots du_k$, should be regarded as a bounded function (or measure) on $[0,t]^k$ taking values in the vector space $V^{\otimes k}$.</p>
 
