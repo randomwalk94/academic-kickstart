@@ -143,3 +143,25 @@ For support, head over to the [Hugo discussion forum](http://discuss.gohugo.io).
 Copyright 2016-present [George Cushen](https://georgecushen.com).
 
 Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md) license.
+
+## $\LaTex$ Demo  
+
+<p>Let's just view the function $\dot{X}(t) = \frac{d}{dt} X_t$ as a bounded function taking values in the vector space $V$.  The notation $dX_{u_1}$ means $\dot{X}(u_1) du_1$  Then $dX_{u_1} \otimes \cdots \otimes dX_{u_k} = \dot{X}(u_1) \otimes \cdots \otimes \dot{X}(u_k) du_1 \cdots du_k$, should be regarded as a bounded function (or measure) on $[0,t]^k$ taking values in the vector space $V^{\otimes k}$.</p>
+
+<p>Because the operation of projecting to a symmetric part is a linear operation from $V^{\otimes k}$ to itself, you can take it inside of the integral.  Let's call this symmetric part $dX_{u_1} \cdots dX_{u_k}$.  I'll use the symbol $u \cdot v$ to denote the symmetric product of of $u, v \in V$ -- that is, $u \cdot u \cdot u = u \otimes u \otimes u$, and the general product is defined by the polarization identity.  For example $u \cdot v = ( u \otimes v + v \otimes u) / 2$.  The resulting multiplication is commutative.</p>
+
+<p>Therefore your integral is equal to</p>
+
+<p>$\int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k}$</p>
+
+<p>Because the symmetric product is commutative, for any permutation $\sigma$ of $\{ 1 \ldots k\}$ you get the same value by integrating any of the permuted regions</p>
+
+<p>$ \int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k} = \int_{0 \leq u_{\sigma(1)} \leq \ldots \leq u_{\sigma(k)} \leq t} dX_{u_1} \cdots dX_{u_k}$</p>
+
+<p>Observe also that the region $0 \leq u_1 \leq \ldots \leq u_k \leq t$ is a fundamental domain for the action of $S_k$ on the cube $[0,t]$ -- that is, you can get the whole cube by permuting the variables $u_i$, and none of these regions overlap.  Therefore, since there are $k!$ such permutations, we sum over permutations to conclude</p>
+
+<p>$ k! \int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k} =  \int_{[0,t]^k} dX_{u_1} \cdots dX_{u_k}$</p>
+
+<p>But, by Fubini and the multilinearity of the symmetric product, the integral on the right is just $(X_t - X_0)^k$.</p>
+
+<p>I should remark that this same proof in an even simpler setting also produces the $\frac{1}{k!}$ that appears when you prove the Taylor expansion through iterative use of the fundamental theorem of calculus.</p>
