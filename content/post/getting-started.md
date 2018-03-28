@@ -152,11 +152,11 @@ Released under the [MIT](https://github.com/gcushen/hugo-academic/blob/master/LI
 
 <p>Therefore your integral is equal to</p>
 
-<p>$\int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k}$</p>
+<p>\[\int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k}\]</p>
 
 <p>Because the symmetric product is commutative, for any permutation $\sigma$ of $\{ 1 \ldots k\}$ you get the same value by integrating any of the permuted regions</p>
 
-<p>$ \int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k} = \int_{0 \leq u_{\sigma(1)} \leq \ldots \leq u_{\sigma(k)} \leq t} dX_{u_1} \cdots dX_{u_k}$</p>
+<p>$$ \int_{0 \leq u_1 \leq \ldots \leq u_k \leq t} dX_{u_1} \cdots dX_{u_k} = \int_{0 \leq u_{\sigma(1)} \leq \ldots \leq u_{\sigma(k)} \leq t} dX_{u_1} \cdots dX_{u_k}$$</p>
 
 <p>Observe also that the region $0 \leq u_1 \leq \ldots \leq u_k \leq t$ is a fundamental domain for the action of $S_k$ on the cube $[0,t]$ -- that is, you can get the whole cube by permuting the variables $u_i$, and none of these regions overlap.  Therefore, since there are $k!$ such permutations, we sum over permutations to conclude</p>
 
