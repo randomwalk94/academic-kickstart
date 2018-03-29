@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="{{ .Site.LanguageCode | default "en-us" }}">
 <head>
-  <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='9ef03cdb06feec08494bc447d6d316ea37d0d549774189b36f6251619600b895';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -76,6 +75,7 @@
   {{ range .Site.Params.custom_css }}
   <link rel="stylesheet" href="{{ "/css/" | relURL }}{{ . }}">
   {{ end }}
+  <script async>(function(s,u,m,o,j,v){j=u.createElement(m);v=u.getElementsByTagName(m)[0];j.async=1;j.src=o;j.dataset.sumoSiteId='9ef03cdb06feec08494bc447d6d316ea37d0d549774189b36f6251619600b895';v.parentNode.insertBefore(j,v)})(window,document,'script','//load.sumo.com/');</script>
 
   {{ if .Site.GoogleAnalytics }}
     <script>
