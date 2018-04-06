@@ -47,7 +47,8 @@ I'm pursuing a PhD in Mathematics at Penn State. This site includes my research 
 [Probablity Lecture Notes](http://www.math.nus.edu.sg/~matsr/teaching.html)  
 [Ivan Corwin's Talks](https://www.msri.org/people/20600)  
 [PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)  
-[Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)
+[Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)  
+[Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)
 
 Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
