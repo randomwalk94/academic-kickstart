@@ -9,7 +9,7 @@ math = true
 weight = 5
 
 # List your academic interests.
-[interests]
+[interests] 
   interests = [
     "Partial Differential Equations",
     "Probability",
