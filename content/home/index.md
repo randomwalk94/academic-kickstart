@@ -60,5 +60,5 @@ Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) a
     </a>
 </p>
 
-<marquee>Make it scroll, baby!</marquee>
+<marquee>HTML scrolling</marquee>
 
