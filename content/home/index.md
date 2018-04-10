@@ -59,3 +59,7 @@ Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) a
       CURRICULUM VITAE
     </a>
 </p>
+
+<textarea name="message" rows="10" cols="30">
+Give me your thoughts
+</textarea>
