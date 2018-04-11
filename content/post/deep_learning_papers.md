@@ -26,31 +26,6 @@ Before this list, there exist other *awesome deep learning lists*, for example, 
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
-## Contents
-
-<!-- TOC -->
-
-- [Background](#background)
-- [Contents](#contents)
-    - [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
-    - [Optimization / Training Techniques](#optimization--training-techniques)
-    - [Unsupervised / Generative Models](#unsupervised--generative-models)
-    - [Convolutional Neural Network Models](#convolutional-neural-network-models)
-    - [Image: Segmentation / Object Detection](#image-segmentation--object-detection)
-    - [Image / Video / Etc](#image--video--etc)
-    - [Natural Language Processing / RNNs](#natural-language-processing--rnns)
-    - [Speech / Other Domain](#speech--other-domain)
-    - [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-    - [More Papers from 2016](#more-papers-from-2016)
-    - [New papers](#new-papers)
-    - [Old Papers](#old-papers)
-    - [HW / SW / Dataset](#hw--sw--dataset)
-    - [Book / Survey / Review](#book--survey--review)
-    - [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
-    - [Appendix: More than Top 100](#appendix-more-than-top-100)
-
-<!-- /TOC -->
-
 ### Understanding / Generalization / Transfer
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
 - **Deep neural networks are easily fooled: High confidence predictions for unrecognizable images** (2015), A. Nguyen et al. [[pdf]](http://arxiv.org/pdf/1412.1897)
