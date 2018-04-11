@@ -9,7 +9,7 @@ tags = ["deep learning", "papers"]
 summary = "A list of highly cited deep learning papers and useful materials."
 
 [header]
-image = "/img/blue_brain.jpg"
+image = "/blue_brain.jpg"
 caption = "Image credit: [**Exunoplura**](https://www.exunoplura.com/tag/deep-learning/)"
 
 +++
