@@ -22,7 +22,6 @@ Before this list, there exist other *awesome deep learning lists*, for example, 
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
-To get the news for newly released papers everyday, follow my [twitter](https://twitter.com/TerryUm_ML) or [facebook page](https://www.facebook.com/terryum.io/)! 
 
 ## Awesome list criteria
 
