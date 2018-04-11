@@ -30,13 +30,6 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section.
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
-*(Citation criteria)*
-
-- **<6 months**
-- **2016**
-
-Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
-
 ## Contents
 <!-- TOC -->
 
