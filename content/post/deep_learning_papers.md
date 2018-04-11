@@ -26,19 +26,10 @@ Before this list, there exist other *awesome deep learning lists*, for example, 
 
 Although the *Roadmap List* includes lots of important deep learning papers, it feels overwhelming for me to read them all. As I mentioned in the introduction, I believe that seminal works can give us lessons regardless of their application domain. Thus, I would like to introduce **top 100 deep learning papers** here as a good starting point of overviewing deep learning researches.
 
-
-## Awesome list criteria
-
-1. A list of **top 100 deep learning papers** published from 2012 to 2016 is suggested.
-2. If a paper is added to the list, another paper (usually from *More Papers from 2016" section) should be removed to keep top 100 papers. (Thus, removing papers is also important contributions as well as adding papers)
-3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section.
-4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
-
 ## Contents
 <!-- TOC -->
 
 - [Background](#background)
-- [Awesome list criteria](#awesome-list-criteria)
 - [Contents](#contents)
     - [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
     - [Optimization / Training Techniques](#optimization--training-techniques)
