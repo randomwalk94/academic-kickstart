@@ -31,12 +31,10 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 *(Citation criteria)*  
-- **< 6 months** : *New Papers* (by discussion)  
-- **2016** :  +60 citations or "More Papers from 2016"  
-- **2015** :  +200 citations  
-- **2014** :  +400 citations  
-- **2013** :  +600 citations  
-- **2012** :  +800 citations  
+- **< 6 months** : *New Papers* (by discussion) 
+- **2016** : +60 citations or "More Papers from 2016" 
+- **2015** : +200 citations - **2014** : +400 citations 
+- **2013** : +600 citations - **2012** : +800 citations 
 - **~2012** : *Old Papers* (by discussion)
 
 Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
@@ -212,6 +210,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 
 ### New papers
 *Newly published papers (< 6 months) which are worth reading*  
+
 - MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications (2017), Andrew G. Howard et al. [[pdf]](https://arxiv.org/pdf/1704.04861.pdf)
 - Convolutional Sequence to Sequence Learning (2017), Jonas Gehring et al. [[pdf]](https://arxiv.org/pdf/1705.03122)
 - A Knowledge-Grounded Neural Conversation Model (2017), Marjan Ghazvininejad et al. [[pdf]](https://arxiv.org/pdf/1702.01932)
@@ -232,6 +231,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 
 ### Old Papers
 *Classic papers published before 2012*  
+
 - An analysis of single-layer networks in unsupervised feature learning (2011), A. Coates et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_CoatesNL11.pdf)  
 - Deep sparse rectifier neural networks (2011), X. Glorot et al. [[pdf]](http://machinelearning.wustl.edu/mlpapers/paper_files/AISTATS2011_GlorotBB11.pdf)  
 - Natural language processing (almost) from scratch (2011), R. Collobert et al. [[pdf]](http://arxiv.org/pdf/1103.0398)  
