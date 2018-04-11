@@ -32,12 +32,12 @@ To get the news for newly released papers everyday, follow my [twitter](https://
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 *(Citation criteria)*  
-- **< 6 months** : *New Papers* (by discussion)
-- **2016** :  +60 citations or "More Papers from 2016"
-- **2015** :  +200 citations
-- **2014** :  +400 citations
-- **2013** :  +600 citations
-- **2012** :  +800 citations
+- **< 6 months** : *New Papers* (by discussion)  
+- **2016** :  +60 citations or "More Papers from 2016"  
+- **2015** :  +200 citations  
+- **2014** :  +400 citations  
+- **2013** :  +600 citations  
+- **2012** :  +800 citations  
 - **~2012** : *Old Papers* (by discussion)
 
 Please note that we prefer seminal deep learning papers that can be applied to various researches rather than application papers. For that reason, some papers that meet the criteria may not be accepted while others can be. It depends on the impact of the paper, applicability to other researches scarcity of the research domain, and so on.
@@ -45,30 +45,29 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 ## Contents
 <!-- TOC -->
 
-- [Awesome - Most Cited Deep Learning Papers](#awesome---most-cited-deep-learning-papers)
-    - [Background](#background)
-    - [Awesome list criteria](#awesome-list-criteria)
-    - [Contents](#contents)
-        - [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
-        - [Optimization / Training Techniques](#optimization--training-techniques)
-        - [Unsupervised / Generative Models](#unsupervised--generative-models)
-        - [Convolutional Neural Network Models](#convolutional-neural-network-models)
-        - [Image: Segmentation / Object Detection](#image-segmentation--object-detection)
-        - [Image / Video / Etc](#image--video--etc)
-        - [Natural Language Processing / RNNs](#natural-language-processing--rnns)
-        - [Speech / Other Domain](#speech--other-domain)
-        - [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
-        - [More Papers from 2016](#more-papers-from-2016)
-        - [New papers](#new-papers)
-        - [Old Papers](#old-papers)
-        - [HW / SW / Dataset](#hw--sw--dataset)
-        - [Book / Survey / Review](#book--survey--review)
-        - [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
-        - [Appendix: More than Top 100](#appendix-more-than-top-100)
-    - [Acknowledgement](#acknowledgement)
-    - [License](#license)
+- [Background](#background)
+- [Awesome list criteria](#awesome-list-criteria)
+- [Contents](#contents)
+    - [Understanding / Generalization / Transfer](#understanding--generalization--transfer)
+    - [Optimization / Training Techniques](#optimization--training-techniques)
+    - [Unsupervised / Generative Models](#unsupervised--generative-models)
+    - [Convolutional Neural Network Models](#convolutional-neural-network-models)
+    - [Image: Segmentation / Object Detection](#image-segmentation--object-detection)
+    - [Image / Video / Etc](#image--video--etc)
+    - [Natural Language Processing / RNNs](#natural-language-processing--rnns)
+    - [Speech / Other Domain](#speech--other-domain)
+    - [Reinforcement Learning / Robotics](#reinforcement-learning--robotics)
+    - [More Papers from 2016](#more-papers-from-2016)
+    - [New papers](#new-papers)
+    - [Old Papers](#old-papers)
+    - [HW / SW / Dataset](#hw--sw--dataset)
+    - [Book / Survey / Review](#book--survey--review)
+    - [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
+    - [Appendix: More than Top 100](#appendix-more-than-top-100)
+- [Acknowledgement](#acknowledgement)
+- [License](#license)
 
-* * *
+<!-- /TOC -->
 
 ### Understanding / Generalization / Transfer
 - **Distilling the knowledge in a neural network** (2015), G. Hinton et al. [[pdf]](http://arxiv.org/pdf/1503.02531)
