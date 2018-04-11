@@ -31,6 +31,7 @@ Although the *Roadmap List* includes lots of important deep learning papers, it 
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
 *(Citation criteria)*
+
 - **<6 months**
 - **2016**
 
@@ -58,8 +59,6 @@ Please note that we prefer seminal deep learning papers that can be applied to v
     - [Book / Survey / Review](#book--survey--review)
     - [Video Lectures / Tutorials / Blogs](#video-lectures--tutorials--blogs)
     - [Appendix: More than Top 100](#appendix-more-than-top-100)
-- [Acknowledgement](#acknowledgement)
-- [License](#license)
 
 <!-- /TOC -->
 
@@ -273,11 +272,13 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 ### Video Lectures / Tutorials / Blogs
 
 *(Lectures)*  
+
 - CS231n, Convolutional Neural Networks for Visual Recognition, Stanford University [[web]](http://cs231n.stanford.edu/)
 - CS224d, Deep Learning for Natural Language Processing, Stanford University [[web]](http://cs224d.stanford.edu/)
 - Oxford Deep NLP 2017, Deep Learning for Natural Language Processing, University of Oxford [[web]](https://github.com/oxford-cs-deepnlp-2017/lectures)
 
 *(Tutorials)*  
+
 - NIPS 2016 Tutorials, Long Beach [[web]](https://nips.cc/Conferences/2016/Schedule?type=Tutorial)
 - ICML 2016 Tutorials, New York City [[web]](http://techtalks.tv/icml/2016/tutorials/)
 - ICLR 2016 Videos, San Juan [[web]](http://videolectures.net/iclr2016_san_juan/)
@@ -285,6 +286,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 - Bay Area Deep Learning School 2016, Stanford [[web]](https://www.bayareadlschool.org/)
 
 *(Blogs)*  
+
 - OpenAI [[web]](https://www.openai.com/)
 - Distill [[web]](http://distill.pub/)
 - Andrej Karpathy Blog [[web]](http://karpathy.github.io/)
@@ -295,6 +297,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 
 ### Appendix: More than Top 100
 *(2016)*  
+
 - A character-level decoder without explicit segmentation for neural machine translation (2016), J. Chung et al. [[pdf]](https://arxiv.org/pdf/1603.06147)
 - Dermatologist-level classification of skin cancer with deep neural networks (2017), A. Esteva et al. [[html]](http://www.nature.com/nature/journal/v542/n7639/full/nature21056.html)
 - Weakly supervised object localization with multi-fold multiple instance learning (2017), R. Gokberk et al. [[pdf]](https://arxiv.org/pdf/1503.00949)
@@ -323,6 +326,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 - Consistency and Fluctuations For Stochastic Gradient Langevin Dynamics (2016), Yee Whye Teh et al. [[pdf]](http://www.jmlr.org/papers/volume17/teh16a/teh16a.pdf)
 
 *(2015)*  
+
 - Ask your neurons: A neural-based approach to answering questions about images (2015), M. Malinowski et al. [[pdf]](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Malinowski_Ask_Your_Neurons_ICCV_2015_paper.pdf)
 - Exploring models and data for image question answering (2015), M. Ren et al. [[pdf]](http://papers.nips.cc/paper/5640-stochastic-variational-inference-for-hidden-markov-models.pdf)
 - Are you talking to a machine? dataset and methods for multilingual image question (2015), H. Gao et al. [[pdf]](http://papers.nips.cc/paper/5641-are-you-talking-to-a-machine-dataset-and-methods-for-multilingual-image-question.pdf)
@@ -357,6 +361,7 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 
 
 *(~2014)*  
+
 - DeepPose: Human pose estimation via deep neural networks (2014), A. Toshev and C. Szegedy [[pdf]](http://www.cv-foundation.org/openaccess/content_cvpr_2014/papers/Toshev_DeepPose_Human_Pose_2014_CVPR_paper.pdf)
 - Learning a Deep Convolutional Network for Image Super-Resolution (2014, C. Dong et al. [[pdf]](https://www.researchgate.net/profile/Chen_Change_Loy/publication/264552416_Lecture_Notes_in_Computer_Science/links/53e583e50cf25d674e9c280e.pdf)
 - Recurrent models of visual attention (2014), V. Mnih et al. [[pdf]](http://arxiv.org/pdf/1406.6247.pdf)
@@ -374,13 +379,3 @@ Please note that we prefer seminal deep learning papers that can be applied to v
 - Large scale distributed deep networks (2012), J. Dean et al. [[pdf]](http://papers.nips.cc/paper/4687-large-scale-distributed-deep-networks.pdf)
 - A Fast and Accurate Dependency Parser using Neural Networks. Chen and Manning. [[pdf]](http://cs.stanford.edu/people/danqi/papers/emnlp2014.pdf)
 
-
-
-## Acknowledgement
-
-Thank you for all your contributions. Please make sure to read the [contributing guide](https://github.com/terryum/awesome-deep-learning-papers/blob/master/Contributing.md) before you make a pull request.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Terry T. Um](https://www.facebook.com/terryum.io/) has waived all copyright and related or neighboring rights to this work.
