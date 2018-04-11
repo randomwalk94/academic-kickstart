@@ -33,8 +33,6 @@ weight = 5
 # News
 My name is Hai Le. This page is still _under construction_; there is nothing to look at besides my CV yet. 
 
-[Stephen Hawking](https://en.wikipedia.org/wiki/Stephen_Hawking) passed away on March 14, 2018. This is [tribute](https://www.youtube.com/watch?v=ZrVVvXOIwQc) to him from Cambridge University.
-
 # About 
 
 I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
