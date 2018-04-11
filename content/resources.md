@@ -10,9 +10,9 @@ draft = false
 
 ## Links
 
-#### Blogs
+#### Blogs/Personal Websites
 
-#### Websites
+#### General Websites
 (Interesting websites to check out)  
 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
