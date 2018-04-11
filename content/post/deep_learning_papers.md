@@ -10,8 +10,6 @@ summary = "A list of highly cited deep learning papers and useful materials."
 
 +++
 
-# Awesome - Most Cited Deep Learning Papers
-
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of the most cited deep learning papers (since 2012)
@@ -33,7 +31,7 @@ To get the news for newly released papers everyday, follow my [twitter](https://
 3. Papers that are important, but failed to be included in the list, will be listed in *More than Top 100* section.
 4. Please refer to *New Papers* and *Old Papers* sections for the papers published in recent 6 months or before 2012.
 
-*(Citation criteria)*
+*(Citation criteria)*  
 - **< 6 months** : *New Papers* (by discussion)
 - **2016** :  +60 citations or "More Papers from 2016"
 - **2015** :  +200 citations
