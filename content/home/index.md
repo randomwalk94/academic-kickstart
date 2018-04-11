@@ -35,7 +35,7 @@ My name is Hai Le. This page is still _under construction_; there is nothing to 
 
 # About 
 
-I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
+I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information about me will be in the Personal tab. 
 
 Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
