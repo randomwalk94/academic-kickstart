@@ -39,20 +39,6 @@ My name is Hai Le. This page is still _under construction_; there is nothing to 
 
 I'm pursuing a PhD in Mathematics at Penn State. This site includes my research activities, mathematical notes, teaching materials, and some tutorials. More information will be in the Personal tab. 
 
-[arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
-[Where did the quote come from?](https://quoteinvestigator.com/)  
-[Probability Events](http://www.math.columbia.edu/department/probability/seminar/upcoming_new.html)  
-[Probability Advice](https://web.math.rochester.edu/people/faculty/cmlr/advice.md)  
-[IPAM conference in Rough Paths](http://www.ipam.ucla.edu/programs/workshops/rough-paths-theory-and-applications/?tab=schedule)  
-[Probablity Lecture Notes](http://www.math.nus.edu.sg/~matsr/teaching.html)  
-[Ivan Corwin's Talks](https://www.msri.org/people/20600)  
-[PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)  
-[Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)  
-[Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)  
-[Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
-[VietAI](https://github.com/lampts/vietai)  
-[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)
-
 Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
 > Imagine an alien force, vastly more powerful than us landing on Earth and demanding the value of $R(5, 5)$ or they will destroy our planet. In that case, we should marshal all our computers and all our mathematicians and attempt to find the value. But suppose, instead, that they asked for $R(6, 6)$, we should attempt to destroy the aliens.
