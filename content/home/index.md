@@ -32,6 +32,11 @@ weight = 5
 +++
 # News
 My name is Hai Le. This page is still _under construction_; there is nothing to look at besides my CV yet. 
+<p class="read-more" itemprop="mainEntityOfPage">
+    <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
+      CURRICULUM VITAE
+    </a>
+</p>
 
 # About 
 
@@ -41,11 +46,7 @@ Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) a
 
 > Imagine an alien force, vastly more powerful than us landing on Earth and demanding the value of $R(5, 5)$ or they will destroy our planet. In that case, we should marshal all our computers and all our mathematicians and attempt to find the value. But suppose, instead, that they asked for $R(6, 6)$, we should attempt to destroy the aliens.
 
-<p class="read-more" itemprop="mainEntityOfPage">
-    <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
-      CURRICULUM VITAE
-    </a>
-</p>
+
 
 <marquee>HTML scrolling</marquee>
 
