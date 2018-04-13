@@ -66,23 +66,29 @@ Là mắt ai đang cười.
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
 
-<ul>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>Languages Used</h2>
-    <p>This page was written in HTML and CSS. The CSS was compiled from SASS. I used Normalize as my CSS reset and -prefix-free to save myself some headaches. I haven't quite gotten the hang of Slim for compiling into HTML, but someday I'll use it since its syntax compliments that of SASS. Regardless, this could all be done in plain HTML and CSS.</p>
-  </li>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>How it Works</h2>
-    <p>Using the sibling and checked selectors, we can determine the styling of sibling elements based on the checked state of the checkbox input element. One use, as demonstrated here, is an entirely CSS and HTML accordion element. Media queries are used to make the element responsive to different screen sizes.</p>
-  </li>
-  <li>
-    <input type="checkbox" checked>
-    <i></i>
-    <h2>Points of Interest</h2>
-    <p>By making the open state default for when :checked isn't detected, we can make this system accessable for browsers that don't recognize :checked. The fallback is simply an open accordion. The accordion can be manipulated with Javascript (if needed) by changing the "checked" property of the input element.</p>
-  </li>
+<div class="tabs">
+<ul class="tab-links">
+<li class="active"><a href="#tab1">Tab #1</a></li>
+<li><a href="#tab2">Tab #2</a></li>
+<li><a href="#tab3">Tab #3</a></li>
+<li><a href="#tab4">Tab #4</a></li>
 </ul>
+<div class="tab-content">
+<div id="tab1" class="tab active">
+<p>Tab #1 content goes here!</p>
+<p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis.</p>
+</div>
+<div id="tab2" class="tab">
+<p>Tab #2 content goes here!</p>
+<p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+</div>
+<div id="tab3" class="tab">
+<p>Tab #3 content goes here!</p>
+<p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum ri.</p>
+</div>
+<div id="tab4" class="tab">
+<p>Tab #4 content goes here!</p>
+<p>Donec pulvinar neque sed semper lacinia. Curabitur lacinia ullamcorper nibh; quis imperdiet velit eleifend ac. Donec blandit mauris eget aliquet lacinia! Donec pulvinar massa interdum risus ornare mollis. In hac habitasse platea dictumst. Ut euismod tempus hendrerit. Morbi ut adipiscing nisi. Etiam rutrum sodales gravida! Aliquam tellus orci, iaculis vel.</p>
+</div>
+</div>
+</div>
