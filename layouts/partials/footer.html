@@ -6,19 +6,7 @@
     <script id="dsq-count-scr" src="//{{ .Site.DisqusShortname }}.disqus.com/count.js" async></script>
     {{ end }}
 
-
-
-
-    <script>
-      function myFunction() {
-          var x = document.getElementById("myDIV");
-          if (x.style.display === "none") {
-              x.style.display = "block";
-          } else {
-              x.style.display = "none";
-          }
-      }
-      </script>
+    
 
     {{ if eq .Site.Params.map 1 }}
     <script async defer src="//maps.googleapis.com/maps/api/js?key={{ .Site.Params.map_api_key }}"></script>
