@@ -1199,37 +1199,37 @@ nav#navbar-main li {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
-  background-color: #fff;
+  background-color: {{ .Get "menu_primary" }};
   font-weight: 600;
 }
 
 .navbar-default .navbar-nav>li>a:focus {
   color: {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
-  background-color: #fff;
+  background-color: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>li>a:hover {
   color:  {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
-  background-color: #fff;
+  background-color: {{ .Get "menu_primary" }};
 }
 
 
 .navbar-default .navbar-nav>.active>a{
   color: {{ .Get "menu_text" }};
   font-weight: 700;
-  background: #fff;
+  background: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>.active>a:hover {
   color: {{ .Get "menu_text_active" }};
   font-weight: 700;
-  background: #fff;
+  background: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>.active>a:focus{
   color: {{ .Get "menu_text" }};
   font-weight: 700;
-  background: #fff;
+  background: {{ .Get "menu_primary" }};
 }
 
 
