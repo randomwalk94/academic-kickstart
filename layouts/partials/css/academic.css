@@ -1173,14 +1173,7 @@ Left and right align
   background: {{ .Get "menu_primary" }};
 }
 
-.navbar-default .navbar-toggle {
-  border-color: transparent;
-}
 
-.navbar-default .navbar-toggle:focus,
-.navbar-default .navbar-toggle:hover {
-  background-color: transparent;
-}
 
 nav#navbar-main li {
   font-size: 13px;
