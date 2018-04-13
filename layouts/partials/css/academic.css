@@ -171,7 +171,9 @@ a:hover {
   color: {{ .Get "primary_dark" }};
 }
 
-
+a:focus{
+  color: {{ .Get "primary" }};
+}
 
 img,
 video {
