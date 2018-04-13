@@ -45,3 +45,9 @@ Nắng sớm mong cơn mưa phùn còn ta nhớ mong người
 Vớt ánh trăng trong đáy hồ mà thấy trước u hoài  
 Đẹp tựa thanh hoa sứ cho dù đến trăm năm chẳng tàn  
 Là mắt ai đang cười.  
+
+<button onclick="myFunction()">Try it</button>
+
+<div id="myDIV">
+This is my DIV element.
+</div>

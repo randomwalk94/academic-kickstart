@@ -93,6 +93,18 @@
     {{ end }}
   {{ end }}
 
+  <style>
+    #myDIV {
+        width: 100%;
+        padding: 50px 0;
+        text-align: center;
+        background-color: lightblue;
+        margin-top: 20px;
+    }
+    </style>
+
+
+
   {{ if or .Site.RSSLink .RSSLink }}
   <link rel="alternate" href="{{ .RSSLink | default .Site.RSSLink  }}" type="application/rss+xml" title="{{ .Site.Title }}">
   <link rel="feed" href="{{ .RSSLink | default .Site.RSSLink }}" type="application/rss+xml" title="{{ .Site.Title }}">
