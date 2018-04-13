@@ -38,6 +38,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: inherit;
+  background-color: {{ .Get "background" }};
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
   counter-reset: captions;
@@ -1204,12 +1205,12 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>li>a:focus {
-  color: {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
+  color: {{ .Get "primary" }} /*{{ .Get "primary" }}*/;
   background-color: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>li>a:hover {
-  color:  {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
+  color:  {{ .Get "primary" }} /*{{ .Get "primary" }}*/;
   background-color: {{ .Get "menu_primary" }};
 }
 
@@ -1221,13 +1222,13 @@ nav#navbar-main li {
 }
 
 .navbar-default .navbar-nav>.active>a:hover {
-  color: {{ .Get "menu_text_active" }};
+  color: {{ .Get "primary" }};
   font-weight: 700;
   background: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>.active>a:focus{
-  color: {{ .Get "menu_text" }};
+  color: {{ .Get "primary" }};
   font-weight: 700;
   background: {{ .Get "menu_primary" }};
 }
