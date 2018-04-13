@@ -172,6 +172,10 @@ a:hover {
   color: {{ .Get "primary_dark" }};
 }
 
+a:focus{
+  text-decoration: none;
+}
+
 img,
 video {
   height: auto;
