@@ -1199,6 +1199,7 @@ nav#navbar-main li {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: {{ .Get "menu_text" }};
+  background-color: transparent;
   font-weight: 600;
 }
 
