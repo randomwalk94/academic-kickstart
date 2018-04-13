@@ -1673,6 +1673,7 @@ body.dark {
   }
   .accordion-section-title.active, .accordion-section-title:hover {
   background:#4c4c4c;
+  color: #fff;
   /* Type */
   text-decoration:none;
   }
