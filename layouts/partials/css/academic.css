@@ -1173,7 +1173,7 @@ Left and right align
 
 
 .navbar-default {
-  background: #fff;
+  background: {{ .Get "menu_primary" }};
   box-shadow: 0 0.125rem 0.25rem 0 rgba(0,0,0,.11)
 }
 
