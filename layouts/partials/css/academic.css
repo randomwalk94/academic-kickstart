@@ -173,7 +173,6 @@ a:hover {
 
 a:focus{
   color: {{ .Get "primary" }};
-  background-color: #fff;
   text-decoration: none;
 }
 
