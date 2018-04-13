@@ -1633,19 +1633,6 @@ body.dark {
 }
 
 
-/* Hightlight Color */
-
-::-moz-selection { /* Code for Firefox */
-  color: white;
-  background: {{ .Get "primary_dark" }};
-}
-
-::selection {
-  color: white;
-  background: {{ .Get "primary_dark" }};
-}
-
-
 /*----- Accordion -----*/
 .accordion, .accordion * {
   -webkit-box-sizing:border-box; 
