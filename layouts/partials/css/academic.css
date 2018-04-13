@@ -1199,12 +1199,12 @@ nav#navbar-main li {
 
 .navbar-default .navbar-nav>li>a:focus {
   color: {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
-  background-color: transparent;
+  background: {{ .Get "menu_primary" }};
 }
 
 .navbar-default .navbar-nav>li>a:hover {
   color:  {{ .Get "menu_text_active" }} /*{{ .Get "primary" }}*/;
-  /*background-color: {{ .Get "primary" }};*/
+  background: {{ .Get "menu_primary" }};
 }
 
 
