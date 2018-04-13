@@ -442,6 +442,7 @@ a[data-fancybox] img {
 
 .hero-overlay .hero-lead a {
   color: #fff;
+  text-decoration-line: underline;
 }
 
 .hero-overlay .btn-large {
@@ -1670,7 +1671,7 @@ body.dark {
   text-shadow:0px 1px 0px #1a1a1a;
   color:#fff;
   }
-  .accordion-section-title.active, .accordion-section-title:hover {
+  .accordion-section-title.active, .accordion-section-title:hover, .accordion-section-title:focus {
   background:#4c4c4c;
   color: #fff;
   /* Type */
