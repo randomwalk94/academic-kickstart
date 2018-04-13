@@ -1199,7 +1199,7 @@ nav#navbar-main li {
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
   color: #fff;
-  background-color: transparent;
+  background-color: #fff;
   font-weight: 600;
 }
 
