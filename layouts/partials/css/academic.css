@@ -1198,7 +1198,7 @@ nav#navbar-main li {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: {{ .Get "menu_text" }};
+  color: #fff;
   background-color: transparent;
   font-weight: 600;
 }
