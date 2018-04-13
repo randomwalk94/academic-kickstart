@@ -174,7 +174,9 @@ a:hover {
 a:focus{
   color: {{ .Get "primary" }};
   text-decoration: none;
+  background-color: #fff;
 }
+
 img,
 video {
   height: auto;
