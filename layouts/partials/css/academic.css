@@ -1217,13 +1217,13 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>.active>a{
   color: {{ .Get "menu_text" }};
   font-weight: 700;
-  background: {{ .Get "menu_primary" }};
+  background: #fff;
 }
 
 .navbar-default .navbar-nav>.active>a:hover {
   color: {{ .Get "menu_text_active" }};
   font-weight: 700;
-  background: {{ .Get "menu_primary" }};
+  background: #fff;
 }
 
 
