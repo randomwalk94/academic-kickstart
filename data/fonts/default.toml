@@ -12,5 +12,5 @@ mono_font = "Roboto Mono"
 quote_font = "Georgia"
 
 # Font size
-font_size = "15"
+font_size = "16"
 font_size_small = "14"
