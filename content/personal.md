@@ -65,21 +65,7 @@ Là mắt ai đang cười.
 <div class="content">
   <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
 </div>
-Khéo thay hình cá chép màu xanh trên nền sứ ngọc ngà  
-Bút ta phỏng theo nét người xưa, lòng nhớ mong tương tư   
-Người đã chôn giấu bí mật kia trong lò gốm bấy lâu  
-Có tiếng khẽ như kim thêu rơi trên mặt đất  
-Kiếp duyên trời se ta thành đôi muôn đời chẳng đổi dời  
-Một lần dạo qua nơi phồn hoa chốn Giang Nam gặp người  
-Trên nền tranh dáng ai kiêu sa mỗi đường nét như ghi tạc trong tim ta  
-Chorus: Nắng sớm mong cơn mưa phùn còn ta nhớ mong người  
-Khói bếp lan trong bóng chiều hoài vương vấn bên sông  
-Từng dòng thư pháp viết trên nền sứ mang theo tâm tư  
-Là ta phục bút chờ người đến kiếp sau  
-Nắng sớm mong cơn mưa phùn còn ta nhớ mong người  
-Vớt ánh trăng trong đáy hồ mà thấy trước u hoài  
-Đẹp tựa thanh hoa sứ cho dù đến trăm năm chẳng tàn  
-Là mắt ai đang cười.  
+
 <div class="accordion">
 <div class="accordion-section">
 <a class="accordion-section-title" href="#accordion-1">Accordion Section #1</a>
@@ -100,7 +86,21 @@ Là mắt ai đang cười.
 </div><!--end .accordion-section-content-->
 </div><!--end .accordion-section-->
 </div><!--end .accordion-->
-
+Khéo thay hình cá chép màu xanh trên nền sứ ngọc ngà  
+Bút ta phỏng theo nét người xưa, lòng nhớ mong tương tư   
+Người đã chôn giấu bí mật kia trong lò gốm bấy lâu  
+Có tiếng khẽ như kim thêu rơi trên mặt đất  
+Kiếp duyên trời se ta thành đôi muôn đời chẳng đổi dời  
+Một lần dạo qua nơi phồn hoa chốn Giang Nam gặp người  
+Trên nền tranh dáng ai kiêu sa mỗi đường nét như ghi tạc trong tim ta  
+Chorus: Nắng sớm mong cơn mưa phùn còn ta nhớ mong người  
+Khói bếp lan trong bóng chiều hoài vương vấn bên sông  
+Từng dòng thư pháp viết trên nền sứ mang theo tâm tư  
+Là ta phục bút chờ người đến kiếp sau  
+Nắng sớm mong cơn mưa phùn còn ta nhớ mong người  
+Vớt ánh trăng trong đáy hồ mà thấy trước u hoài  
+Đẹp tựa thanh hoa sứ cho dù đến trăm năm chẳng tàn  
+Là mắt ai đang cười.  
 <div class="accordion">
 <div class="accordion-section">
 <a class="accordion-section-title" href="#accordion1">Accordion Section #1</a>
