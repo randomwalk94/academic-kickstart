@@ -31,7 +31,7 @@ weight = 5
  
 +++
 # News
-This page is still _under construction_; there is nothing to look at besides my CV yet. 
+I will spend the summer in several institutions attending conferences and summer schools. Most of them are about random matrices and stochastic PDE. The list of the programs is shown [here](/opportunities/). 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
