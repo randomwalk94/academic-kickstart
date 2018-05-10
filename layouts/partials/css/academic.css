@@ -310,7 +310,7 @@ a[data-fancybox] {
 }
 
 a[data-fancybox] img {
-  max-height: inherit;
+  height: 240px;
   width: 240px;
   display: inherit;
   margin: 0;
