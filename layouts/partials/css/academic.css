@@ -307,15 +307,15 @@ small,
 
 a[data-fancybox] {
   text-decoration: none;
-}
+} 
 
 a[data-fancybox] img {
   height: 250px;
-  max-width: inherit;
   display: inherit;
   margin: 0;
   padding: 4px;
   box-shadow: none;
+  vertical-align: inherit;
 }
 
 .fancybox-caption {
