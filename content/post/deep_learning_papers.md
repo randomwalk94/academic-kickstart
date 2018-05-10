@@ -3,7 +3,7 @@ title = "Important Deep Learning Papers"
 
 date = 2018-04-11
 lastmod = 2018-04-11
-draft = false
+draft = true
 
 tags = ["deep learning", "papers"]
 summary = "A list of highly cited deep learning papers and useful materials."
