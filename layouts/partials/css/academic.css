@@ -316,7 +316,6 @@ a[data-fancybox] img {
   margin: 0;
   padding: 4px;
   box-shadow: none;
-  vertical-align: inherit;
 }
 
 .fancybox-caption {
