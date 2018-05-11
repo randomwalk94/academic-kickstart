@@ -21,6 +21,8 @@ Rough Paths | Link | Download
 KPZ Equation | Link | Download
 Random Matrices | Link | Download
 
+### Random Notes
+(or even in other subject)
 
 ## Teaching
 **Semester** | **Subject** | **Syllabus** |**Course Page** |**Institution**
@@ -28,10 +30,6 @@ Random Matrices | Link | Download
 Spring 2018 | _MATH 22 - College Algebra II_ | [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf) | [Link](https://math.psu.edu/undergraduate/courses/math022)| Penn State
 Fall 2017 | _MATH 22 - College Algebra II_ | [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf) | [Link](https://math.psu.edu/undergraduate/courses/math022)| Penn State
 
-## Random Notes
-(or even in other subjects)
+## Bibliography
 
-## References
-
-**Authors** | **Title** | **Journal/arXiv**
---- | --- | ---
+I just want to maintain a list of references for future research, mostly for convenience. Check it out here: [Bibliography](/bibliography).
