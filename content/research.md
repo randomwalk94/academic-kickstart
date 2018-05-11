@@ -7,7 +7,6 @@ draft = false
 
 +++
 
-## Research
 My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/) and [Yuri Suhov](http://www.statslab.cam.ac.uk/Dept/People/suhov.html). My interests cover several topics in partial differential equations and probability, including stochastic processes, random matrices, KPZ equations, etc.
 
 Check out my [publication](/publication) list (currently empty). 
