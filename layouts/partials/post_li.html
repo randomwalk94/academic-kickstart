@@ -7,7 +7,7 @@
   {{ if and $post.Params.header.image $preview }}
   <a href="{{ $post.Permalink }}">
     <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image" style="height: 240px;
-    max-width: inherit;">
+    width: auto;">
   </a>
   {{end}}
   <h3 class="article-title" itemprop="headline">
