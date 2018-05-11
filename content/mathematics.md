@@ -14,7 +14,7 @@ My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/) and [Yuri 
 
 **Subject** | **Post** | **Download**
 --- | --- | ---
-Stochastic Processese | Link | Download
+Stochastic Processes | Link | Download
 Rough Paths | Link | Download 
 KPZ Equation | Link | Download
 Random Matrices | Link | Download
