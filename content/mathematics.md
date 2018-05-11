@@ -12,12 +12,15 @@ My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/) and [Yuri 
 
 ### Notes
 
-**Subject** | **Post** | **Download**
+**Subject** | **Blog Post** | **Download**
 --- | --- | ---
 Stochastic Processes | Link | Download
 Rough Paths | Link | Download 
 KPZ Equation | Link | Download
 Random Matrices | Link | Download
+
+### References
+
 
 ## Teaching
 **Semester** | **Subject** | **Syllabus** |**Course Page** |**Institution**
