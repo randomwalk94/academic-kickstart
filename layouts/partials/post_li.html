@@ -4,11 +4,12 @@
   {{ partial "article_metadata" (dict "content" $post "is_list" 1) }}
 
   {{ $preview := $post.Params.header.preview | default true }}
-  <!-- {{ if and $post.Params.header.image $preview }}
+  {{ if and $post.Params.header.image $preview }}
   <a href="{{ $post.Permalink }}">
-    <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image">
+    <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image" style="height: 240px;
+    width: 240px;">
   </a>
-  {{end}}-->
+  {{end}}
   <h3 class="article-title" itemprop="headline">
     <a href="{{ $post.Permalink }}" itemprop="url">{{ $post.Title }}</a>
   </h3>
