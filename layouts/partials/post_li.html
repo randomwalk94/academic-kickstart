@@ -6,8 +6,8 @@
   {{ $preview := $post.Params.header.preview | default true }}
   {{ if and $post.Params.header.image $preview }}
   <a href="{{ $post.Permalink }}">
-    <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image" style="height: 240px;
-    width: auto;">
+    <img src="{{ "/img/" | relURL }}{{ $post.Params.header.image }}" class="article-banner" itemprop="image" style="height: auto;
+    width: 700px;">
   </a>
   {{end}}
   <h3 class="article-title" itemprop="headline">
