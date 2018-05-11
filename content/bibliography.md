@@ -7,7 +7,7 @@ draft = false
 
 +++
 
-The list is maintained for future research and convenience.
+The list is maintained for future research.
 
 **Authors** | **Title** | **Journal/arXiv**
 --- | --- | ---

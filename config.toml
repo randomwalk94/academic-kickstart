@@ -280,8 +280,13 @@ defaultContentLanguageInSubdir = false
 #  weight = 5
 
 [[menu.main]]
-  name = "MATHEMATICS"
-  url = "/mathematics"
+  name = "RESEARCH"
+  url = "/research"
+  weight = 7
+
+[[menu.main]]
+  name = "TEACHING"
+  url = "/teaching"
   weight = 7
 
 [[menu.main]]
