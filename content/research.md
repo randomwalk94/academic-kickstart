@@ -14,7 +14,7 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Notes
 
-**Subject** | **Blog Post** | **PDF**
+**Title** | **Blog Post** | **PDF**
 --- | --- | ---
 Stochastic Processes | Link | Download
 Rough Paths | Link | Download 
