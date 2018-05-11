@@ -12,7 +12,7 @@ My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/) and [Yuri 
 
 ### Notes
 
-**Subject** | **Blog Post** | **Download**
+**Subject** | **Blog Post** | **PDF**
 --- | --- | ---
 Stochastic Processes | Link | Download
 Rough Paths | Link | Download 
