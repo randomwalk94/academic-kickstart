@@ -28,3 +28,8 @@ Fall 2017 | _MATH 22 - College Algebra II_ | [Download](https://math.psu.edu/sit
 
 ## Random Notes
 (or even in other subjects)
+
+## References
+
+**Authors** | **Title** | **Journal**
+--- | --- | ---
