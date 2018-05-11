@@ -19,8 +19,6 @@ Rough Paths | Link | Download
 KPZ Equation | Link | Download
 Random Matrices | Link | Download
 
-### References
-
 
 ## Teaching
 **Semester** | **Subject** | **Syllabus** |**Course Page** |**Institution**
