@@ -21,7 +21,7 @@ KPZ Equation | Link | Download
 Random Matrices | Link | Download
 
 ### Random Notes
-(or even in other subject)
+(or even in other subjects)
 
 ### Bibliography
 
