@@ -13,9 +13,12 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Notes
 
+These include conference notes, research notes, or any notes that I want to write down to better understand the materials. Every note will have an associated blog post; I will sometimes $\LaTeX$ the notes for convenience.
+
 **Topic (Blog Post)** | **PDF (if available)**
 --- | ---
 [IPAM 2018 (Random Matrices) - Conference Notes](/post/ipam2018_RMT) | Download
+[Free Probability ](/post/free_probability) | Download
 
 
 ### Random Notes
@@ -23,4 +26,4 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Bibliography
 
-I just want to maintain a list of references for future research, mostly for convenience. Check it out here: [Bibliography](/bibliography).
+I just want to maintain a list of references for future research. Check it out here: [Bibliography](/bibliography).
