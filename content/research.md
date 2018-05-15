@@ -13,7 +13,7 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Notes
 
-**Topic** | **Blog Post** | **PDF**
+**Topic** | **Blog Post** | **PDF (if available)**
 --- | --- | ---
 IPAM 2018 (Random Matrices) - Conference Notes| [Link](/post/ipam2018_RMT) | Download
 
