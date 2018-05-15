@@ -28,4 +28,5 @@ draft = false
 [Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
 [VietAI](https://github.com/lampts/vietai)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)  
-[Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/)
+[Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/)  
+[Malliavin-Stein approach - Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)
