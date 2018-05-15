@@ -31,4 +31,4 @@ A **Brownian motion** $(U\_t)\_{t\ge 0}$ on the unitary group $\mathbb U\_N$ is 
 
 For other Lie groups: Levy (2011), Cébron, Kemp (2013), Ulrich (2015). For more general situations: Cébron (2016), Gabriel (2015). The set of trace polynomials has to be replaced by the set of traffic operations (in the sense of Camille Male).
 
-The Segal-Bargmann transformation ma
+The Segal-Bargmann transformation (1958). $q$-Gaussian law (Bozejko-Speicher, 1991). 
