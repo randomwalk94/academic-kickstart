@@ -1,5 +1,5 @@
 +++
-title = "A Systematic Way to Study Stochastic Analysis"
+title = "A Systematic Road to Stochastic Analysis"
 
 date = 2018-05-15
 draft = false
