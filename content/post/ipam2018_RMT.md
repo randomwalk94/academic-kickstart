@@ -19,6 +19,8 @@ I will not (and cannot) cover everything that was presented at the conference. H
 
 ## Brown Measure
 
+One first needs the framework of [free probability theory](https://en.wikipedia.org/wiki/Free_probability). I have written down some notes about this subject in a [blog post](/post/free_probability).
+
 ## Wigner-Dyson-Mehta Conjecture
 
 ## Quantum Unique Ergodicity Conjecture
