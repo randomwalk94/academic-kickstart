@@ -26,3 +26,7 @@ One first needs the framework of [free probability theory](https://en.wikipedia.
 ## Quantum Unique Ergodicity conjecture
 
 ## Brownian motions on Lie groups
+
+A **Brownian motion** $(U_t)_{t\ge 0}$ on the unitary group $\mathbb U_N$ is a Markov process starting at $I_N$ whose **generator is the Laplacian** $\frac{1}{2}\delta_{\mathbb U_N}$ for a certain metric.
+
+For other Lie groups: Levy (2011), Cébron, Kemp (2013), Ulrich (2015).
