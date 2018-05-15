@@ -8,8 +8,8 @@ tags = ["research", "probability theory", "stochastic processes","kpz universali
 summary = "Notes and references to study stochastic calculus."
 
 [header]
-image = ""
-caption = ""
+image = "/financial_stock.jpg"
+caption = "[BACKGROUNDS4K](http://backgrounds4k.net/stocks/)"
 
 +++
 
