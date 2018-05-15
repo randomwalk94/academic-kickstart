@@ -13,4 +13,4 @@ caption = ""
 
 +++
 
-References.
+Stochastic calculus is dedicated to the study of randomness.
