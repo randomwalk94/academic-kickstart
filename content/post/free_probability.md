@@ -5,7 +5,7 @@ date = 2018-05-15
 draft = false
 
 tags = ["research", "free probability", "probability theory", "operator theory"]
-summary = "Notes on the subject of free probability theory."
+summary = "Notes on the subject of free probability theory. In a nutshell, working in an abstract setting allows a generalization of classical probability theory."
 
 [header]
 image = ""
