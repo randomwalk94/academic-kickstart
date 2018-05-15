@@ -13,12 +13,10 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Notes
 
-**Title** | **Blog Post** | **PDF**
+**Topic** | **Blog Post** | **PDF**
 --- | --- | ---
-Stochastic Processes | Link | Download
-Rough Paths | Link | Download 
-KPZ Equation | Link | Download
-Random Matrices | Link | Download
+IPAM 2018 - Conference Notes| Link | Download
+
 
 ### Random Notes
 (or even in other subjects)
