@@ -169,6 +169,7 @@ h3.article-title a:hover {
 
 a:hover {
   color: {{ .Get "primary_dark" }};
+  tesxt-decoration: none;
   border-bottom: 1px solid #dfdfdf;
 }
 
