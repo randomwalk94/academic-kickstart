@@ -29,4 +29,5 @@ draft = false
 [VietAI](https://github.com/lampts/vietai)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/)  
 [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/)  
-[Malliavin-Stein approach - Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)
+[Malliavin-Stein approach - Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)  
+[Micro-progress](https://www.nytimes.com/2018/01/22/smarter-living/micro-progress.html)
