@@ -15,7 +15,7 @@ Check out my [publication](/publication) list (currently empty).
 
 **Topic** | **Blog Post** | **PDF**
 --- | --- | ---
-IPAM 2018 (Random Matrices) - Conference Notes| Link | Download
+IPAM 2018 (Random Matrices) - Conference Notes| [Link](/post/ipam2018_RMT) | Download
 
 
 ### Random Notes
