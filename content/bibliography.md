@@ -9,5 +9,5 @@ draft = false
 
 The list is maintained for future research.
 
-**Authors** | **Title** | **Journal/arXiv**
+**Authors** | **Title** | **Book/Journal/arXiv**
 --- | --- | ---
