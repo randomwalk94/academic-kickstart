@@ -27,6 +27,8 @@ One first needs the framework of [free probability theory](https://en.wikipedia.
 
 ## Brownian motions on Lie groups
 
-A **Brownian motion** $(U_t)_{t\ge 0}$ on the unitary group $\mathbb U_N$ is a Markov process starting at $I_N$ whose **generator is the Laplacian** $\frac{1}{2}\delta_{\mathbb U_N}$ for a certain metric.
+A **Brownian motion** $(U\_t)\_{t\ge 0}$ on the unitary group $\mathbb U\_N$ is a Markov process starting at $I\_N$ whose **generator is the Laplacian** $\frac{1}{2}\delta\_{\mathbb U\_N}$ for a certain metric.
 
 For other Lie groups: Levy (2011), Cébron, Kemp (2013), Ulrich (2015). For more general situations: Cébron (2016), Gabriel (2015). The set of trace polynomials has to be replaced by the set of traffic operations (in the sense of Camille Male).
+
+The Segal-Bargmann transformation ma
