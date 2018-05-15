@@ -15,6 +15,8 @@ caption = "Image credit: [**JLLSLY**](http://jllsly.com/matrix-images/matrix-ima
 
 Website for the workshop: [Workshop III: Random Matrices and Free Probability Theory](http://www.ipam.ucla.edu/programs/workshops/workshop-iii-random-matrices-and-free-probability-theory/).
 
+I will not (and cannot) cover everything that was presented at the conference. Here are some of the materials that I found useful and interesting.
+
 ## Brown Measure
 
 ## Wigner-Dyson-Mehta Conjecture
