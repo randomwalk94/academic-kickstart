@@ -9,7 +9,7 @@ summary = "Notes and references to study stochastic calculus."
 
 [header]
 image = "/financial_stock.jpg"
-caption = "[BACKGROUNDS4K](http://backgrounds4k.net/stocks/)"
+caption = "Image credit: [BACKGROUNDS4K](http://backgrounds4k.net/stocks/)"
 
 +++
 
