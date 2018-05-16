@@ -20,7 +20,7 @@ The website is written in the framework of a blog. Except for the main pages, ev
 [PERSONAL](/personal) | Maintains the list of non-academic blog posts (on my personal life, etc.)
 [POSTS](/post) | The list of all blog posts.
 [RESEARCH](/research) | Contains materials related to my research activities.
-[TEACHING](/teaching) | Contains teaching materials, teaching tips.
+[TEACHING](/teaching) | Contains teaching materials, teaching tips, course notes.
 [RESOURCES](/resources) | Tutorials/tips/tricks on different topics (both in academia and non-academia). Maintains links to other useful websites.
 [OPPORTUNITIES](/opportunities) | Maintains my travel agenda and the list of other academic events.
 [CONTACT](/#contact) | How to get to me.
