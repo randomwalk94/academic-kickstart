@@ -11,5 +11,5 @@ The list is maintained for future research, in chronological order.
 
 **Authors** | **Title** | **Book/Journal/arXiv**
 --- | --- | ---
-L. Bertini and G. Giacomin | [Stochastic Burgers and KPZ equations from particle systems](https://projecteuclid.org/euclid.cmp/1158328658) | _Communications in Mathematical Physics_
+L. Bertini and G. Giacomin | [_Stochastic Burgers and KPZ equations from particle systems_](https://projecteuclid.org/euclid.cmp/1158328658) | Communications in Mathematical Physics
  (1997)
