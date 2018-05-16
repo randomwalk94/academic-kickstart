@@ -13,7 +13,7 @@ Check out my [publication](/publication) list (currently empty).
 
 ### Notes
 
-These include conference notes, research notes, or any significant notes that I want to write down to better understand the materials. Every note will have an associated blog post; I will sometimes $\LaTeX$ the notes for convenience.
+These include conference notes, research notes, or any significant notes that I want to write down to better understand the materials. Every note will have a respective blog post; I will sometimes $\LaTeX$ the notes for convenience.
 
 **Topic (Blog Post)** | **PDF (if available)**
 --- | ---
