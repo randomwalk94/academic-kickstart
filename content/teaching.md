@@ -7,9 +7,9 @@ draft = false
 
 +++
 ## Courses 
-**Semester** | **Subject** | **Syllabus** |**Course Page** |**Institution**
---- | --- | --- | --- | ---
-Spring 2018 | _MATH 22 - College Algebra II_ | [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf) | [Link](https://math.psu.edu/undergraduate/courses/math022)| Penn State
-Fall 2017 | _MATH 22 - College Algebra II_ | [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf) | [Link](https://math.psu.edu/undergraduate/courses/math022)| Penn State
+**Semester** | **Subject/Course Page** | **Syllabus** |**Institution**
+--- | --- | --- | ---
+Spring 2018 | [_MATH 22 - College Algebra II_](https://math.psu.edu/undergraduate/courses/math022) | [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf) | Penn State
+Fall 2017 | [_MATH 22 - College Algebra II_](https://math.psu.edu/undergraduate/courses/math022)| [Download](https://math.psu.edu/sites/default/files/section/undergraduate/22sylSp18.pdf)| Penn State
 
 
