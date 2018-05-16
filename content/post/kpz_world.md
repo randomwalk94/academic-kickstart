@@ -15,8 +15,15 @@ caption = ""
 
 This post is just a collection of materials that are related to the KPZ equation. It is, in any measure, not complete. I want to have a good repository of references on the subject. Also, it is a way for me to organize knowledge. 
 
-Alphabetical list by last names of mathematicians working on the subject (again, _really_ incomplete): 
-
+A list of mathematicians working on the subject (which is _really_ incomplete): 
+<div class="accordion">
+<div class="accordion-section">
+<a class="accordion-section-title" href="#mathlist">KPZ List</a>
+<div id="mathlist" class="accordion-section-content">
+<p>Ivan Corwin, Martin Hairer</p>
+</div><!--end .accordion-section-content-->
+</div><!--end .accordion-section-->
+</div><!--end .accordion-->
 
 ## Introduction
 
