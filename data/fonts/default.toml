@@ -7,8 +7,8 @@ google_fonts = "Montserrat:400,700|Asap:400,400italic,700|Marcellus+SC:400,400it
 # Font families
 heading_font = "Marcellus SC"
 body_font = "Gentium Book Basic"
-nav_font = "Roboto"
-mono_font = "Roboto Mono"
+nav_font = "Marcellus SC"
+mono_font = "Marcellus SC"
 quote_font = "Georgia"
 
 # Font size
