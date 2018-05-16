@@ -13,5 +13,5 @@ caption = "Image credit: [**BACKGROUNDS4K**](http://backgrounds4k.net/stocks/)"
 
 +++
 
-Stochastic calculus is dedicated to the theory of _stochastic processes_. Just like classical calculus being the study of functions, stochastic calculus provides tools to operates on stochastic processes, which are in essence _random functions_.
+Stochastic calculus is dedicated to the theory of _stochastic processes_. Just like classical calculus being the study of functions, stochastic calculus provides tools to operate on stochastic processes, which are in essence _random functions_.
 
