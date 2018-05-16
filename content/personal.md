@@ -13,12 +13,8 @@ I wrote a little guide to read through my website and locate needed information:
 
 ## Blog
 (many pictures are found via Google Images, so I won't be able to give credits to their respective owners, but thank you for letting me using them)
-  <ul>
-  
-[May 16, 2018 - The Benefits of Writing Whatever](/post/blog_2018_05_16)  
-[May 10, 2018 - Basically Homeless](/post/blog_2018_05_10)
-  </ul>
 
-
-
-## Random Words
+**Date** | **Title**
+--- | ---
+May 16, 2018 | [The Benefits of Writing Whatever](/post/blog_2018_05_16)
+May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10)
