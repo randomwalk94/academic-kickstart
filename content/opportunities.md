@@ -8,7 +8,6 @@ draft = false
 +++
 
 ## Agenda
-(I will attend these programs)
 
 [List of Programs by AMS](https://www.ams.org/meetings/calendar/mathcalendar.pl)
 
