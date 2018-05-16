@@ -20,12 +20,14 @@ I will not (and cannot) cover everything that was presented at the conference. H
 ## Table of contents
 <!-- TOC -->
 
+- [Table of contents](#table-of-contents)
 - [Brown measure](#brown-measure)
 - [Wigner-Dyson-Mehta conjecture](#wigner-dyson-mehta-conjecture)
 - [Quantum Unique Ergodicity conjecture](#quantum-unique-ergodicity-conjecture)
 - [Brownian motions on Lie groups](#brownian-motions-on-lie-groups)
 - [Chinese restaurant process](#chinese-restaurant-process)
 - [CUE field](#cue-field)
+- [Laplace deviation principle/Free entropy](#laplace-deviation-principlefree-entropy)
 
 <!-- /TOC -->
 
@@ -49,3 +51,5 @@ The Segal-Bargmann transformation (1958). $q$-Gaussian law (Bozejko-Speicher, 19
 
 ## CUE field
 Arguin-Belius-Bourgade-Soundararajan-Radziwill'16 on the Riemann $\zeta$ function.
+
+## Laplace deviation principle/Free entropy
