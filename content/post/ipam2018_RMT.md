@@ -53,3 +53,4 @@ The Segal-Bargmann transformation (1958). $q$-Gaussian law (Bozejko-Speicher, 19
 Arguin-Belius-Bourgade-Soundararajan-Radziwill'16 on the Riemann $\zeta$ function.
 
 ## Laplace deviation principle/Free entropy
+Yoann Dabrowski
