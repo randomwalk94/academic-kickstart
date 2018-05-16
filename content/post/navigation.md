@@ -27,4 +27,4 @@ The website is written in the framework of a blog. Except for the main pages, ev
 
 Each post has the comment section powered by [Disqus](http://disq.us/). Unfortunately, Disqus no longer provides support for Mathjax so $\LaTeX$ cannot be used in comments.
 
-There is the [Tag](/#tag) section on the the front page of the website.
+There is the [Tag](/#tags) section on the the front page of the website.
