@@ -17,8 +17,10 @@ Website for the workshop: [Workshop III: Random Matrices and Free Probability Th
 
 I will not (and cannot) cover everything that was presented at the conference. Here are some of the materials that I found useful and interesting.
 
+## Table of contents
 <!-- TOC -->
 
+- [Table of contents](#table-of-contents)
 - [Brown measure](#brown-measure)
 - [Wigner-Dyson-Mehta conjecture](#wigner-dyson-mehta-conjecture)
 - [Quantum Unique Ergodicity conjecture](#quantum-unique-ergodicity-conjecture)
