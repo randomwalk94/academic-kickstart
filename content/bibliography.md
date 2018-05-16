@@ -7,7 +7,7 @@ draft = false
 
 +++
 
-The list is maintained for future research, in reverse chronological order.
+The list is maintained for future research, in reverse chronological order and alphebetical by authors' names.
 
 **Authors** | **Title** | **Book/Journal/arXiv**
 --- | --- | ---
