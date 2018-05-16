@@ -20,5 +20,5 @@ This post is dedicated to collecting materials that are related to the KPZ equat
 [[KPZ](#KPZ)] is the work that initiated the field.
 
 ## References
-<a id="KPZ">[KPZ]</a> Kardi-Parisi-Zhang, Whatever
+[<a id="KPZ">KPZ</a>] Kardi-Parisi-Zhang, Whatever
 
