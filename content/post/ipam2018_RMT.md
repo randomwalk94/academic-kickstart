@@ -17,6 +17,15 @@ Website for the workshop: [Workshop III: Random Matrices and Free Probability Th
 
 I will not (and cannot) cover everything that was presented at the conference. Here are some of the materials that I found useful and interesting.
 
+<!-- TOC -->
+
+- [Brown measure](#brown-measure)
+- [Wigner-Dyson-Mehta conjecture](#wigner-dyson-mehta-conjecture)
+- [Quantum Unique Ergodicity conjecture](#quantum-unique-ergodicity-conjecture)
+- [Brownian motions on Lie groups](#brownian-motions-on-lie-groups)
+
+<!-- /TOC -->
+
 ## Brown measure
 
 One first needs the framework of [free probability theory](https://en.wikipedia.org/wiki/Free_probability). I have written down some notes about this subject in a [blog post](/post/free_probability).
