@@ -13,7 +13,10 @@ caption = ""
 
 +++
 
-This post is just a collection of materials that are related to the KPZ equation. It is, in any measure, not complete. I want to have a good repository for references on the subject. Also, it is a way for me to organize knowledge. 
+This post is just a collection of materials that are related to the KPZ equation. It is, in any measure, not complete. I want to have a good repository of references on the subject. Also, it is a way for me to organize knowledge. 
+
+Alphabetical list by last names of mathematicians working on the subject (again, _really_ incomplete): 
+
 
 ## Introduction
 
