@@ -36,7 +36,7 @@ The main limitation of the martingale approach to the SBE/KPZ equation is that c
 
 To summarize, the main contribution of the present paper is a proof of uniqueness of energy solutions (in the refined formulation of Jara and Gubinelli~\cite{bib:gubinelliJara}) on the real line and on the torus. We start by introducing the notion of solution and the space of trajectories where solutions live in Section~\ref{sec:energySolutions}. Subsequently we discuss in Section~\ref{sec:additive} several key estimates available in this space, estimates which allow to control a large class of additive functional. After these preliminaries we show in Section~\ref{sec:proof} how to implement the Cole--Hopf transformation at the level of energy solutions and, by a careful control of some error terms, how to establish the It\^o formula which proves the mapping from the SBE to the SHE. Using the uniqueness for the SHE we conclude the uniqueness of energy solutions. In Appendix~\ref{app:periodic} we add some details on how to modify the proof to deal with the case of periodic boundary conditions.
 
-<a name="pookie">ds fd fsd f</a>
+asd fasd fds fasd das as <a name="pookie">ds fd fsd f</a>
 
 
 ## Rerefences
