@@ -6,7 +6,7 @@ google_fonts = "Montserrat:400,700|Asap:400,400italic,700|Barlow:400,400italic,7
 
 # Font families
 heading_font = "Montserrat"
-body_font = "Barlow"
+body_font = "Source Sans Pro"
 nav_font = "Roboto"
 mono_font = "Roboto Mono"
 quote_font = "Georgia"
