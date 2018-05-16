@@ -9,15 +9,16 @@ draft = false
 ## Tutorials/Tricks/Tips
 
 {{% alert note %}}
-Here are several useful tools and tips that I have been using for work to improve productivity or something that is just interesting and necessary to know.
-
+Here are several useful tools and tips that I have been using for work to improve productivity or something that is just interesting and necessary to know. Click on each to go to the associated blog post where I can write more.
 {{% /alert %}}
+
+
 
 ## Links
 (the links are in no order; just for my own convenience to retrieve later)
 
 #### Blogs/Personal Websites
-[Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI)  
+[Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI tutorials)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)
 
 
