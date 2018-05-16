@@ -8,6 +8,12 @@ draft = false
 
 ## Tutorials
 
+Tricks and tips.
+
+{{% alert note %}}
+Softwares that I have been using in my professional life.
+{{% /alert %}}
+
 ## Links
 
 #### Blogs/Personal Websites
