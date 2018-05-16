@@ -28,4 +28,4 @@ These include conference notes, research notes, or any notes that I want to writ
 
 ### Bibliography
 
-I just want to maintain a list of references for future research. Check it out here: [Bibliography](/bibliography).
+I just want to maintain a list of references for convenience. Check it out here: [Bibliography](/bibliography).
