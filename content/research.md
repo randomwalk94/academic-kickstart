@@ -25,7 +25,3 @@ These include conference notes, research notes, or any notes that I want to writ
 
 ### Random Notes
 (or even in other subjects)
-
-### Bibliography
-
-I just want to maintain a list of references for convenience. Check it out here: [Bibliography](/bibliography).
