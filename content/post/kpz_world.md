@@ -18,6 +18,6 @@ This post is dedicated to collecting materials that are related to the KPZ equat
 ## Introduction
 
 
-## Rerefences
+## References
 
 
