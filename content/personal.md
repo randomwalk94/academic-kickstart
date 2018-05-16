@@ -9,7 +9,7 @@ draft = false
 
 My first name is pronounced like the word "Hi" in English. The correct form in Vietnamese would be "Hải" with the question-mark-like symbol on top of the letter "a". 
 
-I wrote a little guide to read through my website and locate needed information: [Navigation](/post/navigation)
+I wrote a little guide to read through my website and locate needed information: [Navigation](/post/navigation).
 
 ## Blog
 
