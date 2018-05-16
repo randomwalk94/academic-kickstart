@@ -25,4 +25,4 @@ Malliavin Calulus | Download
 
 
 ### Random Notes
-(these are shorter notes or even in other subjects)
+(these are shorter notes, outside of my main research line or even in other subjects)
