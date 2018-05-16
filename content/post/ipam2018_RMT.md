@@ -19,11 +19,6 @@ I will not (and cannot) cover everything that was presented at the conference. H
 
 ## Table of contents
 
-- [Brown measure](#brown-measure)
-- [Wigner-Dyson-Mehta conjecture](#wigner-dyson-mehta-conjecture)
-- [Quantum Unique Ergodicity conjecture](#quantum-unique-ergodicity-conjecture)
-- [Brownian motions on Lie groups](#brownian-motions-on-lie-groups)
-
 ## Brown measure
 
 One first needs the framework of [free probability theory](https://en.wikipedia.org/wiki/Free_probability). I have written down some notes about this subject in a [blog post](/post/free_probability).
@@ -39,3 +34,8 @@ A **Brownian motion** $(U\_t)\_{t\ge 0}$ on the unitary group $\mathbb U\_N$ is 
 For other Lie groups: Levy (2011), Cébron, Kemp (2013), Ulrich (2015). For more general situations: Cébron (2016), Gabriel (2015). The set of trace polynomials has to be replaced by the set of traffic operations (in the sense of Camille Male).
 
 The Segal-Bargmann transformation (1958). $q$-Gaussian law (Bozejko-Speicher, 1991). $q$-deformation.
+
+## Chinese restaurant process
+
+## CUE field
+Arguin-Belius-Bourgade-Soundararajan-Radziwill'16 on the Riemann $\zeta$ function.
