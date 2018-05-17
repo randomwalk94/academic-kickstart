@@ -28,6 +28,10 @@ An unordered list of mathematicians appearing in the field (which is _almost sur
 ## Introduction
 
 
+## Regularity Structures
+The purpose of regularity structures, introduced in [Hai14] and motivated by [Lyo98,
+Gub04], is to generalise Taylor expansions using essentially arbitrary functions/distributions
+instead of polynomials.
 
 ## References
 
