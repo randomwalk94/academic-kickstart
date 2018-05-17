@@ -28,6 +28,7 @@ I will not (and cannot) cover everything that was presented at the conference. H
 - [Chinese restaurant process](#chinese-restaurant-process)
 - [CUE field](#cue-field)
 - [Laplace deviation principle/Free entropy](#laplace-deviation-principlefree-entropy)
+- [Dan-Virgil Voiculescu](#dan-virgil-voiculescu)
 
 <!-- /TOC -->
 
@@ -54,3 +55,6 @@ Arguin-Belius-Bourgade-Soundararajan-Radziwill'16 on the Riemann $\zeta$ functio
 
 ## Laplace deviation principle/Free entropy
 Yoann Dabrowski
+
+## Dan-Virgil Voiculescu
+Ben Arous-V. Free Max-stable Laws. Pareto-distribution.

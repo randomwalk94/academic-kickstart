@@ -175,6 +175,7 @@ a:hover {
 
 a:focus{
   color: {{ .Get "primary" }};
+  text-decoration: none;
 }
 
 .biblio, .biblio:hover
