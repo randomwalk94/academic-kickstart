@@ -11,6 +11,9 @@ draft = false
 {{% alert note %}}
 Here are several useful tools and tips that I have been using for work to improve productivity or something that is just interesting and necessary to know. Click on each to go to the associated blog post where I can write more.
 {{% /alert %}}
+Mendeley - BibTeX management software  
+Mathtype - Math formula generator with $\LaTeX$ support  
+Visual Studio Code  
 
 
 
