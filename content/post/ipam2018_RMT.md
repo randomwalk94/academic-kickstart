@@ -8,7 +8,7 @@ tags = ["research", "conference", "summer 2018", "random matrix theory", "free p
 summary = "Notes on some of the topics presented at the conference."
 
 [header]
-image = "/matrix_ipam2018.jpg"
+image = "/ipam2018.jpg"
 caption = "Image credit: [**JLLSLY**](http://jllsly.com/matrix-images/matrix-images-is-cool-wallpapers/)"
 
 +++
