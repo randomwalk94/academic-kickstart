@@ -17,6 +17,7 @@ These include conference notes, research notes, or any significant notes that I 
 
 **Topic (Blog Post)** | **PDF (if available)**
 --- | ---
+[Regularity Structures](/post/regularity_structures) | Download
 [KPZ Equation and Related Topics](/post/kpz_world) | Download 
 [IPAM 2018 (Random Matrices) - Conference Notes](/post/ipam2018_rmt) | Download
 [Free Probability ](/post/free_probability) | Download

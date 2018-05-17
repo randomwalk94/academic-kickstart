@@ -4,7 +4,7 @@ title = "KPZ World"
 date = 2018-05-15
 draft = false
 
-tags = ["research", "kpz equation", "probability theory", "random matrix theory", "stochastic processes","kpz universality", "growth models","regularity structures", "rough path theory"]
+tags = ["research", "kpz equation", "probability theory", "random matrix theory", "stochastic processes","kpz universality", "growth models","regularity structures", "rough path theory", "stochastic partial differential equations"]
 summary = "Notes and references on topics that bear KPZ (Kardar-Parisi-Zhang) in the spirit."
 
 [header]
@@ -20,7 +20,7 @@ An unordered list of mathematicians appearing in the field (which is _almost sur
 <div class="accordion-section">
 <a class="accordion-section-title" href="#mathlist">KPZ List</a>
 <div id="mathlist" class="accordion-section-content">
-<p>[Ivan Corwin](https://www.math.columbia.edu/~corwin/), [Martin Hairer](http://www.hairer.org/), [Jeremy Quastel](http://www.math.toronto.edu/quastel/)</p>
+<p>[Ivan Corwin](https://www.math.columbia.edu/~corwin/), [Martin Hairer](http://www.hairer.org/), [Jeremy Quastel](http://www.math.toronto.edu/quastel/), [Konstantin Matetski](http://www.math.toronto.edu/matetski/index.html)</p>
 </div><!--end .accordion-section-content-->
 </div><!--end .accordion-section-->
 </div><!--end .accordion-->
