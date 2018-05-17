@@ -1,5 +1,5 @@
 +++
-title = "IPAM Workshop 2018 - Random Matrices and Free Probability Theory"
+title = "Sunshine in Los Angeles"
 
 date = 2018-05-14
 draft = false
