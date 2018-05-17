@@ -24,4 +24,4 @@ In this post, I will just write down what I want to know and would be useful to 
 
 ## References
 
-[<a id="MS17">MS17</a>] Mingo, J., Speicher, R., _Free probability and Random matrices_, Fields Institute Monographs, Springer, Press, 2017.
+[<a class="biblio" id="MS17">MS17</a>] Mingo, J., Speicher, R., _Free probability and Random matrices_, Fields Institute Monographs, Springer, Press, 2017.

@@ -177,6 +177,15 @@ a:focus{
   color: {{ .Get "primary" }};
 }
 
+.biblio, .biblio:hover
+{
+  color: black;
+  border-bottom: 0px;
+  text-decoration: none;
+}
+
+
+
 img,
 video {
   height: auto;
