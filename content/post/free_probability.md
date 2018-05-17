@@ -12,5 +12,11 @@ image = ""
 caption = ""
 
 +++
+First, let me mention the nice writing of Terence Tao on the subject: [What's New - Free Probability](https://terrytao.wordpress.com/2010/02/10/245a-notes-5-free-probability/). It best describes the spirit of the construction of noncommutative probability theory as a further genelization of classical probability theory by focusing on, instead of events and the sample space, _the algebra of random variables_ and _their expectations_. 
 
-The abstract formalism allows one to generalise the classical, commutative theory of probability to the more general theory of non-commutative probability theory, which does not have a classical underlying sample space or event space, but is instead built upon a (possibly) non-commutative algebra of random variables (or “observables”) and their expectations (or “traces”).
+It would be an abundance just to rewrite everything from the foundation of the theory since there are many good resources in the literature. Terry Tao already provided one. The most comprehensive text is due to Mingo and Speicher [[MS17](#MS17)]. A good place of resources is [Roland Speicher's website](https://www.math.uni-sb.de/ag/speicher/ueberFWTE.html) (What is Free Probability?).
+
+
+## References
+
+[<a id="MS17">MS17</a>] Mingo, J., Speicher, R., _Free probability and Random matrices_, Fields Institute Monographs, Springer, Press, 2017.
