@@ -31,7 +31,7 @@ weight = 5
  
 +++
 # News
-I will spend the summer in several institutions attending conferences and summer schools. Most of them are about random matrices and stochastic PDE. Here is the [agenda](/opportunities/). 
+I will spend the summer at several institutions attending conferences and summer schools. Most of them are about random matrices and stochastic PDE. Here is the [agenda](/opportunities/). 
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
