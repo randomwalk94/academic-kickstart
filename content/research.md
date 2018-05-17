@@ -25,4 +25,4 @@ These include conference notes, research notes, or any significant notes that I 
 
 
 ### Random Notes
-(these are shorter notes with no specific topic, often outside of my main research line or even in other subjects)
+(these are shorter notes with less specific topic, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)

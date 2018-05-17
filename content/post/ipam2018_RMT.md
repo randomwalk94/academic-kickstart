@@ -29,6 +29,7 @@ I will not (and cannot) cover everything that was presented at the conference. H
 - [CUE field](#cue-field)
 - [Laplace deviation principle/Free entropy](#laplace-deviation-principlefree-entropy)
 - [Dan-Virgil Voiculescu](#dan-virgil-voiculescu)
+- [Compressed sensing/Sparsity](#compressed-sensingsparsity)
 
 <!-- /TOC -->
 
@@ -58,3 +59,6 @@ Yoann Dabrowski
 
 ## Dan-Virgil Voiculescu
 Ben Arous-V. Free Max-stable Laws. Pareto-distribution.
+
+## Compressed sensing/Sparsity
+Candes, Romberg, Tao '06, Donoho. Restricted isometry property.
