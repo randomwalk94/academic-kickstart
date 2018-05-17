@@ -5,7 +5,7 @@ date = 2018-05-14
 draft = false
 
 tags = ["research", "conference", "summer 2018", "random matrix theory", "free probability"]
-summary = "Notes on some of the topics presented at the conference."
+summary = "Notes on some of the topics presented at the Workshop: Random Matrices and Free Probability Theory at IPAM during summer of 2018."
 
 [header]
 image = "/ipam2018.jpg"
