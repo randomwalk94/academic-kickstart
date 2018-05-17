@@ -25,5 +25,5 @@ These include conference notes, research notes, or any significant notes that I 
 
 
 ### Random Notes
-(these are shorter notes with less specific topic, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)
+(these are shorter notes with less specific topic, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)  
 [On a conjecture concerning the sum of independent Rademacher random variables](https://arxiv.org/pdf/1112.4988.pdf)
