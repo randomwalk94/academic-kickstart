@@ -61,4 +61,4 @@ Yoann Dabrowski
 Ben Arous-V. Free Max-stable Laws. Pareto-distribution.
 
 ## Compressed sensing/Sparsity
-Candes, Romberg, Tao '06, Donoho. Restricted isometry property.
+Candes, Romberg, Tao '06, Donoho. Restricted isometry property. Khintchine inequality.
