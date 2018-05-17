@@ -12,7 +12,7 @@ My first name is pronounced like the word "Hi" in English. The correct form in V
 I wrote a little guide to read through my website and locate needed information: [Navigation](/post/navigation).
 
 ## Blog
-(many pictures are found via Google Images, so I won't be able to give credits to their respective owners, but thank you for letting me using them)
+(I used many pictures found via Google Images, so I won't be able to give credits to their respective owners, but thank you for letting me using them!)
 
 **Date** | **Title**
 --- | ---
