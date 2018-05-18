@@ -13,6 +13,8 @@ From [Gowers' Blog](https://gowers.wordpress.com/2010/08/22/icm2010-smirnov-laud
 
 > One of the holy grails of mathematics is to prove universality, which basically says that if you stand back from a self-avoiding walk so that the mesh of the lattice is too small for you to see it, then you will not be able to tell what the model is.
 
+>The large-scale behaviour of a statistical system should be largely insensitive to the precise small-scale geometry of that system, after normalising some key parameters.
+
 
 Check out my [publication](/publication) list (currently empty). 
 
