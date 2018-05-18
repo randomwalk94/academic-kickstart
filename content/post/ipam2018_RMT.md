@@ -30,6 +30,7 @@ I will not (and cannot) cover everything that was presented at the conference. H
 - [Laplace deviation principle/Free entropy](#laplace-deviation-principlefree-entropy)
 - [Dan-Virgil Voiculescu](#dan-virgil-voiculescu)
 - [Compressed sensing/Sparsity](#compressed-sensingsparsity)
+- [Ofer Zeitounni](#ofer-zeitounni)
 
 <!-- /TOC -->
 
@@ -63,3 +64,5 @@ Ben Arous-V. Free Max-stable Laws. Pareto-distribution.
 ## Compressed sensing/Sparsity
 Candes, Romberg, Tao '06, Donoho. Restricted isometry property. Khintchine inequality.
 
+## Ofer Zeitounni
+Small pertubations of Toeplitz random matrices. Trefethen - pseudo-spectrum. Spectrum stability for symmetric matrices. No controls on non-Hermitian matrices. Ginibre complex  matrices.
