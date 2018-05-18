@@ -1703,3 +1703,11 @@ body.dark {
   padding:10px;
   display:none;
   }
+
+  code.has-jax {
+    font: inherit;
+    font-size: 100%;
+    background: inherit;
+    border: inherit;
+    color: #333;
+}
