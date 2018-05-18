@@ -12,25 +12,31 @@ image = ""
 caption = ""
 
 +++
-We note that the above holds if it holds for a subsequence `$n_k$`,
-`\[{\bf{P}}[{S_{n_k}} > (1 - \varepsilon ){L_{n_k}},\;{\text{infinitely often}}] = 1.\]`
-Pick an integer $N$ large enough (which we will specify later). Let `$n_k=N^k$`, `$\Delta n_k = n_k-n_{k-1}$`, and
-`\[{A_k} = \left\{ {{S_{{n_k}}} - {S_{{n_{k - 1}}}} > \sqrt {2\Delta {n_k}\log \log{n_k}} \;} \right\}.\]`
-The events $A_k$'s are independent. Moreover, we have that, for $k$ large enough, 
-`\[\begin{aligned}
-{\bf{P}}[{A_k}] &= {\bf{P}}[{S_{{n_k}}} - {S_{{n_{k - 1}}}} > \sqrt {2\Delta {n_k}\log \log {n_k}} ]\\
- &= {\bf{P}}\left[ {\frac{{{S_{{n_k}}} - {S_{{n_{k - 1}}}}}}{{\sqrt {\Delta {n_k}} }} > \sqrt {2\log \log{n_k}} } \right]\\
- &\ge \frac{C}{{\sqrt {2\log \log{n_k}} }}{e^{ - \log \log {n_k}}}\\
- &= \frac{{C'}}{{\sqrt {\log k + \log \log N} }} \cdot \frac{1}{k},
-\end{aligned}\]`
-We can see that the series `$\sum {\frac{1}{{k\sqrt {\log k} }}}  \approx \int {\frac{1}{{k\sqrt {\log k} }}}  = {(\log k)^{1/2}}$` diverges. Hence, `$\sum {{\bf{P}}[{A_k}]}  = \infty $`. By Borel-Cantelli, we get that `${\bf{P}}[{A_k},\;\text{infinitely often}] =1$`. More explicitly, there exists a set `$A$` of full measure so that for $\omega \in A$ we have
-`\[{S_{{n_k}}} - {S_{{n_{k - 1}}}} > \sqrt {2\Delta {n_k}\log \log {n_k}} \]`
-for infinitely many $k$. From (i), by replacing $X_i$ with $-X_i$ and letting $\E =1$, we can get a lower bound on $S_n$, which is
-`\[{S_n}>  - 2\sqrt {2n\log \log n} \quad \text{for large enough $n$ a.s.}\]`
-Overall, for $\omega \in A$, for infinitely many values of $k$, we get
-`\[\begin{aligned}
-{S_{{n_k}}}(\omega ) &= {S_{{n_{k - 1}}}}(\omega ) + \left( {{S_{{n_k}}} - {S_{{n_{k - 1}}}}} \right)(\omega )\\
- &\ge  - 2\sqrt {2{n_{k - 1}}\log \log {n_{k - 1}}}  + \sqrt {2\Delta {n_k}\log \log {n_k}} \\
- &=  - \frac{2}{{\sqrt N }}\sqrt {2{n_k}\log \log n_k}  + \sqrt {1 - \frac{1}{N}} \sqrt {2{n_k}\log \log n_k} .
-\end{aligned}\]`
-Choosing $N$ large enough so that `$\sqrt {1 - \frac{1}{N}}  > \frac{2}{{\sqrt N }} + 1 -\varepsilon$`, we will get the desired result.
+### 4.1. Bắt đầu với dữ liệu nhỏ
+Các bài toán Machine Learning thường có độ phức tạp cao với lượng dữ liệu lớn và nhiều chiều. Để có thể áp dụng một thuật toán vào một bài toán cụ thể, trước tiên chúng ta cần áp dụng thuật toán đó vào _simulated data_ (dữ liệu giả) với số chiều và số điểm dữ liệu nhỏ hơn. _Simulated data_ này thường được tạo ngẫu nhiên (có thể thêm vài ràng buộc tùy vào đặc thù của dữ liệu). Với _simulated data_ nhỏ, chúng ta có thể debug nhanh hơn và thử với nhiều trường hợp _simulated data_ khác nhau. Khi nào thấy thuật toán chạy đúng chúng ta mới đưa _dữ liệu thật_ vào. 
+
+Với Softmax Regression, tôi tạo _simulated data_ như sau: 
+
+```python
+import numpy as np 
+
+# randomly generate data 
+N = 2 # number of training sample 
+d = 2 # data dimension 
+C = 3 # number of classes 
+
+X = np.random.randn(d, N)
+y = np.random.randint(0, 3, (N,))
+```
+Trong ví dụ đơn giản này, số điểm dữ liệu chỉ là `N = 2`, số chiều dữ liệu `d = 2`, và số classes `C = 3`. Những giá trị đủ nhỏ này giúp cho việc kiểm tra có thể được thực hiện một cách tức thì. Sau khi thuật toán chạy đúng với những giá trị nhỏ này, ta có thể thay `N, d, C` bằng vài giá trị khác trước khi sử dụng dữ liệu thật. 
+
+Dữ liệu \\(\mathbf{x}\\) có số chiều là \\((d +1)\\) vì có phần tử 1 được thêm vào phía trước, thể hiện hệ số tự do trong hàm tuyến tính. Hệ số tự do \\(w\_{0j}\\) còn được gọi là bias. 
+
+Giả sử số classes là \\(C\\). Với one-vs-rest, chúng ta cần xây dựng \\(C\\) Logistic Regression khác nhau. Các _đầu ra dự đoán_ được tính theo hàm sigmoid:
+\\[
+a\_i = \text{sigmoid}(z\_i) = \text{sigmoid}(\mathbf{w}\_i^T\mathbf{x})
+\\]
+Trong kỹ thuật này, các phần tử \\(a\_i, i = 1, 2, \dots, C\\) được suy ra trực tiếp chỉ với \\(z\_i\\). Vì vậy, không có mối quan hệ chặt chẽ nào giữa các \\(a\_i\\), tức tổng của chúng có thể nhỏ hơn hoặc lớn hơn 1. Nếu ta có thể khai thác được mỗi quan hệ giữa các \\(z\_i\\) thì kết quả của bài toán classification có thể tốt hơn. 
+
+Chú ý rằng các mô hình Linear Regression, PLA, Logistic Regression chỉ có 1 node ở output layer. Trong các trường hợp đó, tham số mô hình chỉ là 1 vector \\(\mathbf{w}\\). Trong trường hợp output layer có nhiều hơn 1 node, tham số mô hình sẽ là tập hợp 
+tham số \\(\mathbf{w}\_i\\) ứng với từng node. Lúc này, ta có _ma trận trọng số_ \\(\mathbf{W} = [\mathbf{w}\_1, \mathbf{w}\_2, \dots, \mathbf{w}\_C]\\).
