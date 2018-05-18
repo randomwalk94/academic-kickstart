@@ -65,4 +65,4 @@ Ben Arous-V. Free Max-stable Laws. Pareto-distribution.
 Candes, Romberg, Tao '06, Donoho. Restricted isometry property. Khintchine inequality.
 
 ## Ofer Zeitounni
-Small pertubations of Toeplitz random matrices. Trefethen - pseudo-spectrum. Spectrum stability for symmetric matrices. No controls on non-Hermitian matrices. Ginibre complex  matrices.
+Small pertubations of Toeplitz random matrices. Trefethen - pseudo-spectrum. Spectrum stability for symmetric matrices. No controls on non-Hermitian matrices. Ginibre complex  matrices. Sniady's theorem ('02). In particular, some sequence of noise regularizes empirical measure to Brown measure.
