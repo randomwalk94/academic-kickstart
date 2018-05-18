@@ -105,3 +105,8 @@ These include conference notes, research notes, or any significant notes that I 
 --- | --- | ---
 [A seemingly innocent conjecture](/post/innocent_conjecture) |math.CO, math.PR| Download
 
+<details>
+  <summary>Copyright 1999-2014.</summary>
+  <p> - by Refsnes Data. All Rights Reserved.</p>
+  <p>All content and graphics on this web site are the property of the company Refsnes Data.</p>
+</details>
