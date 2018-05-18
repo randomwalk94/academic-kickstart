@@ -70,3 +70,5 @@ Small pertubations of Toeplitz random matrices. Trefethen - pseudo-spectrum. Spe
 
 ## Random matrices with prescribed eigenvalues
 Set of eigenvalues $\Lambda=\\{\lambda_1,\lambda_2,\ldots,\lambda_n \\}$. Let $M^{\Lambda}_n(\mathbb R)= \text{ symmetric matrices over } \mathbb R \text{ with eigenvalues in }\Lambda$. Random matrix $M=UI\_{\Lambda}U^*$ where $I\_{\Lambda}$ is diagonal matrix with the prescribed eigenvalues and $U$ is random unitary matrix with respect to Haar measure.
+
+Schur-Horn theorem: If $(d\_i)$ and $\lambda\_i$ are diagonal entries and eigenvalues of complex Hermitian matrices, then $(d\_i)\prec (\lambda\_i)$. The converse statement is true.
