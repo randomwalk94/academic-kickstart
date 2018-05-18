@@ -69,3 +69,4 @@ Candes, Romberg, Tao '06, Donoho. Restricted isometry property. Khintchine inequ
 Small pertubations of Toeplitz random matrices. Trefethen - pseudo-spectrum. Spectrum stability for symmetric matrices. No controls on non-Hermitian matrices. Ginibre complex  matrices. Sniady's theorem ('02). In particular, some sequence of noise regularizes empirical measure to Brown measure.
 
 ## Random matrices with prescribed eigenvalues
+Set of eigenvalues $\Lambda=\\{\lambda_1,\lambda_2,\ldots,\lambda_n \\}$. Let $M^{\Lambda}_n(\mathbb R)= \text{ symmetric matrices over } \mathbb R \text{ with eigenvalues in }\Lambda$. Random matrix $M=UI\_{\Lambda}U^*$ where $I\_{\Lambda}$ is diagonal matrix with the prescribed eigenvalues and $U$ is random unitary matrix with respect to Haar measure.
