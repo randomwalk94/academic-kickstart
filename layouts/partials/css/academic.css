@@ -1711,3 +1711,8 @@ body.dark {
     border: inherit;
     color: #333;
 }
+
+summary:hover{
+  background: #F1F1EF;
+}
+
