@@ -37,7 +37,7 @@ These include conference notes, research notes, or any significant notes that I 
 
 <div class="accordion">
 <div class="accordion-section">
-<a class="accordion-section-title" href="#mathcategory">Mathematics Categories (borrowed from arXiv)</a>
+<a class="accordion-section-title" href="#mathcategory">&#8801; Mathematics Categories (borrowed from arXiv)</a>
 <div id="mathcategory" class="accordion-section-content">
 <b>math.AG - Algebraic Geometry</b> 
 <div>Algebraic varieties, stacks, sheaves, schemes, moduli spaces, complex geometry, quantum cohomology<br /></div>
