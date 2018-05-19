@@ -32,7 +32,7 @@ weight = 5
 +++
 # News
 
-The website is going through a big update. I hope to put up everything worthy by the end of the summer.
+The website is going through a big update. I hope to put up everything worthy by the end of the summer.  
 
 I will spend the summer at several institutions attending conferences and summer schools. Most of them are about random matrices and stochastic PDE. Here is the [agenda](/opportunities/). 
 <p class="read-more" itemprop="mainEntityOfPage">
