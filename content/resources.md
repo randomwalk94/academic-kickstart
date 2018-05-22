@@ -23,6 +23,7 @@ Visual Studio Code
 #### Blogs/Personal Websites
 [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI tutorials)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)
+[Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/home/) (professor in probability at Bonn)
 
 
 #### Academic Websites 
@@ -41,7 +42,6 @@ Visual Studio Code
 [Ivan Corwin's Talks](https://www.msri.org/people/20600)  
 [PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)  
 [Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)  
-
 #### Miscellaneous
 [Micro-Progress and the Magic of Just Getting Started](https://www.nytimes.com/2018/01/22/smarter-living/micro-progress.html)  
 [Where did the quote come from?](https://quoteinvestigator.com/)  
