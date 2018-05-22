@@ -40,8 +40,14 @@ I believe before going to the whole theory, this is the way we should think abou
 
 ### Donsker theorem
 
+### White noise
+The term ‘white noise’ arises from the spectral theory of stationary random processes, according to which white noise has a ‘flat’ power spectrum that is uniformly distributed over all frequencies (like white light). This can be observed from the Fourier representation of Brownian motion, where a formal term-by-term differentiation yields a Fourier series all of whose coefficients are Gaussian random variables with same variance.  
+
+White noise is a sound with equal intensity at all frequencies within a broad band. Rock music, the roar of a jet engine, and the noise at a stock market are examples of white noise. We use the word white'' to describe this kind of noise because of its similarity to white light'' which is made up of all different colors (frequencies) of light combined together. In applied science white noise is often taken as a mathematical idealization of phenomena involving sudden and extremely large fluctuations.
 ## Markov processes
 ### Semigroup
+
+### Ornstein–Uhlenbeck process
 
 ## Ito calculus
 

@@ -38,4 +38,47 @@ The result extends to fairly general fluctuations: stationary, mean zero, ergodi
 
 **Scales are important!**  
 
-Cross-range resolution
+Cross-range resolution. CINT 
+
+## Synthetic aperture radar imaging - Margaret Cheney
+How to get image of the Earth and stars far away  
+
+SAR: developed by engineering community; scattering theory, microlocal, ...  
+
+Antenna on an aircraft sends signals to ground satellites then receives back the reflected signal. Goal: get image on the ground from above (10km $\sim$ small photo)
+
+1951: Carl Wiley, Goodyear  
+
+mid-50: first operational systems  
+
+1960: NASE sponsorship, first digital SAR processors  
+
+78: SEASAT-A: 100 days  
+
+1981: beginning SIR series (shuttle imaging radar)  
+
+SIR-C 1994 Weddell Sea: create false color. Assign different channel to different color: create beautiful picture.  
+
+Satellite: making amazing image of the Earth  
+TerraSAR cooper mine in Chile  
+
+Internal waves at Gibraltar. 
+
+ERS-1, ERS-2: 
+
+Airborne systems: AriSAR, LynxSAR: Capitol, Radar projection is not the same as optical projection.  
+
+Outline: standard matheamtical model for radar data (assumes propagation through free space). Image reconstruction from standard model.  
+
+3D Math model: we should use Maxwell's equation, but instead (scalar wave)
+`\[\left(\nabla^2-\frac{1}{c^2(x)}\partial_t^2 \right)E(t,x)=i(t,x) \;\text{(source)}\]`
+but not good for random medium.  
+One thing to need to know: Fundamental solution: Green's solution: outgoing spherical wave (fourier transform of delta function)  
+
+Scattering theory: empty universe, vacuum wave speed. Lippman-Schwinger integral equation. 
+`\[E^{sc}(t,x)=\int g(t-\tau,x-z)V(z)\partial_{\tau}^2E(\tau,z)d\tau dz.\] `
+Inverse problem: measure scatter field, and $V(z)$. Problem, $V(z)$ is attached to the nearby scatter field.  
+
+Single-scattering and _Born_ approximation: makes inverse problem linear but not good approximation. Math techniques to remove artifacts.
+
+
