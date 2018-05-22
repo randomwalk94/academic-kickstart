@@ -25,3 +25,15 @@ Coherent imaging: Transport mean free part-quantify the decay of the mean.
 
 CINT passive arrays. Model of random medium:
 `\[\frac{1}{c^2(x)} = \frac{1}{c_0^2} \left[1+\sigma \mu\left(\frac{x}{l} \right) \right] \] ` 
+$\mu(x)$ is mean zero, statistically homogeneous. Model applied to clear air turbulence and captures only _wave front distortions._ The model is assumed in the adaptive optics methodology.  
+
+Travel time is given by Fermat's principle
+`\[\tau(x,y) = \min\limits_{\Gamma}\int_{\Gamma}\frac{ds}{c(x(s))}. \] `
+Derivation of the random travel time model: For $\lambda\ll l\ll L$ seek solution of Helmholtz equation: $u=\alpha e^{iw\tau}$:  
+
+- Travel time $\tau$ solves eikonal equation: $\left|\nabla\tau\right|^2 = \frac{1}{c^2(x)}$.
+- Amplitude $\alpha$ solves transport equation $2\nabla\alpha \cdot \nabla\tau +\alpha\Delta \tau =0$.  
+
+The result extends to fairly general fluctuations: stationary, mean zero, ergodic in $z$ (mixing). Diffusion limit theorem: Kohler, Papanicolaou, Varadhan.  
+
+**Scales are important!**
