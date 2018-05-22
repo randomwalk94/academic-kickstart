@@ -81,4 +81,21 @@ Inverse problem: measure scatter field, and $V(z)$. Problem, $V(z)$ is attached 
 
 Single-scattering and _Born_ approximation: makes inverse problem linear but not good approximation. Math techniques to remove artifacts.
 
+Incident wave: the field from the antenna is $E^{in}$. Real-aperture imaging versus synthetic-aperture imaging. Big antenna: narrow beam (R-A imaging), small antenna: broad beam (S-A imaing): combine data from different location.  
 
+CSU-CHILL: very large antenna disk, plot from different time-delayed data.  
+
+
+Putting it all together: Fourier Integral Operator (microlocal analysis techniques apply). Similar to seismic inveresion problem.  
+
+Reconstruction a function from its integrals over circles or lines. Brett Borden, Naval. Rdar FIO, Beyklin (JMP '85). Radar application: Nolan & Cheney.   
+
+Random medium is needed
+
+- through foliage (what's in the shadow)
+- through sea ice
+- through ionsphere
+
+CARABAS uses long wavelengths.  
+
+Electromagnetic waves and SEA ICE (salt in water very conductive, like metal).
