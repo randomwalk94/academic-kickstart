@@ -17,7 +17,7 @@ The website is written in the framework of a blog. Except for the main pages, ev
 
 **Page** | **Responsibility**
 --- | ---
-[PERSONAL](/personal) | Maintains the list of non-academic blog posts (on my personal life, etc.)
+[PERSONAL](/personal) | Maintains the list of personal and expository blog posts.
 [POSTS](/post) | The list of all blog posts.
 [RESEARCH](/research) | Contains materials related to my research activities.
 [TEACHING](/teaching) | Contains teaching materials, teaching tips, course notes.
