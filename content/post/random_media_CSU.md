@@ -93,9 +93,11 @@ Reconstruction a function from its integrals over circles or lines. Brett Borden
 Random medium is needed
 
 - through foliage (what's in the shadow)
-- through sea ice
-- through ionsphere
+- through sea ice (complicated)
+- through ionosphere (complicated, many layers)
 
 CARABAS uses long wavelengths.  
 
-Electromagnetic waves and SEA ICE (salt in water very conductive, like metal).
+Electromagnetic waves and SEA ICE (salt in water very conductive, like metal).  
+
+Fundamentals of Radar Imaging. 
