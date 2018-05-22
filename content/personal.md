@@ -14,8 +14,8 @@ I wrote a little guide to read through my website and locate needed information:
 ## Blog
 (I used many pictures found via Google Images, so I won't be able to give credits to their respective owners and I do not intend to violate any copyrights, but thank you for letting me using them!)
 
-**Date** | **Title**
---- | ---
-May 16, 2018 | [The Benefits of Writing Whatever](/post/blog_2018_05_16)
-May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10)
+**Date** | **Title** | 
+--- | --- | ---
+May 16, 2018| [The Benefits of Writing Whatever](/post/blog_2018_05_16) | <img src="/img/blog/20180516_header.jpg" style="height: 120px; max-width:inherit;">
+May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10) | <img src="/img/blog/20180510_header.JPG" style="height: 120px; max-width:inherit;">
 
