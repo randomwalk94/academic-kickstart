@@ -30,4 +30,5 @@ To transfer the analogy to the stochastic world, we replace the destination set 
 
 I believe before going to the whole theory, this is the way we should think about the objects that we will study. Then everything will come more naturally. 
 
-## 
+## The Kolmogorov continuity theorem  
+Nice functions are those with many derivatives. In 
