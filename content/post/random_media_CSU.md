@@ -36,4 +36,6 @@ Derivation of the random travel time model: For $\lambda\ll l\ll L$ seek solutio
 
 The result extends to fairly general fluctuations: stationary, mean zero, ergodic in $z$ (mixing). Diffusion limit theorem: Kohler, Papanicolaou, Varadhan.  
 
-**Scales are important!**
+**Scales are important!**  
+
+Cross-range resolution
