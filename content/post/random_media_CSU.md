@@ -104,3 +104,17 @@ Fundamentals of Radar Imaging.
 ## Ganesh
 
 Attenuation
+
+## Bal
+
+Stochastic and periodic homogenization
+`\[-\nabla\cdot a\nabla u =f;\quad u=g\; \text{on }\partial U\\ -\nabla\cdot a\nabla u+\alpha u =f \]`
+We have $a(x)\to a(x/\varepsilon)$. Two-scales: homogenization $\Leftrightarrow$ effective media or macroscopic models.  
+
+We have $a=a\_{\varepsilon}(x)=a(x/\varepsilon)$.   
+
+First setting: $a(y)$ is periodic coefficient, $(y=x/\varepsilon)$.
+`\[-\nabla a_{\varepsilon}\nabla u_{\varepsilon}+\alpha u_{\varepsilon}=f \]`
+We conjecture $u\_{\varepsilon}[a\_{\varepsilon}]\to\_{\varepsilon \to 0} {\bar u}[{\bar a}]$. Two scales $y=x/\varepsilon$ (fast scale). Two scale expansion $u\_{\varepsilon}(x)=u(x,y)$$=u(x,x/\varepsilon)$. This is an ansatz, maybe wrong but good guess. Then write equation for $u(x,y)$.  
+
+Fredholm alternative: spectral gap; 0 is the first one.

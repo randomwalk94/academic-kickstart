@@ -1706,9 +1706,12 @@ body.dark {
   code.has-jax {
     font: inherit;
     font-size: 100%;
+    display: inline;
     background: inherit;
     border: inherit;
     color: #333;
+    margin-left: -0.2rem;
+    margin-right: -0.2rem;
 }
 
 summary:hover{

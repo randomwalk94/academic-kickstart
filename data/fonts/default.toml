@@ -6,7 +6,7 @@ google_fonts = "Montserrat:400,700|Lora:400,400italic,500,500italic,700|Asap:400
 
 # Font families
 heading_font = "Marcellus SC"
-body_font = "Arial"
+body_font = "Helvetica"
 nav_font = "Marcellus SC"
 mono_font = "Roboto mono"
 
