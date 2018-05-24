@@ -123,3 +123,10 @@ Effective constant
 `\[a^* = \left({\mathbb E}\frac{1}{a} \right)^{-1} \]`
 $a(y)$ must be elliptic between $\lambda$ and $\Lambda$. We have a result basically saying sharpness
 `\[ \lambda \le \mathbb E(a^{-1})^{-1} \le a^*\le \mathbb E a\le \Lambda\] `
+Justification:  
+
+- Hilbert expansion
+- Variational structure  
+    - Tartar oscillatory fast function (Gregoire Allaire 2010; Stefan Neukamm 2017)
+    - Second corrector $\sigma$
+
