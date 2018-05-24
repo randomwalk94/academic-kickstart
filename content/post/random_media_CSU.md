@@ -115,6 +115,11 @@ We have $a=a\_{\varepsilon}(x)=a(x/\varepsilon)$.
 
 First setting: $a(y)$ is periodic coefficient, $(y=x/\varepsilon)$.
 `\[-\nabla a_{\varepsilon}\nabla u_{\varepsilon}+\alpha u_{\varepsilon}=f \]`
-We conjecture $u\_{\varepsilon}[a\_{\varepsilon}]\to\_{\varepsilon \to 0} {\bar u}[{\bar a}]$. Two scales $y=x/\varepsilon$ (fast scale). Two scale expansion $u\_{\varepsilon}(x)=u(x,y)$$=u(x,x/\varepsilon)$. This is an ansatz, maybe wrong but good guess. Then write equation for $u(x,y)$.  
+We conjecture $u\_{\varepsilon}[a\_{\varepsilon}]\to\_{\varepsilon \to 0} {\bar u}[{\bar a}]$. Two scales $y=x/\varepsilon$ (fast scale). Two scale expansion $u\_{\varepsilon}(x)=u(x,y)$$\;=u(x,x/\varepsilon)$. This is an ansatz, maybe wrong but good guess. Then write equation for $u(x,y)$, then get equations for different scales. 
 
-Fredholm alternative: spectral gap; 0 is the first one.
+Fredholm alternative: spectral gap; 0 is the first one.  
+
+Effective constant
+`\[a^* = \left({\mathbb E}\frac{1}{a} \right)^{-1} \]`
+$a(y)$ must be elliptic between $\lambda$ and $\Lambda$. We have a result basically saying sharpness
+`\[ \lambda \le \mathbb E(a^{-1})^{-1} \le a^*\le \mathbb E a\le \Lambda\] `
