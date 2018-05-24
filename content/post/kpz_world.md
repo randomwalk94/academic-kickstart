@@ -15,7 +15,10 @@ caption = ""
 
 This post is a collection of materials that are related to the KPZ equation. It is, in any measure, not complete. I just want to have a good repository of references on the subject. Also, it is a way for me to organize knowledge.
 
-Instead of listing 
+## References
+
+[Qua] Jeremy Quastel, [_Introduction to KPZ_](http://math.arizona.edu/~mathphys/school_2012/IntroKPZ-Arizona.pdf).  
+[HZ95] Timothy Halpin-Healy, Yi-Cheng Zhang, [_Kinetic roughening phenomena, stochastic growth, directed polymers and all that_](http://www.phys.barnard.edu/~healy/KPZreview.pdf).
 
 ## Introduction
 
@@ -29,6 +32,4 @@ instead of polynomials.
 
 
 
-## References
 
-[KINETIC ROUGHENING PHENOMENA, STOCHASTIC GROWTH, DIRECTED POLYMERS AND ALL THAT](https://ac.els-cdn.com/037015739400087J/1-s2.0-037015739400087J-main.pdf?_tid=7df33d4a-9bba-4ad7-a7ad-6d1eeefd7960&acdnat=1527022013_04fa114d891faf52c2063d345f0d3632)
