@@ -1,7 +1,7 @@
 +++
 title = "Schramm–Loewner Evolution"
 
-date = 2018-05-15
+date = 2018-05-24
 draft = false
 
 tags = ["research", "Schramm–Loewner evolution", "probability theory", "complex analysis", "stochastic processes", "statistical mechanics"]

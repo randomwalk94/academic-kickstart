@@ -6,10 +6,10 @@ google_fonts = "Montserrat:400,700|Lora:400,400italic,500,500italic,700|Asap:400
 
 # Font families
 heading_font = "Marcellus SC"
-body_font = "Gentium Book Basic"
+body_font = "Arial"
 nav_font = "Marcellus SC"
 mono_font = "Roboto mono"
 
 # Font size
-font_size = "18"
-font_size_small = "17"
+font_size = "16"
+font_size_small = "16"
