@@ -17,8 +17,8 @@ This post is a collection of materials that are related to the KPZ equation. It 
 
 ## References
 
-[Qua] Jeremy Quastel, [_Introduction to KPZ_](http://math.arizona.edu/~mathphys/school_2012/IntroKPZ-Arizona.pdf).  
-[HZ95] Timothy Halpin-Healy, Yi-Cheng Zhang, [_Kinetic roughening phenomena, stochastic growth, directed polymers and all that_](http://www.phys.barnard.edu/~healy/KPZreview.pdf).
+[Qua] Jeremy Quastel, [_Introduction to KPZ_](http://math.arizona.edu/~mathphys/school_2012/IntroKPZ-Arizona.pdf) (the name says it all)
+[HZ95] Timothy Halpin-Healy, Yi-Cheng Zhang, [_Kinetic roughening phenomena, stochastic growth, directed polymers and all that_](http://www.phys.barnard.edu/~healy/KPZreview.pdf) (explaining many models, good for motivation).
 
 ## Introduction
 

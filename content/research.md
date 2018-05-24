@@ -9,13 +9,6 @@ draft = false
 
 My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/) and [Yuri Suhov](http://www.statslab.cam.ac.uk/Dept/People/suhov.html). My interests cover several topics in partial differential equations and probability, including stochastic processes, random matrices, KPZ equations, etc.
 
-From [Gowers' Blog](https://gowers.wordpress.com/2010/08/22/icm2010-smirnov-laudatio/)
-
-> One of the holy grails of mathematics is to prove universality, which basically says that if you stand back from a self-avoiding walk so that the mesh of the lattice is too small for you to see it, then you will not be able to tell what the model is.
-
->The large-scale behaviour of a statistical system should be largely insensitive to the precise small-scale geometry of that system, after normalising some key parameters.
-
-
 Check out my [publication](/publication) list (currently empty). 
 
 ### Notes
