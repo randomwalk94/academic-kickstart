@@ -15,15 +15,7 @@ caption = ""
 
 This post is a collection of materials that are related to the KPZ equation. It is, in any measure, not complete. I just want to have a good repository of references on the subject. Also, it is a way for me to organize knowledge.
 
-An unordered list of mathematicians appearing in the field (which is _almost surely_ incomplete, updated as time goes forward; for quick referencing): 
-<div class="accordion">
-<div class="accordion-section">
-<a class="accordion-section-title" href="#mathlist">KPZ List</a>
-<div id="mathlist" class="accordion-section-content">
-<p>[Ivan Corwin](https://www.math.columbia.edu/~corwin/), [Martin Hairer](http://www.hairer.org/), [Jeremy Quastel](http://www.math.toronto.edu/quastel/), [Konstantin Matetski](http://www.math.toronto.edu/matetski/index.html)</p>
-</div><!--end .accordion-section-content-->
-</div><!--end .accordion-section-->
-</div><!--end .accordion-->
+Instead of listing 
 
 ## Introduction
 
@@ -39,3 +31,4 @@ instead of polynomials.
 
 ## References
 
+[KINETIC ROUGHENING PHENOMENA, STOCHASTIC GROWTH, DIRECTED POLYMERS AND ALL THAT](https://ac.els-cdn.com/037015739400087J/1-s2.0-037015739400087J-main.pdf?_tid=7df33d4a-9bba-4ad7-a7ad-6d1eeefd7960&acdnat=1527022013_04fa114d891faf52c2063d345f0d3632)
