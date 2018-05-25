@@ -148,8 +148,8 @@ Introduction: Book Shen: Homogenization: periodic setting, boundary layers, ... 
 Random fluctuations NOT given by ansatz.  
 
 - A. Gloria - F. Otto - S. Neukamm  
-- Scott Amstrong and C. Smart - Nourrat
-- Book: Nourat - Kuusi - [Amstrong](https://math.nyu.edu/people/profiles/ARMSTRONG_Scott.html)
+- Scott Amstrong and C. Smart - Mourrat
+- Book: Mourat - Kuusi - [Armstrong](https://math.nyu.edu/people/profiles/ARMSTRONG_Scott.html)
 
 Goal: Understand the fluctuations: know what to upscale/ Noise is influenced by the physics.
 `\[\displaystyle \int_{0}^{\infty} \int_{0}^{\infty} \dfrac{\sin x \sin y \sin (x+y)}{xy(x+y)} \mathrm{d}x\,\mathrm{d}y = \zeta(2)\]`
@@ -157,4 +157,12 @@ Ergodicity:
 
 Kozlov 79, Papanicolaou-Varadhan 79, 87, Daraso rote ,86  
 
-No rate of convergence. Gloria-otto, Armstrong-Smart
+No rate of convergence. Gloria-otto, Armstrong-Smart  
+
+Build intuition: 1D. Domain $(0,1)$:
+`\[ -\partial_x a_{\varepsilon}\partial_x u_{\varepsilon}=f;\;\; u_{\varepsilon}(0)=u_{\varepsilon}(1)=0.\] `
+Theorem: sum of stationary, limit exists almost surely. Ergodicity: Birkhoff's ergodic theorem, the limit is the average.  
+
+Bal, YuGu. Rosenblatt process.  
+
+$d\ge 2$ is much harder. $a\to u$ hard/not explicit representation map (Stefan Neukamm's lecture notes; book >2017).
