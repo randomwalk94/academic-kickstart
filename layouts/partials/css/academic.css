@@ -1708,7 +1708,7 @@ body.dark {
 
 code.has-jax {
   font: inherit;
-  font-size: 100%;
+  font-size: inherit;
   display: inline;
   background: inherit;
   border: inherit;
