@@ -152,3 +152,9 @@ Random fluctuations NOT given by ansatz.
 - Book: Nourat - Kuusi - [Amstrong](https://math.nyu.edu/people/profiles/ARMSTRONG_Scott.html)
 
 Goal: Understand the fluctuations: know what to upscale/ Noise is influenced by the physics.
+`\[\displaystyle \int_{0}^{\infty} \int_{0}^{\infty} \dfrac{\sin x \sin y \sin (x+y)}{xy(x+y)} \mathrm{d}x\,\mathrm{d}y = \zeta(2)\]`
+Ergodicity:  
+
+Kozlov 79, Papanicolaou-Varadhan 79, 87, Daraso rote ,86  
+
+No rate of convergence. Gloria-otto, Armstrong-Smart
