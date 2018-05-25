@@ -141,3 +141,14 @@ a_{\varepsilon}\nabla u_{\varepsilon} &= a_{\varepsilon}(I+\nabla \theta_1) \nab
 
 Periodic setting, we summerize
 `\[ u_{\varepsilon}=u_0 + O(\varepsilon)\\ \nabla u_{\varepsilon} = (I+\nabla \theta_1)\nabla u_0+O(\varepsilon)\]`
+### Random settings
+
+Introduction: Book Shen: Homogenization: periodic setting, boundary layers, ... / Alloire, Neukamm: lecture notes
+
+Random fluctuations NOT given by ansatz.  
+
+- A. Gloria - F. Otto - S. Neukamm  
+- Scott Amstrong and C. Smart - Nourrat
+- Book: Nourat - Kuusi - [Amstrong](https://math.nyu.edu/people/profiles/ARMSTRONG_Scott.html)
+
+Goal: Understand the fluctuations: know what to upscale.
