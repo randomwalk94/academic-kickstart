@@ -151,4 +151,4 @@ Random fluctuations NOT given by ansatz.
 - Scott Amstrong and C. Smart - Nourrat
 - Book: Nourat - Kuusi - [Amstrong](https://math.nyu.edu/people/profiles/ARMSTRONG_Scott.html)
 
-Goal: Understand the fluctuations: know what to upscale.
+Goal: Understand the fluctuations: know what to upscale/ Noise is influenced by the physics.

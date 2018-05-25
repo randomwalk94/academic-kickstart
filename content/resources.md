@@ -20,19 +20,19 @@ Visual Studio Code
 ## Links
 (the links are in no order; just for my own convenience to retrieve later)
 
-#### Blogs/Personal Websites
+### Blogs/Personal Websites
 [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI tutorials)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)
 
 
-#### Academic Websites 
+### Academic Websites 
 
 
 [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)  
 [Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
 [VietAI](https://github.com/lampts/vietai)  
 
-#### Probability Websites
+### Probability Websites
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
 [Probability Events](http://www.math.columbia.edu/department/probability/seminar/upcoming_new.html)  
 [Probability Advice](https://web.math.rochester.edu/people/faculty/cmlr/advice.md)  
@@ -41,6 +41,6 @@ Visual Studio Code
 [Ivan Corwin's Talks](https://www.msri.org/people/20600)  
 [PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)  
 [Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)  
-#### Miscellaneous
+### Miscellaneous
 [Micro-Progress and the Magic of Just Getting Started](https://www.nytimes.com/2018/01/22/smarter-living/micro-progress.html)  
 [Where did the quote come from?](https://quoteinvestigator.com/)  
