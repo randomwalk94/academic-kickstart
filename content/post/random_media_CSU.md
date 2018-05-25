@@ -50,7 +50,7 @@ Antenna on an aircraft sends signals to ground satellites then receives back the
 
 mid-50: first operational systems  
 
-1960: NASE sponsorship, first digital SAR processors  
+1960: NASA sponsorship, first digital SAR processors  
 
 78: SEASAT-A: 100 days  
 
@@ -115,9 +115,9 @@ We have $a=a\_{\varepsilon}(x)=a(x/\varepsilon)$.
 
 First setting: $a(y)$ is periodic coefficient, $(y=x/\varepsilon)$.
 `\[-\nabla a_{\varepsilon}\nabla u_{\varepsilon}+\alpha u_{\varepsilon}=f \]`
-We conjecture $u\_{\varepsilon}[a\_{\varepsilon}]\to\_{\varepsilon \to 0} {\bar u}[{\bar a}]$. Two scales $y=x/\varepsilon$ (fast scale). Two scale expansion $u\_{\varepsilon}(x)=u(x,y)$$\;=u(x,x/\varepsilon)$. This is an ansatz, maybe wrong but good guess. Then write equation for $u(x,y)$, then get equations for different scales. 
+We conjecture `$u_{\varepsilon}[a_{\varepsilon}]\to_{\varepsilon \to 0} {\bar u}[{\bar a}]$`. Two scales $y=x/\varepsilon$ (fast scale). Two scale expansion `$u_{\varepsilon}(x)=u(x,y)$$\;=u(x,x/\varepsilon)$`. This is an ansatz, maybe wrong but good guess. Then write equation for $u(x,y)$, then get equations for different scales. 
 
-Fredholm alternative: spectral gap; 0 is the first one.  
+Fredholm alternative: spectral gap; 0 is the first one.     
 
 Effective constant
 `\[a^* = \left({\mathbb E}\frac{1}{a} \right)^{-1} \]`
@@ -130,3 +130,14 @@ Justification:
     - Tartar oscillatory fast function (Gregoire Allaire 2010; Stefan Neukamm 2017)
     - Second corrector $\sigma$
 
+Presented method is not optimal, but the above two are.  
+
+Limit of the product: `$ a_{\varepsilon}\nabla u_{\varepsilon}  \to \;?$ `. We have 
+`\[ \begin{aligned}
+a_{\varepsilon}\nabla u_{\varepsilon} &= a_{\varepsilon}(I+\nabla \theta_1) \nabla u_0+\varepsilon O(1)\\
+& = a^*\nabla +\ldots
+\end{aligned}\]`
+(div-curl lemma is hidden).  
+
+Periodic setting, we summerize
+`\[ u_{\varepsilon}=u_0 + O(\varepsilon)\\ \nabla u_{\varepsilon} = (I+\nabla \theta_1)\nabla u_0+O(\varepsilon)\]`
