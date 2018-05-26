@@ -22,7 +22,8 @@ Visual Studio Code
 
 ### Blogs/Personal Websites
 [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI tutorials)  
-[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)
+[Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)  
+[Nicolas Perkowski](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/hp-perkowski/teaching)
 
 
 ### Academic Websites 
