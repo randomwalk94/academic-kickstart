@@ -165,4 +165,6 @@ Theorem: sum of stationary, limit exists almost surely. Ergodicity: Birkhoff's e
 
 Bal, YuGu. Rosenblatt process.  
 
-$d\ge 2$ is much harder. $a\to u$ hard/not explicit representation map (Stefan Neukamm's lecture notes; book >2017).
+$d\ge 2$ is much harder. $a\to u$ hard/not explicit representation map (Stefan Neukamm's lecture notes; book >2017).  
+
+Calculus of variation: Dal Naso, Nodia.
