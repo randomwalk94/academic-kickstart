@@ -16,6 +16,7 @@ I wrote a little guide for my website: [Navigation](/post/navigation).
 
 **Date** | **Title** | 
 --- | --- | ---
+May 25, 2018| [The Joy of Reunion](/post/blog_2018_05_25) | <img src="/img/blog/20180525_header.jpg" style="height: 120px; max-width:inherit;">
 May 16, 2018| [The Benefits of Writing Whatever](/post/blog_2018_05_16) | <img src="/img/blog/20180516_header.jpg" style="height: 120px; max-width:inherit;">
 May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10) | <img src="/img/blog/20180510_header.JPG" style="height: 120px; max-width:inherit;">
 
