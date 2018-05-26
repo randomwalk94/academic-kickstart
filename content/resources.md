@@ -27,7 +27,7 @@ Visual Studio Code
 
 ### Academic Websites 
 
-[NSF Math Grants](https://www.nsf.gov/awards/award_visualization.jsp?org=DMS)
+[NSF Math Grants](https://www.nsf.gov/awards/award_visualization.jsp?org=DMS)  
 [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)  
 [Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
 [VietAI](https://github.com/lampts/vietai)  
