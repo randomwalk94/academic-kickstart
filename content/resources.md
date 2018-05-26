@@ -41,6 +41,7 @@ Visual Studio Code
 [Ivan Corwin's Talks](https://www.msri.org/people/20600)  
 [PIMS-CRM Probablity Summer School 2017](http://www.math.ubc.ca/Links/ssprob17/)  
 [Terry Lyons Interview at CIRM](https://www.youtube.com/watch?v=BTNxqucKjbs)  
+[MIT Finance Course](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)  
 ### Miscellaneous
 [Micro-Progress and the Magic of Just Getting Started](https://www.nytimes.com/2018/01/22/smarter-living/micro-progress.html)  
 [Where did the quote come from?](https://quoteinvestigator.com/)  
