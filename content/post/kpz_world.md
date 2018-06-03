@@ -30,6 +30,21 @@ instead of polynomials.
 
 ### Rough path results in regularity structures framework
 
+### Presentation
+Eden model is not symmetric with respect to the origin as the cells develop in biases in one direction. The direction that has more cells has more probability to grow more cells.  
 
+So in Hairer’s theory, a function is called smooth if locally it can be
+approximated by the noise (and higher order terms constructed from the
+noise). This induces a natural topology in which the solutions to semilinear
+SPDEs depend continuously on the driving signal.
+
+Outline:  
+
+- Intro KPZ: IvanCorwin (Exactly SolveKPZ)/KPZ Universaltiy/IvanCorwin research statement
+- Zambotti in conjunction with Hairer-Friz
+- Brault $-$ $dy\_t = F(y\_t)dW\_t$
+- Hairer Solving KPZ
+
+Solving KPZ: the idea is to build a regularity structure that describes the KPZ, then using the reconstruction theorem to rebuild the distributions, which satisfy the normalized KPZ. Then show that it converge to the same limiting process independently of the choice of normalization.
 
 

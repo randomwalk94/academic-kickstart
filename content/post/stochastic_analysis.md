@@ -32,7 +32,7 @@ I believe before going to the whole theory, this is the way we should think abou
 
 ## The Kolmogorov continuity theorem  
 
-## Maritngales and Doob's theorems
+## Martingales and Doob's theorems
 
 ## Brownian motions
 
