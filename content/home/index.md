@@ -43,7 +43,7 @@ The website is going through a big update. I hope to put up everything worthy by
 
 # About 
 
-I'm pursuing a PhD in Mathematics at Penn State. The purpose of this website is to record my research activities, mathematical notes, teaching materials, and some tutorials. More information and how to navigate my website will be in the Personal page.
+I'm pursuing a PhD in Mathematics at Penn State. The purpose of this website is to record my research activities, mathematical notes, teaching materials, and some tutorials. More information and how to navigate my website will be in the [Personal](/personal) page.
 
 Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) about [Ramsey numbers](https://en.wikipedia.org/wiki/Ramsey_theory):
 
