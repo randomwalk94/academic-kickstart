@@ -21,7 +21,7 @@
 }
 
 html {
-  font-family: '{{ .Get "body_font" }}', sans-serif;
+  font-family: Roboto;
   font-size: {{ .Get "font_size_small" }}px;
   line-height: 1.5;
 }
