@@ -6,8 +6,8 @@ google_fonts = "Montserrat:400,700|Lusitana:400,400italic,700|Libre+Franklin:400
 
 # Font families
 heading_font = "Gentium Book Basic"
-body_font = "Roboto"
-nav_font = "Lato"
+body_font = "Libre Franklin"
+nav_font = "Libre Franklin"
 mono_font = "Roboto mono"
 
 # Font size

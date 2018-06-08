@@ -165,14 +165,14 @@ h4, h5, h6 {
 a,
 h3.article-title a:hover {
   color: {{ .Get "primary" }};
-  text-decoration: none;
   transition: color 0.6s ease;
+  border-bottom: 0px solid #dadada;
 }
 
 a:hover {
   color: {{ .Get "primary_dark" }};
   text-decoration: none;
-  border-bottom: 1px solid #dadada;
+  border-bottom: 2px solid #dadada;
 }
 
 a:focus{
@@ -1225,6 +1225,7 @@ nav#navbar-main li {
 .navbar-default .navbar-nav>li>a:hover {
   color:  {{ .Get "primary" }} /*{{ .Get "primary" }}*/;
   background-color: {{ .Get "menu_primary" }};
+  border-bottom: none;
 }
 
 
@@ -1246,6 +1247,9 @@ nav#navbar-main li {
   background: {{ .Get "menu_primary" }};
 }
 
+.navbar-default .navbar-brand{
+  border-bottom: none;
+}
 
 .navbar-brand,
 .navbar-nav li a {
