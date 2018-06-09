@@ -6,7 +6,7 @@ google_fonts = "Montserrat:400,700|Alegreya:400,400italic,700|Lusitana:400,400it
 
 # Font families
 heading_font = "Alegreya"
-body_font = "Lato"
+body_font = "Helvetica"
 nav_font = "Lato"
 mono_font = "Roboto mono"
 
