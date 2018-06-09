@@ -47,3 +47,4 @@ Visual Studio Code
 ### Miscellaneous
 [Micro-Progress and the Magic of Just Getting Started](https://www.nytimes.com/2018/01/22/smarter-living/micro-progress.html)  
 [Where did the quote come from?](https://quoteinvestigator.com/)  
+[Way to Mathematical Writing](http://tex.loria.fr/typographie/mathwriting.pdf)
