@@ -1713,7 +1713,7 @@ body.dark {
 
 code.has-jax {
   font: inherit;
-  font-size: inherit;
+  font-size: 90%;
   display: contents;
   background: inherit;
   border: inherit;
