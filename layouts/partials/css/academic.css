@@ -37,7 +37,7 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: inherit;
-  color: black;
+  color: #222222;
   background-color: {{ .Get "background" }};
   margin-top: 71px; /* Offset body content by navbar height. */
   padding-top: 0;
@@ -183,7 +183,7 @@ a:focus{
 
 .biblio, .biblio:hover
 {
-  color: black;
+  color: #222222;
   border-bottom: 0px;
   text-decoration: none;
 }
@@ -1215,7 +1215,7 @@ nav#navbar-main li {
   white-space: nowrap;
   -webkit-transition: 0.2s ease;
   transition: 0.2s ease;
-  color: black;
+  color: #222222;
   background-color: {{ .Get "menu_primary" }};
   font-weight: 600;
 }
