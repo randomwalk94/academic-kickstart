@@ -145,7 +145,7 @@ h1 {
   background: #414141;*/
 }
 h2 {
-  font-family: 'Poly';
+  font-family: 'Libre Franklin';
   border-bottom: 1px solid #dadada;
   margin-top: 1rem;
   font-size: 1.4rem;
@@ -1045,7 +1045,9 @@ footer a#back_to_top i {
 /*************************************************
  *  Button Primary: Color Override
  **************************************************/
-
+.btn{
+  display: inline;
+}
 .btn-primary {
   font-family: "Roboto";
   border-color: {{ .Get "primary" }} !important;
