@@ -40,7 +40,7 @@ These include conference notes, research notes, or any significant notes that I 
 
 
 ### Random Notes
-(these are shorter notes with less specific topic, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)  
+(these are shorter notes on less specific topics, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)  
 
 <div class="accordion">
 <div class="accordion-section">
