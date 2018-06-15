@@ -24,7 +24,7 @@ where $z:\mathbb R\_{+}\times \mathbb R \to \mathbb R$ and $z_0$ is (possibly ra
 *where $p(t,x)=\frac{1}{\sqrt{2\pi t}}e^{-x^2/2t}$ is the heat kernel or fundamental solution to $\partial\_tp=\partial\_{xx}p$ with $p(0,x)=\delta\_{x=0}$. Also, we must have a priori that `$\int_0^t\int_{\mathbb R}p^2(t-s,x-y){\mathbb E}[z^2(s,y)]dyds<\infty$` for the Ito integrals (stochastic integrals) to make sense and finite.*  
 
 
-## Friday-June 14-2018
+## Friday-June 15-2018
 1\. Progressively measurable stochastic process (vs adapted process) (look into [link](http://page.math.tu-berlin.de/~scheutzow/WT3main.pdf))  
 
 2\. Martin Hairer's regularity structures ([Link](http://www.hairer.org/papers/mSHE.pdf)): Decomposition of heat kernel (Lemma 5.5, Theorem 5.12). "Canonical model" (Proposition 8.27). Renormalization is to "correct" Picard iteration at each step. To see how renormalization works, consider the term `$({\mathcal D}{\mathcal I}(\Xi))^2$`: $\Xi$ is the white noise, thought of as derivative of Brownian motion; hence, the action ${\mathcal D}{\mathcal I}$ on $\Xi$ basically recovers Brownian motion. To correct this, we have
