@@ -45,4 +45,4 @@ These shifts are measure-preserving `$V(x,t,T_{ij}\omega)=V(x+i,t+j,\omega).$` T
 `\[\frac{1}{N}\sum\limits_{n=1}^{N} V(T_{ij}^{n}(x,t)) \to \int Vd\mathbb P\]`
 where $\mathbb P$ is the underlying probability measure. Do we have
 `\[\frac{1}{N}\sum\limits_{n=1}^{N} V(X_n,n)\to\int Vd\mathbb P\;\;\]`
-as $X\_n$ follows the dynamics $X\_{n+1}=X\_n + V(X\_n,n)$?
+as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?
