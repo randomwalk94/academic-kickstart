@@ -47,4 +47,6 @@ where $\mathbb P$ is the underlying probability measure. Do we have
 `\[\frac{1}{N}\sum\limits_{n=1}^{N} V(X_n,n)\to\int Vd\mathbb P\;\;\]`
 as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?  
 
-4\. How to solve stochastic heat equation: [link](https://arxiv.org/pdf/1402.2618.pdf)
+4\. How to solve stochastic heat equation: [link](https://arxiv.org/pdf/1402.2618.pdf)  
+
+5\. [Regularity structures and renormalisation of FitzHugh–Nagumo SPDEs in three space dimensions](https://arxiv.org/abs/1504.02953)
