@@ -23,7 +23,6 @@ where $z:\mathbb R\_{+}\times \mathbb R \to \mathbb R$ and $z_0$ is (possibly ra
 `\[z(t,x)=\int_{\mathbb R}p(t,x-y)z_0(y)dy+\int_0^t\int_{\mathbb R}p(t-s,x-y)z(s,y)\xi(s,y)dyds \] `
 *where $p(t,x)=\frac{1}{\sqrt{2\pi t}}e^{-x^2/2t}$ is the heat kernel or fundamental solution to $\partial\_tp=\partial\_{xx}p$ with $p(0,x)=\delta\_{x=0}$. Also, we must have a priori that `$\int_0^t\int_{\mathbb R}p^2(t-s,x-y){\mathbb E}[z^2(s,y)]dyds<\infty$` for the Ito integrals (stochastic integrals) to make sense and finite.*  
 
-
 ## Friday-June 15-2018
 1\. Progressively measurable stochastic process (vs adapted process) (look into [link](http://page.math.tu-berlin.de/~scheutzow/WT3main.pdf))  
 
@@ -50,3 +49,6 @@ as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?
 4\. How to solve stochastic heat equation: [link](https://arxiv.org/pdf/1402.2618.pdf)  
 
 5\. [Regularity structures and renormalisation of FitzHugh–Nagumo SPDEs in three space dimensions](https://arxiv.org/abs/1504.02953)
+
+## Sunday-June 17-2018
+1\. The Birkhoff-von Neumann theorem states that the set of $n \times n$ doubly stochastic matrices (non-negative matrices whose every row and every column sums to $1$) is convex, and that the extremal points of the set are (all) the permutation matrices.
