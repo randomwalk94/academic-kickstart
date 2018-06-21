@@ -51,4 +51,7 @@ as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?
 5\. [Regularity structures and renormalisation of FitzHugh–Nagumo SPDEs in three space dimensions](https://arxiv.org/abs/1504.02953)
 
 ## Sunday-June 17-2018
-1\. The Birkhoff-von Neumann theorem states that the set of $n \times n$ doubly stochastic matrices (non-negative matrices whose every row and every column sums to $1$) is convex, and that the extremal points of the set are (all) the permutation matrices.
+1\. The Birkhoff-von Neumann theorem states that the set of $n \times n$ doubly stochastic matrices (non-negative matrices whose every row and every column sums to $1$) is convex, and that the extremal points of the set are (all) the permutation matrices.  
+
+2\. The Hoffman-Wielandt inequality states that for any two $n \times n$ normal matrices $A$, $B$, with sets of eigenvalues $\lambda_1(X),\; \lambda_2 (X),\;\ldots,\; \lambda_n(X)$ for `$X \in \{A, B\}$`, there exists a permutation $\sigma \in S\_n$ such that `\[ \sum_{i=1}^n |\lambda_i(A) - \lambda_{\sigma(i)}(B)|^2 \leq \text{Tr}\left((A-B)(A-B)^*\right). \]` 
+_Proof._ (kind of) Express `$\text{Tr}\left((A-B)(A-B)^*\right)$` as a function on doubly stochastic matrices. Then use Birkhoff-von Neumann theorem to achieve the minamum and maximum.
