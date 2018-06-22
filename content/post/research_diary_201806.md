@@ -81,3 +81,8 @@ The proof proceeds in three steps
 Reference: [Symmetric Functions and Hall Polynomials](https://pdfs.semanticscholar.org/0613/1de77b4268cc9d4334a661846c42873cb8e4.pdf) by MacDonald.  
 
 4\. The $\lambda\_k$ eigenvalue tells how a graph can be separated into $k$ connected components.
+
+## Friday-June 22-2018
+1\. Ihara-Bass formula: For non-backtracking matrix $B$ and adjacency matrix $A$ of a graph $(G,E,V)$, we have for every $z\in \mathbb C$
+`\[\det(B-zI)=(1-z^2)^{|E|-|D|}\det(z^2I-zA+D)\]`
+where $D=\text{diag}(\det(v\_i)-1)$.
