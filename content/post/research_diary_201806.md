@@ -55,3 +55,11 @@ as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?
 
 2\. The Hoffman-Wielandt inequality states that for any two $n \times n$ normal matrices $A$, $B$, with sets of eigenvalues $\lambda_1(X),\; \lambda_2 (X),\;\ldots,\; \lambda_n(X)$ for `$X \in \{A, B\}$`, there exists a permutation $\sigma \in S\_n$ such that `\[ \sum_{i=1}^n |\lambda_i(A) - \lambda_{\sigma(i)}(B)|^2 \leq \text{Tr}\left((A-B)(A-B)^*\right). \]` 
 _Proof._ (kind of) Express `$\text{Tr}\left((A-B)(A-B)^*\right)$` as a function on doubly stochastic matrices. Then use Birkhoff-von Neumann theorem to achieve the minimum and maximum.
+
+## Thursday-June 21-2018
+1\. Bipartite biregular model $(m,n,d\_1,d\_2)$, $md\_1=nd\_2$. Eigenvalues of the adjency matrix $A$ are $n-m$ zeros and $\pm \sigma_i$ (singular values of $X$). Models for $X^TX$: Wishart.  
+
+2\. Extremal eigenvalues of graphs. Graphs matrices:  
+
+- adjacency matrix $A\_{ij}=\lambda\_{ij}$
+- Laplacian matrix $L=I-D^{-1}A$ where $D=\text{diag}(\deg(v_i))$, note that a graph defines a Markox chain: $D^{-1}A$ is Markov matrix for graph.
