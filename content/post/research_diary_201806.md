@@ -44,7 +44,7 @@ These shifts are measure-preserving `$V(x,t,T_{ij}\omega)=V(x+i,t+j,\omega).$` T
 `\[\frac{1}{N}\sum\limits_{n=1}^{N} V(T_{ij}^{n}(x,t)) \to \int Vd\mathbb P\]`
 where $\mathbb P$ is the underlying probability measure. Do we have
 `\[\frac{1}{N}\sum\limits_{n=1}^{N} V(X_n,n)\to\int Vd\mathbb P\;\;\]`
-as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$?  
+as $X\_n$ follows the dynamics $X\_{n+1}=X\_n $$\;+ \;V(X\_n,n)$? This is a type of questions in Random Walks in Random Environment.
 
 4\. How to solve stochastic heat equation: [link](https://arxiv.org/pdf/1402.2618.pdf)  
 
@@ -62,4 +62,22 @@ _Proof._ (kind of) Express `$\text{Tr}\left((A-B)(A-B)^*\right)$` as a function 
 2\. Extremal eigenvalues of graphs. Graphs matrices:  
 
 - adjacency matrix $A\_{ij}=\lambda\_{ij}$
-- Laplacian matrix $L=I-D^{-1}A$ where $D=\text{diag}(\deg(v_i))$, note that a graph defines a Markox chain: $D^{-1}A$ is Markov matrix for graph.
+- Laplacian matrix $L=I-D^{-1}A$ where $D=\text{diag}(\deg(v_i))$, note that a graph defines a Markov chain: $D^{-1}A$ is Markov matrix for graph.  
+
+3\. Cauchy-Binet formula: Let $A$ be an $m\times n$ matrix and $B$ be an $n\times m$ matrix. Let $1\le j\_1,i\_2,\ldots,j\_m\le n$. Let $A\_{j\_1i\_2\ldots j\_m}$ denote the $m\times m$ matrix consisting of columns $j\_1,i\_2,\ldots,j\_m$ of $A$. Let $B\_{j\_1i\_2\ldots j\_m}$ denote the $m\times m$ matrix consisting of rows $j\_1,i\_2,\ldots,j\_m$ of $B$. Then
+`\[\det(AB)=\sum\limits_{1\le j_1<j_2<\ldots<j_m\le n}\det(A_{j_1j_2\ldots j_m})\det(B_{j_1j_2\ldots j_m}) \]`
+Using this we can prove the Jacobi-Trudi identity. Let $h\_m(x)=h\_m(x\_1,x\_2,\ldots)$ denote the complete homogeneous symmetric polynomial. The Jacobi-Trudi states that
+`\[s_{\lambda}=\det(h_{\lambda_i-i+j})_{i,j=1}^{l(\lambda)} \]`
+where `$s_{\lambda}(x_1,\ldots,x_n)$` is Schur polynomial defined as 
+`\[s_{\lambda}(x_1,\ldots,x_n) = \frac{\det(x_i^{\lambda_j+n-j})}{\prod\limits_{i<j}(x_i-x_j)}\] `
+The proof proceeds in three steps  
+
+- Prove that if `$f(u)=\sum\limits_{m=0}^{\infty} f_mu^m$`, then using Cauchy-Binet,
+`\[f(x_1)f(x_2)\ldots f(x_n) =\sum\limits_{\lambda:l(\lambda)\le n} \det(f_{\lambda_i-i+j})_{i,j=1}^{l(\lambda)}s_{\lambda}(x_1,\ldots,x_n). \]`
+- Let $f\_m=h\_m(y_1,\ldots,y_n)$ to show that 
+`\[\prod\limits_{i,j}\frac{1}{1-x_iy_j} = \sum\limits_{\lambda}\det(h_{\lambda_i-i+j}(y_1,\ldots,y_n))_{i,j=1}^{l(\lambda)}s_{\lambda}(x_1,\ldots,x_n) .\]`
+- Finish by using the Cauchy identity
+`\[\sum\limits_{\lambda}s_{\lambda}(x)s_{\lambda}(y)=\prod\limits_{i,j}\frac{1}{1-x_iy_j}. \]`
+Reference: [Symmetric Functions and Hall Polynomials](https://pdfs.semanticscholar.org/0613/1de77b4268cc9d4334a661846c42873cb8e4.pdf) by MacDonald.  
+
+4\. The $\lambda\_k$ eigenvalue tells how a graph can be separated into $k$ connected components.
