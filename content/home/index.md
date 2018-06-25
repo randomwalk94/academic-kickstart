@@ -8,10 +8,6 @@ math = true
 # Order that this section will appear in.
 weight = 5
 
-[header]
-image = "/blog/20180516_header.jpg"
-caption = "Image credit: [**tasra.me**](http://tasra.me/just-write-background-wallpaper/)"
-
 # List your academic interests.
 [interests] 
   interests = [
