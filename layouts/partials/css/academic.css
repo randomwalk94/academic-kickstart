@@ -145,7 +145,7 @@ h1 {
   background: #414141;*/
 }
 h2 {
-  font-family: 'PT Sans';
+  font-family: 'Gentium Book Basic';
   border-bottom: 1px solid #dadada;
   margin-top: 1rem;
   font-size: 1.4rem;
@@ -155,7 +155,7 @@ h2 {
 h3 {
   font-weight: 700;
   margin-top: 1rem;
-  font-size: 1.1rem;
+  font-size: 1.15rem;
 }
 h4, h5, h6 {
   font-weight: 700;
