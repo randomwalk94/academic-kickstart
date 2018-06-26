@@ -86,3 +86,23 @@ Reference: [Symmetric Functions and Hall Polynomials](https://pdfs.semanticschol
 1\. Ihara-Bass formula: For non-backtracking matrix $B$ and adjacency matrix $A$ of a graph $(G,E,V)$, we have for every $z\in \mathbb C$
 `\[\det(B-zI)=(1-z^2)^{|E|-|D|}\det(z^2I-zA+D)\]`
 where $D=\text{diag}(\det(v\_i)-1)$.
+
+## Tuesday-June 26-2018
+1\. The goal is to express an arbitrary function $f(H)$ of a Hermitian matrix $H$ as a superposition of Green functions $G(z) = (H - z)^{-1}$. Note that $G$ has the following representation in terms of eigenvalues and eigenvectors
+`\[G(z)= \sum\limits_i \frac{u_iu_i^*}{\lambda_i-z}.\]`
+
+- If $f$ is holomorphic in an open domain containing the spectrum of $H$, then we have
+`\[ f(H) = - \frac{1}{2 \pi i} \oint_{\Gamma} f(z) G(z) \, dz\,,\]`
+where $\Gamma$ is a positively oriented contour encircling the spectrum of $H$.
+- In many applications, $f$ is not holomorphic. (For example, one may want to take $f$ to be a (smoothed) cutoff function.) A more general and flexible functional calculus is provided by the _Helffer-Sjostrand formula_. Let $n \in \mathbb N$ and $f \in \cal C^{n+1}(\mathbb R)$. We define the _almost analytic extension of $f$ of degree $n$_ through
+`\[\tilde f_n(x + i y) \;:=\; \sum_{k = 0}^n \frac{1}{k !} (i y)^k f^{(k)}(x)\,.\]`
+Let $\chi \in \cal C^\infty_c({\mathbb C};[0,1])$ be a smooth cutoff function. For any $\lambda \in \mathbb R$ satisfying $\chi(\lambda) = 1$ we have
+`\[f(\lambda) = \frac{1}{\pi} \int_{\mathbb C} \frac{\bar \partial (\tilde f_n(z) \chi(z))}{\lambda - z} \, d^2z\,,\]`
+where $d^2 z$ denotes the Lebesgue measure on $\mathbb C$ and $\bar \partial:= \frac{1}{2} (\partial_x + i \partial_y)$ is the antiholomorphic derivative. Note that we have the Green's formula in the complex form as 
+`\[\int_{\partial D}g(z)dz=\int_{\partial D}g(z)(dx+idy)=\int_{D}\left(\partial_x(ig(z))-\partial_y(g(z))\right)d^2z=2i\int_{D}{\bar \partial}g(z)d^2z.\]`
+for some nice domain $D$. As a consequence, we find
+`\[f(H) = \frac{1}{\pi} \int_{\mathbb C}\bar \partial (\tilde f_n(z) \chi(z)) \, G(z) \, d^2 z\,,\]`
+provided that $\chi = 1$ on the spectrum of $H$.
+The good choice of $n$ depends on the applications, but in many cases $n = 0$ or $n = 1$ works well.  
+
+2\. 
