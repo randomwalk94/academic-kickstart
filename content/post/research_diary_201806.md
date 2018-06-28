@@ -107,7 +107,7 @@ The good choice of $n$ depends on the applications, but in many cases $n = 0$ or
 
 ## Wednesday-June 27-2018
 1\. For $k\ge 1$, let $f:\mathbb R^k\to \mathbb R$ and $g:\mathbb R\to \mathbb R$ be functions such that 
-`\[f(x_1,x_2,\ldots,x_k)=g(x_1+x_2+\ldots+x_k)\]`
+`\[f(x_1,x_2,\ldots,x_k)=g(x_1+x_2+\ldots+x_k).\]`
  We have that 
 `\[{\left. {\frac{\partial }{{\partial {x_1}}}\frac{\partial }{{\partial {x_2}}} \ldots \frac{\partial }{{\partial {x_k}}}f({x_1},{x_2}, \ldots ,{x_k})} \right|_{{x_1} = {y_1}, \ldots ,{x_k} = {y_k}}} = {\left. {\frac{{{\partial ^k}}}{{\partial {t^k}}}g(t)} \right|_{t = {y_1} +  \ldots  + {y_k}}}.\]`
 In particular, we get that 
