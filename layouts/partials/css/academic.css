@@ -145,7 +145,7 @@ h1 {
   background: #414141;*/
 }
 h2 {
-  font-family: 'Gentium Book Basic';
+  font-family: 'Nunito';
   border-bottom: 1px solid #dadada;
   margin-top: 1rem;
   font-size: 1.4rem;
@@ -1049,7 +1049,7 @@ footer a#back_to_top i {
   display: inline;
 }
 .btn-primary {
-  font-family: "Roboto";
+  font-family: "Nunito";
   border-color: {{ .Get "primary" }} !important;
   background: {{ .Get "primary" }} !important;
 }
@@ -1079,7 +1079,7 @@ footer a#back_to_top i {
  **************************************************/
 
  .btn {
-   padding: 0.5px 8px;
+   padding: 0px 8px;
  }
 
 .btn-toolbar .btn {
