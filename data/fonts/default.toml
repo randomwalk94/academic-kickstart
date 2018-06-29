@@ -6,9 +6,9 @@ google_fonts = "Montserrat:400,700|PT+Sans:400,400italic,700|Alegreya:400,400ita
 
 # Font families
 heading_font = "Alegreya"
-body_font = "Roboto"
+body_font = "Nunito"
 nav_font = "Nunito"
-mono_font = "Roboto mono"
+mono_font = "Nunito"
 
 # Font size
 font_size = "18"
