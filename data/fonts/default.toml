@@ -12,4 +12,4 @@ mono_font = "Nunito"
 
 # Font size
 font_size = "16"
-font_size_small = "14"
+font_size_small = "16"
