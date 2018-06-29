@@ -113,5 +113,6 @@ The good choice of $n$ depends on the applications, but in many cases $n = 0$ or
 In particular, we get that 
 `\[{\left. {\frac{\partial }{{\partial {x_1}}}\frac{\partial }{{\partial {x_2}}} \ldots \frac{\partial }{{\partial {x_k}}}\mathbb E{e^{({x_1} +  \ldots  + {x_k})Z}}} \right|_{{x_1} =  \ldots  = {x_k} = 0}} = {\left. {\frac{{{\partial ^k}}}{{\partial {t^k}}}\mathbb E e^{tZ}} \right|_{t = 0}}.\]`
 
+2\. Moments and cumulants
 ## Thursday-June 28-2018
 1\. Hook formula for dimension of Young diagrams (Bruce Sagan).
