@@ -29,7 +29,8 @@ Visual Studio Code
 [Fabrice Baudoin](https://sites.google.com/site/fabricebaudoinwebpage/)  
 [Davar Khoshnevisan](http://www.math.utah.edu/~davar/publications.html)  
 [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)  
-[Ivan Nourdin](https://sites.google.com/site/ivannourdin/home)
+[Ivan Nourdin](https://sites.google.com/site/ivannourdin/home)  
+[Lorenzo Zambotti](http://www.lpsm.paris/dw/doku.php?id=users:zambotti:index)
 
 ### Academic Websites 
 
