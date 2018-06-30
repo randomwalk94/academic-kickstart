@@ -28,7 +28,8 @@ Visual Studio Code
 [Samy Tindel](https://www.math.purdue.edu/~stindel/)  
 [Fabrice Baudoin](https://sites.google.com/site/fabricebaudoinwebpage/)  
 [Davar Khoshnevisan](http://www.math.utah.edu/~davar/publications.html)  
-[Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)
+[Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)  
+[Ivan Nourdin](https://sites.google.com/site/ivannourdin/home)
 
 ### Academic Websites 
 
