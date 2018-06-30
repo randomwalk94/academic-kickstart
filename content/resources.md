@@ -24,8 +24,11 @@ Visual Studio Code
 [Adit Deshpande](https://adeshpande3.github.io/adeshpande3.github.io/) (a great resource for AI tutorials)  
 [Jürgen Schmidhuber](http://people.idsia.ch/~juergen/) (a figure in AI)  
 [Nicolas Perkowski](https://www.mathematik.hu-berlin.de/de/forschung/forschungsgebiete/stochastik/stoch-employees/hp-perkowski/teaching)  
-[Joscha Diehl](http://personal-homepages.mis.mpg.de/diehl/)
-
+[Joscha Diehl](http://personal-homepages.mis.mpg.de/diehl/)  
+[Samy Tindel](https://www.math.purdue.edu/~stindel/)  
+[Fabrice Baudoin](https://sites.google.com/site/fabricebaudoinwebpage/)  
+[Davar Khoshnevisan](http://www.math.utah.edu/~davar/publications.html)  
+[Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)
 
 ### Academic Websites 
 
