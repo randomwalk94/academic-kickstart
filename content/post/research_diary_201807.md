@@ -47,4 +47,7 @@ Hence, setting $z=3/2$ gives non-trivial limit.
 `\[F_{\omega}(t,x)=\sum\limits_{k=1}^nF_k(x)\xi_k(t) \]`
 where $\xi\_k$'s are white noise. In the paper, established One Force One Solution (1F1S) principle on each ergodic component (sloppy: "ergodicity" means forgetting the initial data). [EKMS2000] 1F1S on $I\_c$, for all $c\notin \mathbb R$.  
 
-6\. Hyperbolicity. Busemenn function.
+6\. Hyperbolicity. Busemenn function.  
+
+7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(
+    omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
