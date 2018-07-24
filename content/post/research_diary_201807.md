@@ -43,8 +43,6 @@ Hence, setting $z=3/2$ gives non-trivial limit.
 
 4\. Fluid dynamics viscosity plays a role as statistical mechanics temperature.  
 
-5\. History of Burgers equation with random forcing:  
-
-1. Sinai, early 90's, $\chi>0$; Khanin, Mazel, sinal, $\chi=0$ (on the circle $\mathbb T^1$) with continuous time
+5\. History of Burgers equation with random forcing: Sinai, early 90's, $\chi>0$; Khanin, Mazel, sinal, $\chi=0$ (on the circle $\mathbb T^1$) with continuous time
 `\[F_{\omega}(t,x)=\sum\limits_{k=1}^nF_k(x)\xi_k(t) \]`
-where $\xi\_k$'s are white noise. In the paper, established One Force One Solution (1F1S) principle on each ergodic component (sloppy: "ergodicity" means forgetting the initial data).
+where $\xi\_k$'s are white noise. In the paper, established One Force One Solution (1F1S) principle on each ergodic component (sloppy: "ergodicity" means forgetting the initial data). [EKMS2000] 1F1S on $I\_c$, for all $c\notin \mathbb R$.
