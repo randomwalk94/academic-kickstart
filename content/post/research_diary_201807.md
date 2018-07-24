@@ -40,5 +40,3 @@ Hence, KPZ is not $1:2:4$ invariant. However, it is believed that (two-sided) Br
 Performing dynamic scaling `$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}t,\varepsilon^{-1}x)$`, we obtain
 `\[\partial_t h^{\varepsilon} = \varepsilon^{3/2-z}(\partial_xh^{\varepsilon})^{2}+\varepsilon^{2-z}\partial_x^2h^{\varepsilon}+\varepsilon^{(2-z)/2}\xi.\]`
 Hence, setting $z=3/2$ gives non-trivial limit.
-
- 

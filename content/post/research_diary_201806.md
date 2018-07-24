@@ -116,3 +116,4 @@ In particular, we get that
 2\. Moments and cumulants
 ## Thursday-June 28-2018
 1\. Hook formula for dimension of Young diagrams (Bruce Sagan).
+ 
