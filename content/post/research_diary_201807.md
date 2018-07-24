@@ -49,5 +49,4 @@ where $\xi\_k$'s are white noise. In the paper, established One Force One Soluti
 
 6\. Hyperbolicity. Busemenn function.  
 
-7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(
-    omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
+7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
