@@ -41,7 +41,7 @@ Performing dynamic scaling `$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}
 `\[\partial_t h^{\varepsilon} = \varepsilon^{3/2-z}(\partial_xh^{\varepsilon})^{2}+\varepsilon^{2-z}\partial_x^2h^{\varepsilon}+\varepsilon^{(2-z)/2}\xi.\]`
 Hence, setting $z=3/2$ gives non-trivial limit.  
 
-4\. Fluid dynamics viscosity plays a role as statistical mechanics temperature.  
+4\. Fluid dynamics viscosity plays a role of statistical mechanics temperature.  
 
 5\. History of Burgers equation with random forcing: Sinai, early 90's, $\chi>0$; Khanin, Mazel, sinal, $\chi=0$ (on the circle $\mathbb T^1$) with continuous time
 `\[F_{\omega}(t,x)=\sum\limits_{k=1}^nF_k(x)\xi_k(t) \]`
