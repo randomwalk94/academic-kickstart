@@ -24,7 +24,7 @@
       {{ $paginator := .Paginate .Data.Pages }}
       {{ range $paginator.Pages }}
       <div>
-        <h2 style="background: transparent !important;"><a href="{{ .Permalink }}"><b>{{ .Title }}</b></a></h2>
+        <h2 style="background: transparent !important; border-bottom: 0px solid #dadada;"><a href="{{ .Permalink }}"><b>{{ .Title }}</b></a></h2>
         <div class="article-style">
           {{ if .Params.summary }}
           {{ printf "%s" .Params.summary | markdownify }}

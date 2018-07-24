@@ -18,8 +18,7 @@ Check out my [publication](/publication) list (currently empty).
 <a class="accordion-section-title" href="#researchdiary">&#8801; List</a>
 <div id="researchdiary" class="accordion-section-content">
 <h3>2018</h3> 
-<div><a href="/post/research_diary_201806">June</a><br /></div>
-
+<div><a href="/post/research_diary_201806">June</a>, <a href="/post/research_diary_201807">July</a><br /></div>
 
 </div><!--end .accordion-section-content-->
 </div><!--end .accordion-section-->
