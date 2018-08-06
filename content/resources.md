@@ -38,6 +38,7 @@ Visual Studio Code
 [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)  
 [Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
 [VietAI](https://github.com/lampts/vietai)  
+[Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
 
 ### Probability Websites
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
