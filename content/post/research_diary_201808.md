@@ -14,4 +14,4 @@ caption = ""
 +++
 
 ## Sunday-August 12-2018
-1\. 
+1\. Malliavin calculus to Ito calculus is calculus of variations to classical calculus.
