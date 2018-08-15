@@ -40,6 +40,7 @@ Visual Studio Code
 [VietAI](https://github.com/lampts/vietai)  
 [Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)  
 [Papers with Code](https://paperswithcode.com/)  
+[GitXiv](http://www.gitxiv.com/)
 
 ### Probability Websites
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
