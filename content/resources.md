@@ -30,7 +30,7 @@ Visual Studio Code
 [Davar Khoshnevisan](http://www.math.utah.edu/~davar/publications.html)  
 [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)  
 [Ivan Nourdin](https://sites.google.com/site/ivannourdin/home)  
-[Lorenzo Zambotti](http://www.lpsm.paris/dw/doku.php?id=users:zambotti:index)
+[Lorenzo Zambotti](http://www.lpsm.paris/dw/doku.php?id=users:zambotti:index)  
 
 ### Academic Websites 
 
@@ -38,7 +38,8 @@ Visual Studio Code
 [A Gallery of Interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/a-gallery-of-interesting-jupyter-notebooks)  
 [Self-Study Machine Learning](https://www.quora.com/What-are-your-recommendations-for-self-studying-machine-learning)  
 [VietAI](https://github.com/lampts/vietai)  
-[Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)
+[Deep Learning](https://github.com/ChristosChristofidis/awesome-deep-learning#papers)  
+[Papers with Code](https://paperswithcode.com/)  
 
 ### Probability Websites
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
