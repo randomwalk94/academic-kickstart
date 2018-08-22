@@ -32,16 +32,9 @@ weight = 5
 +++
 # News
 
-The website is going through a big update. I hope to put up everything worthy by the end of the summer.   
+The website is going through a big update. 
 
 "Sarcasm is the lowest form of wit but the highest form of intelligence" - Oscar Wilde  
-
-[Work of plenary speakers at ICM 2018](https://mathoverflow.net/questions/272303/work-of-plenary-speakers-at-icm-2018)  
-<p class="read-more" itemprop="mainEntityOfPage">
-    <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
-      CURRICULUM VITAE
-    </a>
-</p>
 
 # About 
 
