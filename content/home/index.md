@@ -32,7 +32,7 @@ weight = 5
 +++
 # News
 
-The website is going through a big update. 
+The website is going through a big update. I'm not teaching this semester.
 
 "Sarcasm is the lowest form of wit but the highest form of intelligence" - Oscar Wilde  
 
