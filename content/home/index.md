@@ -36,6 +36,12 @@ The website is going through a big update. I'm not teaching this semester.
 
 "Sarcasm is the lowest form of wit but the highest form of intelligence" - Oscar Wilde  
 
+<p class="read-more" itemprop="mainEntityOfPage">
+    <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
+      CURRICULUM VITAE
+    </a>
+</p>
+
 # About 
 
 I'm pursuing a PhD in Mathematics at Penn State. The purpose of this website is to record my research activities, mathematical notes, teaching materials, and some tutorials. More information and how to navigate my website will be in the [Personal](/personal) page.
