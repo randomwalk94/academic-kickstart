@@ -31,6 +31,7 @@ Visual Studio Code
 [Massimiliano Gubinelli](https://www.iam.uni-bonn.de/abteilung-gubinelli/teaching/)  
 [Ivan Nourdin](https://sites.google.com/site/ivannourdin/home)  
 [Lorenzo Zambotti](http://www.lpsm.paris/dw/doku.php?id=users:zambotti:index)  
+[Chris Rackauckas](http://chrisrackauckas.com/)
 
 ### Academic Websites 
 
