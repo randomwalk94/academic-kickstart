@@ -43,6 +43,7 @@ The website is going through a big update. I'm not teaching this semester.
 </p>
 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
+[Probability Recommended](http://math.iisc.ac.in/~manju/suggestedreading.html)  
 
 # About 
 
