@@ -44,6 +44,7 @@ The website is going through a big update. I'm not teaching this semester.
 
 [arXiv Probability Preprints](https://arxiv.org/list/math.PR/recent)  
 [Probability Recommended](http://math.iisc.ac.in/~manju/suggestedreading.html)  
+[Gaussian Processes](http://www.gaussianprocess.org/)
 
 # About 
 
