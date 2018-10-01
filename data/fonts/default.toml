@@ -6,7 +6,7 @@ google_fonts = "Montserrat:400,700|PT+Sans:400,400italic,700|Alegreya:400,400ita
 
 # Font families
 heading_font = "Raleway"
-body_font = "Nunito"
+body_font = "Georgia"
 nav_font = "Nunito"
 mono_font = "Nunito"
 
