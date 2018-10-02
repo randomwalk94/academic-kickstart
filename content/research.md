@@ -118,4 +118,5 @@ These include conference notes, research notes, or any significant notes that I 
 **Topic (Blog Post)** | **Category** | **PDF (if available)**
 --- | --- | ---
 [A seemingly innocent conjecture](/post/innocent_conjecture)  |math.CO, math.PR| Download
-[Random Media Summer School at Colorado State](/post/random_media_csu) |math.AP, math.PR | Download
+[Random Media Summer School at Colorado State](/post/random_media_csu) |math.AP, math.PR | Download  
+[Gaussian Correlation Inequality](https://arxiv.org/pdf/1512.08776.pdf) |math.PR | Download
