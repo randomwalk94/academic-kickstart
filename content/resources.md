@@ -58,4 +58,5 @@ Visual Studio Code
 [Where did the quote come from?](https://quoteinvestigator.com/)  
 [Way to Mathematical Writing](http://tex.loria.fr/typographie/mathwriting.pdf)  
 [Linear Thinking in a Nonlinear World](https://hbr.org/2017/05/linear-thinking-in-a-nonlinear-world)  
+[The Long Game Part 2: the missing chapter](https://vimeo.com/channels/staffpicks/87448006)  
  
