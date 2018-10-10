@@ -29,3 +29,5 @@ It is often easier to show that a process that is the limit of s sequence of pro
 
 2\. The process $\langle x\rangle$ is the _quadratic variation_ of $x(\cdot)$ if it is the _unique continuous nondecreasing process_ adapted to $\mathcal{F}\_t$ and that $x^2(\cdot)-\langle x\rangle$ is an $\mathcal{F}\_t$-martingale. Precisely,
 `\[\sum[x(t^n_{i+1})-x(t^n_i)]^2 \to \langle x\rangle(t)\;\;\text{in probability.} \]`
+For two processes $x\_1(\cdot)$ and $x\_2(\cdot)$, $\langle x_1,x_2\rangle(t)$ is called the _quadratic covariation_ such that 
+`\[x_1(\cdot)x_2(\cdot)-\langle x_1,x_2\rangle (\cdot)\;\;\text{is a martingale.} \]`
