@@ -18,5 +18,6 @@ draft = false
 [Workshop On Mathematical Models for Pattern Formation](https://registration.mcs.cmu.edu/event/3/)| March 8-10, 2019| CMU  
 [Virginia Integrable Probability Summer School](http://frg.int-prob.org/)| May-June 2019| Virginia  
 [Workshop on the Theory and Applications of Stochastic Partial Differential Equations](http://www.fields.utoronto.ca/activities/18-19/SPDEs)| June 10 - 14, 2019| Fields Institute  
+[SPA 2019](http://sites.math.northwestern.edu/SPA2019/SPA2019.html)| July 8-12, 2019| Northwestern
 
 

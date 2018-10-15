@@ -31,3 +31,5 @@ It is often easier to show that a process that is the limit of s sequence of pro
 `\[\sum[x(t^n_{i+1})-x(t^n_i)]^2 \to \langle x\rangle(t)\;\;\text{in probability.} \]`
 For two processes $x\_1(\cdot)$ and $x\_2(\cdot)$, $\langle x_1,x_2\rangle(t)$ is called the _quadratic covariation_ such that 
 `\[x_1(\cdot)x_2(\cdot)-\langle x_1,x_2\rangle (\cdot)\;\;\text{is a martingale.} \]`
+
+3\. Stochastic integral $\int\_{0}^t\phi(u)dw(u)$ for $\phi$ such that
