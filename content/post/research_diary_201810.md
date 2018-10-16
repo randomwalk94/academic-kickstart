@@ -33,3 +33,9 @@ For two processes $x\_1(\cdot)$ and $x\_2(\cdot)$, $\langle x_1,x_2\rangle(t)$ i
 `\[x_1(\cdot)x_2(\cdot)-\langle x_1,x_2\rangle (\cdot)\;\;\text{is a martingale.} \]`
 
 3\. Stochastic integral $\int\_{0}^t\phi(u)dw(u)$ for $\phi$ such that
+
+## Monday-October 15-2018  
+
+1\. Regularity structures/paracontrolled gets you the convergence. What we want to do is qualitative measure of the convergence (fluctuation etc.)  
+
+2\. In higher dimension of heat equation, we would rather get Gaussian fluctuation rather than Tracy Widom fluctuation. 
