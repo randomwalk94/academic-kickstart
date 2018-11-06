@@ -38,6 +38,9 @@ The website is going through a big update. I'm not teaching this semester.
 
 "No betting system can convert a subfair game into a profitable enterprise..." — Probability and Measure (second edition, page 94) by Patrick Billingsley.  
 
+“People who wish to analyze nature without using mathematics must settle for a reduced understanding.”
+— Richard P. Feynman  
+
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
