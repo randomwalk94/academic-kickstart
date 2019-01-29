@@ -7,7 +7,7 @@ draft = false
 
 +++
 
-My advisors are [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interests cover topics in partial differential equations and probability, stochastic PDE, etc.
+My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interests cover topics in partial differential equations and probability, stochastic PDE, etc.
 
 ### Research diary 
 
