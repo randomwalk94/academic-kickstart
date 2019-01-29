@@ -13,9 +13,7 @@ weight = 5
   interests = [
     "Partial Differential Equations",
     "Probability",
-    "Random Matrices",
-    "Stochastic Processes",
-    "KPZ Equation"
+    "Stochastic PDE"
   ]
 
 # List your qualifications (such as academic degrees).
