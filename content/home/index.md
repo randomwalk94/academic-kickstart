@@ -37,6 +37,8 @@ weight = 5
 “People who wish to analyze nature without using mathematics must settle for a reduced understanding.”
 — Richard P. Feynman  
 
+At one point, I wanted to know how [Black-Scholes formula](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model) is used in practice. The bottom line is that B-S formula is in some sense, "BS" (many of the assumptions are too hopeful); however, it does provide an estimate for the true prices. [Read more](https://www.quora.com/Is-the-Black-Scholes-formula-just-plain-wrong-It-seems-to-me-that-we-are-forming-a-model-to-fit-the-market-data-It-seems-more-like-data-fitting-Any-thoughts)  
+
 <p class="read-more" itemprop="mainEntityOfPage">
     <a href = "/files/CV_HaiLe.pdf" target = "_self" class="btn btn-primary btn-outline">
       CURRICULUM VITAE
