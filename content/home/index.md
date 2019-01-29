@@ -30,8 +30,6 @@ weight = 5
 +++
 # News
 
-The website is going through a big update. I'm not teaching this semester.
-
 "Sarcasm is the lowest form of wit but the highest form of intelligence" - Oscar Wilde.  
 
 "No betting system can convert a subfair game into a profitable enterprise..." — Probability and Measure (second edition, page 94) by Patrick Billingsley.  
