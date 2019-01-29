@@ -63,7 +63,5 @@ Favorite quote by [Paul Erdős](https://en.wikipedia.org/wiki/Paul_Erd%C5%91s) a
 
 <marquee>Just want to have something that moves.</marquee>
 
-Dương bị khùng
-
-
+Dương bị khùng $a^2+b^2=c^2$
 
