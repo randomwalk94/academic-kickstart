@@ -9,7 +9,7 @@ draft = false
 
 My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interests cover topics in partial differential equations and probability, stochastic PDE, etc. 
 
-At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise.  
+At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise. Some early works were done by Freidlin, Wentzell, Papanicolaou, etc.
 
 ### Research diary 
 
