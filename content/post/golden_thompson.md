@@ -5,7 +5,7 @@ date = 2019-02-05
 draft = false
 
 tags = ["linear algebra", "statistical physics"]
-summary = "Some notes for arguably the most powerful trace inequality $\text{tr}\exp(A+B)\le \text{tr} \exp(A)\exp(B)$."
+summary = "Some notes for arguably the most powerful trace inequality $\\text{tr}\\exp(A+B)\\le \\text{tr} \\exp(A)\\exp(B)$"
 
 [header]
 image = ""
