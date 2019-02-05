@@ -42,7 +42,7 @@ These include conference notes, research notes, or any significant notes that I 
 (these are shorter notes on less specific topics, sometimes a quick proof, sometimes outside of my main research line or even in other subjects)  
 
 **Topic (Blog Post)** | **PDF (if available)**
---- | --- | ---
+--- | ---
 [A seemingly innocent conjecture](/post/innocent_conjecture) | Download
 [Random Media Summer School at Colorado State](/post/random_media_csu) | Download  
 [Gaussian Correlation Inequality](https://arxiv.org/pdf/1512.08776.pdf) | Download
