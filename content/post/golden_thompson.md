@@ -13,6 +13,10 @@ caption = ""
 
 +++
 
+<figure>
+<img src="/img/math/20190205_trace.png" width="300">
+<figcaption>"Trace"</figcaption>
+</figure>
 The Golden-Thompson trace inequality states that for any two Hermitian matrices $A$ and $B$ we have
 `\[ \text{tr}\exp(A+B)\le \text{tr} \exp(A)\exp(B).\]`
 Equality holds when $A$ and $B$ commutte; in fact, this is the only case equality occurs.  
