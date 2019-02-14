@@ -18,4 +18,4 @@ I wrote a little guide for my website: [Navigation](/post/navigation).
 --- | ---
 May 25, 2018| [The Joy of Reunion](/post/blog_2018_05_25)
 May 16, 2018| [The Benefits of Writing Whatever](/post/blog_2018_05_16)
-May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10) 
+May 10, 2018 | [Basically Homeless](/post/blog_2018_05_10)
