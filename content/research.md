@@ -7,17 +7,19 @@ draft = false
 
 +++
 
-My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interests cover topics in partial differential equations and probability, stochastic PDE, etc. 
+My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interests cover topics in partial differential equations and probability, stochastic PDE, etc.
 
-At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise. Some early works were done by Freidlin, Wentzell, Papanicolaou, etc.
+At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise. Some early works were done by Freidlin, Wentzell, Papanicolaou, etc.  
 
-### Research diary 
+I'm also starting to learn about [trading](https://www.investopedia.com/trading-4427765) and [poker](https://en.wikipedia.org/wiki/Poker) more seriously (like in a systematic way). These two subjects share many features and strategies that can be applied to one another. I recommend the book [The New Market Wizards: Conversations with America's Top Traders](https://en.wikipedia.org/wiki/The_New_Market_Wizards) by [Jack D. Schwager](https://en.wikipedia.org/wiki/Jack_D._Schwager) and the interview with [Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) to see the intertwined relationship between them.  
+
+### Research diary
 
 <div class="accordion">
 <div class="accordion-section">
 <a class="accordion-section-title" href="#researchdiary">&#8801; List</a>
 <div id="researchdiary" class="accordion-section-content">
-<h3>2018</h3> 
+<h3>2018</h3>
 <div><a href="/post/research_diary_201806">June</a>, <a href="/post/research_diary_201807">July</a>, <a href="/post/research_diary_201808">August</a>, <a href="/post/research_diary_201810">October</a><br /></div>
 
 </div><!--end .accordion-section-content-->
@@ -31,11 +33,11 @@ These include conference notes, research notes, or any significant notes that I 
 **Topic (Blog Post)** | **PDF (if available)**
 --- | ---
 [Schramm–Loewner Evolution](/post/schramm_loewner) | Download
-[KPZ Equation and Related Topics](/post/kpz_world) | Download 
+[KPZ Equation and Related Topics](/post/kpz_world) | Download
 [IPAM 2018 (Random Matrices) - Conference Notes](/post/ipam2018_rmt) | Download
 [Free Probability ](/post/free_probability) | Download
-[Stochastic Analysis](/post/stochastic_analysis) | Download 
-[Malliavin-Stein approach - Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)   | Download 
+[Stochastic Analysis](/post/stochastic_analysis) | Download
+[Malliavin-Stein approach - Ivan Nourdin](https://sites.google.com/site/malliavinstein/home)   | Download
 
 
 ### Random Notes
