@@ -11,7 +11,7 @@ My advisor is [Alexei Novikov](https://www.math.psu.edu/~anovikov/). My interest
 
 At the moment, I investigate the long time behavior of a Hamiltonian system driven by slowly decorrelating noise. Some early works were done by Freidlin, Wentzell, Papanicolaou, etc.  
 
-I'm also starting to learn about [trading](https://www.investopedia.com/trading-4427765) and [poker](https://en.wikipedia.org/wiki/Poker) more seriously (like in a systematic way). These two subjects share many features and strategies that can be applied to one another. I recommend the book [The New Market Wizards: Conversations with America's Top Traders](https://en.wikipedia.org/wiki/The_New_Market_Wizards) by [Jack D. Schwager](https://en.wikipedia.org/wiki/Jack_D._Schwager) and the interview with [Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) to see the intertwined relationship between them.  
+I'm also starting to learn about [trading](https://www.investopedia.com/trading-4427765) and [poker](https://en.wikipedia.org/wiki/Poker) more seriously (like in a systematic way). These two subjects share many features and strategies that can be applied to one another. I recommend the book [_The New Market Wizards: Conversations with America's Top Traders_](https://en.wikipedia.org/wiki/The_New_Market_Wizards) by [Jack D. Schwager](https://en.wikipedia.org/wiki/Jack_D._Schwager) and the interview with [Jeff Yass](https://en.wikipedia.org/wiki/Jeff_Yass) to see the intertwined relationship between them.  
 
 ### Research diary
 
