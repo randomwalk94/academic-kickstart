@@ -51,6 +51,9 @@ White noise is a sound with equal intensity at all frequencies within a broad ba
 
 ## Ito calculus
 
+### The characteristic function for a diffusion
+
+How to obtain the the characteristic function for a diffusion without solving the SDE: [notes](http://stat.math.uregina.ca/~kozdron/Teaching/Regina/441Fall14/Notes/L33-34-Nov24.pdf).
 ### Burkholder–Davis–Gundy inequalities
 
 ### Girsanov theorem
