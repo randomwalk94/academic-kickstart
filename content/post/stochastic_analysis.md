@@ -49,6 +49,8 @@ White noise is a sound with equal intensity at all frequencies within a broad ba
 
 ### Ornstein–Uhlenbeck process
 
+The O-U process as a model for volatility: [notes](http://stat.math.uregina.ca/~kozdron/Teaching/Regina/441Fall14/Notes/L31-32-Nov19.pdf).
+
 ## Ito calculus
 
 ### The characteristic function for a diffusion
