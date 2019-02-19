@@ -22,12 +22,12 @@
     
     <p>
       {{ if .PrevInSection }}
-        <span style="text-align:left"><a href="{{.PrevInSection.Permalink}}" style="font-size:15px;font-family:Nunito;"><i>&leftarrow;{{.PrevInSection.Title}}</i></a></span> 
+        <span style="text-align:left"><a href="{{.PrevInSection.Permalink}}" style="font-size:15px;font-family:Nunito;"><i>&leftarrow; {{.PrevInSection.Title}}</i></a></span> 
       {{ else}}
         <span>	&nbsp;</span>  
       {{ end }}
       {{ if .NextInSection }}
-        <span style="float:right"><a href="{{.NextInSection.Permalink}}"  style="font-size:15px;font-family:Nunito;"><i>{{.NextInSection.Title}}&rightarrow;</i></a></span>
+        <span style="float:right"><a href="{{.NextInSection.Permalink}}"  style="font-size:15px;font-family:Nunito;"><i>{{.NextInSection.Title}} &rightarrow;</i></a></span>
       {{ end }} 
     </p>
     <span>	&nbsp;</span>  
