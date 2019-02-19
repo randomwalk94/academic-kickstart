@@ -37,7 +37,7 @@ Visual Studio Code
 ### Machine Learning Websites
 
 [Data Visualization with Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
-
+[Altair: Declarative Visualization in Python](https://altair-viz.github.io/)  
 
 ### Academic Websites
 
