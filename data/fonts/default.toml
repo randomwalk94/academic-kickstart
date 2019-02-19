@@ -6,10 +6,10 @@ google_fonts = "Montserrat:400,700|PT+Sans:400,400italic,700|Alegreya:400,400ita
 
 # Font families
 heading_font = "Raleway"
-body_font = "Arial"
+body_font = "Lusitana"
 nav_font = "Nunito"
 mono_font = "Nunito"
 
 # Font size
-font_size = "16"
+font_size = "18"
 font_size_small = "16"
