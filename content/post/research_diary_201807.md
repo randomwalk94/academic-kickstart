@@ -49,7 +49,7 @@ $$
 
 Hence, KPZ is not $1:2:4$ invariant. However, it is believed that (two-sided) Brownian motion is still invariant under KPZ (but no proof) (reference: [Funaki-Quastel](https://arxiv.org/pdf/1407.7310.pdf).) 
 
-Performing dynamic scaling $$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}t,\varepsilon^{-1}x)$$, we obtain
+Performing dynamic scaling $h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}t,\varepsilon^{-1}x)$, we obtain
 
 $$
 \partial_t h^{\varepsilon} = \varepsilon^{3/2-z}(\partial_xh^{\varepsilon})^{2}+\varepsilon^{2-z}\partial_x^2h^{\varepsilon}+\varepsilon^{(2-z)/2}\xi.
@@ -65,4 +65,4 @@ where $\xi\_k$'s are white noise. In the paper, established One Force One Soluti
 
 6\. Hyperbolicity. Busemenn function.  
 
-7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(\omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
+7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $(\Omega,\mathcal{F},\mathbb P)$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(\omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
