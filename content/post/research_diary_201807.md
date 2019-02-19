@@ -24,9 +24,17 @@ Performing $1:2:4$ scaling converges to Edward-Wilkinson fixed point. Connecting
 The weak conjecture is "techincally solved" by using regularity structures (or by Gubinelli's paracontrolled method) since we now know what it means to be a solution to KPZ and what is close to be a solution. What remains to be proved will be done in the next five years.  
 
 2\. KPZ equation
-`\[\partial_th = \alpha(\partial_x h)^2 + \partial_x^2h+\xi. \] `
+
+$$
+\partial_th = \alpha(\partial_x h)^2 + \partial_x^2h+\xi.
+$$
+
 For general non-linear growth term $F(\partial_xh)$ (this makes sense as this does not depend on time and only cares about what surface it is standing on), using Taylor expansion, we get that
-`\[F(t)=F(0) + tF'(0)+\frac{t^2}{2}F''(0)+\ldots. \]`
+
+$$
+F(t)=F(0) + tF'(0)+\frac{t^2}{2}F''(0)+\ldots.
+$$
+
 The first two terms can be ignored by affine transformation. Hence, the most significant term is of second-order.  
 
 3\. If $F$ has two equal and stable wells ($\alpha=0$), we will get Edwards-Wilkerson equation (commonly known as OU process or _additive stochastic heat equation_, but should not be called like that). 
