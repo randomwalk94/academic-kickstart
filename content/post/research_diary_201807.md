@@ -41,12 +41,20 @@ The first two terms can be ignored by affine transformation. Hence, the most sig
 ` \[ \partial_th = \partial_x^2h +\xi\]`
 which makes sense in every dimension (but only in $1+1$ dimension, the solution is function-valued). Solution is of the form $\text{Brownian motion }+px$; hence, it is $1/2$-space and $1/4$-time (proven by Kolmogorov criteria, two-point regularity induces regularity on the process). This equation is $1:2:4$ scaling invariant.  
 
-Performing $1:2:4$ scaling, `$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-2}t,\varepsilon^{-1}x)$`, on KPZ gives 
-`\[\partial_t h^{\varepsilon} = \frac{1}{\varepsilon^{1/2}}(\partial_xh^{\varepsilon})^{2}+\partial_x^2h^{\varepsilon}+\xi. \]`
+Performing $1:2:4$ scaling, $$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-2}t,\varepsilon^{-1}x)$$, on KPZ gives 
+
+$$
+\partial_t h^{\varepsilon} = \frac{1}{\varepsilon^{1/2}}(\partial_xh^{\varepsilon})^{2}+\partial_x^2h^{\varepsilon}+\xi.
+$$
+
 Hence, KPZ is not $1:2:4$ invariant. However, it is believed that (two-sided) Brownian motion is still invariant under KPZ (but no proof) (reference: [Funaki-Quastel](https://arxiv.org/pdf/1407.7310.pdf).) 
 
-Performing dynamic scaling `$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}t,\varepsilon^{-1}x)$`, we obtain
-`\[\partial_t h^{\varepsilon} = \varepsilon^{3/2-z}(\partial_xh^{\varepsilon})^{2}+\varepsilon^{2-z}\partial_x^2h^{\varepsilon}+\varepsilon^{(2-z)/2}\xi.\]`
+Performing dynamic scaling $$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-z}t,\varepsilon^{-1}x)$$, we obtain
+
+$$
+\partial_t h^{\varepsilon} = \varepsilon^{3/2-z}(\partial_xh^{\varepsilon})^{2}+\varepsilon^{2-z}\partial_x^2h^{\varepsilon}+\varepsilon^{(2-z)/2}\xi.
+$$
+
 Hence, setting $z=3/2$ gives non-trivial limit.  
 
 4\. Fluid dynamics viscosity plays a role of statistical mechanics temperature.  
