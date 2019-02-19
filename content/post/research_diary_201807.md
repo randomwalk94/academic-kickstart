@@ -41,7 +41,7 @@ The first two terms can be ignored by affine transformation. Hence, the most sig
 ` \[ \partial_th = \partial_x^2h +\xi\]`
 which makes sense in every dimension (but only in $1+1$ dimension, the solution is function-valued). Solution is of the form $\text{Brownian motion }+px$; hence, it is $1/2$-space and $1/4$-time (proven by Kolmogorov criteria, two-point regularity induces regularity on the process). This equation is $1:2:4$ scaling invariant.  
 
-Performing $1:2:4$ scaling, $$h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-2}t,\varepsilon^{-1}x)$$, on KPZ gives 
+Performing $1:2:4$ scaling, $h^{\varepsilon}=\varepsilon^{1/2}h(\varepsilon^{-2}t,\varepsilon^{-1}x)$, on KPZ gives 
 
 $$
 \partial_t h^{\varepsilon} = \frac{1}{\varepsilon^{1/2}}(\partial_xh^{\varepsilon})^{2}+\partial_x^2h^{\varepsilon}+\xi.
@@ -65,4 +65,4 @@ where $\xi\_k$'s are white noise. In the paper, established One Force One Soluti
 
 6\. Hyperbolicity. Busemenn function.  
 
-7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X\_n)\_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(\omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
+7\. (Subadditive ET) If $\theta$ is an ergodic transformation of $\Omega,\mathcal{F},\mathbb P$ and $(X_n)_{n\in \mathbb N}$ are $L^1$ random variables such that $X\_{n+m}(\omega)\le X\_n(\omega)+X\_m(\theta^n\omega)$. Let $\alpha=\inf \mathbb E X\_n/n$, then almost surely $X\_n/n\to \alpha$.
