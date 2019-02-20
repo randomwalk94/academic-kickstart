@@ -36,7 +36,7 @@ Visual Studio Code
 
 ### Machine Learning Websites
 
-[Important Papers in Deep Learning](/post/deep_learning_papers)
+[Important Papers in Deep Learning](/post/deep_learning_papers)  
 [Data Visualization with Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)  
 [Altair: Declarative Visualization in Python](https://altair-viz.github.io/)  
 [Sebastian Ruder](Sebastian Ruder)  
