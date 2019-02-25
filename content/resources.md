@@ -46,6 +46,7 @@ Visual Studio Code
 
 ### Algorithmic Trading 
 [Python for Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)  
+[Quantopian](https://www.quantopian.com/lectures)  
 
 ### Academic Websites
 
