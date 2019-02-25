@@ -44,6 +44,7 @@ Visual Studio Code
 ### Coding Websites
 [10 Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)  
 [Youtube - Python for Finance](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcOdF96TBtRtuQksErCEBYZ)  
+[Financial Modelling - ECON 136 Harvey Mudd College](https://www.palmislandtraders.com/econ136/e136lit.htm)  
 
 ### Algorithmic Trading 
 [Python for Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)  
