@@ -44,6 +44,9 @@ Visual Studio Code
 ### Coding Websites
 [10 Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)  
 
+### Algorithmic Trading 
+[Python for Finance: Algorithmic Trading](https://www.datacamp.com/community/tutorials/finance-python-trading)  
+
 ### Academic Websites
 
 [NSF Math Grants](https://www.nsf.gov/awards/award_visualization.jsp?org=DMS)  
