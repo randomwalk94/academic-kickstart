@@ -41,6 +41,9 @@ Visual Studio Code
 [Altair: Declarative Visualization in Python](https://altair-viz.github.io/)  
 [Sebastian Ruder](Sebastian Ruder)  
 
+### Coding Websites
+[10 Coding Challenge Websites](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)  
+
 ### Academic Websites
 
 [NSF Math Grants](https://www.nsf.gov/awards/award_visualization.jsp?org=DMS)  
