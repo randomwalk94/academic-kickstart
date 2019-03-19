@@ -51,6 +51,9 @@ White noise is a sound with equal intensity at all frequencies within a broad ba
 
 The O-U process as a model for volatility: [notes](http://stat.math.uregina.ca/~kozdron/Teaching/Regina/441Fall14/Notes/L31-32-Nov19.pdf).
 
+The O-U process is the solution to the following SDE
+`\[dX_t = -X_tdt+\sqrt{2}dB_t. \] `
+
 ## Ito calculus
 
 ### The characteristic function for a diffusion
