@@ -28,7 +28,7 @@ weight = 5
   year = ""
  
 +++
-# News
+# Feed
 
 "Sarcasm is the lowest form of wit but the highest form of intelligence" - Oscar Wilde.  
 
