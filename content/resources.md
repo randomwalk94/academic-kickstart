@@ -86,4 +86,5 @@ Visual Studio Code
 [Machine Learning Mastery](https://machinelearningmastery.com/self-study-machine-learning-projects/)  
 [US Government Public Dataset](https://www.data.gov/)  
 [25 Open Source ML repos](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)  
-[ML projects for beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)  
+[ML Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)  
+[Quora Interesting ML Projects for Beginners](https://www.quora.com/What-are-some-really-interesting-machine-learning-projects-for-beginners)  
