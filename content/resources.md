@@ -88,3 +88,4 @@ Visual Studio Code
 [25 Open Source ML repos](https://heartbeat.fritz.ai/25-open-source-machine-learning-repos-to-inspire-your-next-project-3b027a90155)  
 [ML Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)  
 [Quora Interesting ML Projects for Beginners](https://www.quora.com/What-are-some-really-interesting-machine-learning-projects-for-beginners)  
+[CognitiveClass.ai](https://cognitiveclass.ai/) and [MLCB post](https://forum.machinelearningcoban.com/t/bat-dau-voi-bigdata-nhu-the-nao/55)  
