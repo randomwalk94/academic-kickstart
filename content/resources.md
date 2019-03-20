@@ -79,4 +79,8 @@ Visual Studio Code
 [The Long Game Part 2: the missing chapter](https://vimeo.com/channels/staffpicks/87448006)  
 
 ### Vietnamese Websites
-[Làm thế nào để luôn cập nhật kiến thức trong lĩnh vực Machine Learning?](https://viblo.asia/p/question-lam-the-nao-de-luon-cap-nhat-kien-thuc-trong-linh-vuc-machine-learning-maGK7mBxlj2)  
+[Làm thế nào để luôn cập nhật kiến thức trong lĩnh vực Machine Learning?](https://viblo.asia/p/question-lam-the-nao-de-luon-cap-nhat-kien-thuc-trong-linh-vuc-machine-learning-maGK7mBxlj2) 
+
+### Coding Preparation
+[Summer of Code](https://summerofcode.withgoogle.com/)  
+
