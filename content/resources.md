@@ -89,5 +89,6 @@ Visual Studio Code
 [ML Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)  
 [Quora Interesting ML Projects for Beginners](https://www.quora.com/What-are-some-really-interesting-machine-learning-projects-for-beginners)  
 [CognitiveClass.ai](https://cognitiveclass.ai/) and [MLCB post](https://forum.machinelearningcoban.com/t/bat-dau-voi-bigdata-nhu-the-nao/55)  
-[Edwin Chen](http://blog.echen.me/2017/05/30/exploring-lstms/)
+[Edwin Chen](http://blog.echen.me/2017/05/30/exploring-lstms/)  
+[freecodecamp](https://learn.freecodecamp.org/)  
 
