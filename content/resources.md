@@ -83,4 +83,5 @@ Visual Studio Code
 
 ### Coding Preparation
 [Summer of Code](https://summerofcode.withgoogle.com/)  
+[Machine Learning Mastery](https://machinelearningmastery.com/self-study-machine-learning-projects/)  
 
